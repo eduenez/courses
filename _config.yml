@@ -1,0 +1,21 @@
+title: Courses — Eduardo Dueñez
+description: Course sites, UTSA Department of Mathematics
+author: Eduardo Dueñez
+baseurl: '/courses'
+url: 'https://eduenez.github.io'
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+enable_math: true
+math:
+  provider: mathjax
+
+exclude: [Gemfile, Gemfile.lock, vendor, .jekyll-cache, .bundle]
+
+liquid:
+  error_mode: strict
+  strict_filters: true

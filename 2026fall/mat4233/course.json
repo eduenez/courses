@@ -1,0 +1,427 @@
+{
+  "schema_version": 1,
+  "institution": {
+    "name": "The University of Texas at San Antonio",
+    "short_name": "UT San Antonio",
+    "common_syllabus_url": "https://provost.utsa.edu/syllabus.html"
+  },
+  "ombudsperson": {
+    "name": "Ilse Rosales Martinez",
+    "email": "ilse.rosalesmartinez@utsa.edu"
+  },
+  "boilerplate": [
+    {
+      "id": "ombudsperson",
+      "title": "Ombudsperson",
+      "body": "The ombudsperson is an advocate who investigates complaints about a\nspecific section or instructor and attempts to resolve them through\nmediation. Comments or complaints sent to this person will be brought to\nthe attention of department leadership, who will follow up. If you have\nquestions about the logistics of your class, please contact the\ninstructor.\n\nContact Ilse Rosales Martinez at <ilse.rosalesmartinez@utsa.edu>."
+    },
+    {
+      "id": "recording",
+      "title": "Video and Audio Recording",
+      "body": "As the instructor of this course, I may record meetings and lessons. You\nare expected to follow appropriate University policies and maintain the\nsecurity of passwords used to access recorded lectures. Recordings may not\nbe published, reproduced, or shared with those not in the class. If the\ninstructor or a UTSA office plans any other uses for the recordings,\nconsent of the students identifiable in the recordings is required before\nsuch use unless an exception is allowed by law.\n"
+    },
+    {
+      "id": "syllabus_changes",
+      "title": "Syllabus Changes",
+      "body": "The syllabus is subject to change at the instructor's discretion. Any\nchanges or corrections to the course materials, assignment dates, or other\nupdates will be communicated to students ahead of time. You are\nresponsible for checking Canvas for corrections or updates to the\nsyllabus.\n"
+    },
+    {
+      "id": "essential",
+      "title": "Essential Student Information",
+      "body": "- **Important:** Bookmark and visit the [Common Syllabus Information\n  webpage](https://provost.utsa.edu/syllabus.html) for resources about\n  counseling services, transitory/minor medical issues, supplemental\n  instruction, tutoring services, academic success coaching, sexual\n  harassment and sexual misconduct, campus safety and emergency\n  preparedness, and the Roadrunner Creed.\n- For technical requirements, support, and resources, visit [Academic\n  Innovation's Student Technical Support\n  page](https://odl.utsa.edu/support/technical-support/).\n- UT San Antonio provides reasonable accommodations to students via\n  [Student Disability Services](http://www.utsa.edu/disability), or call\n  (210) 458-4157.\n- Your well-being is important. Support, including [24/7 mental health\n  services](https://www.utsa.edu/students/wellbeing/assistance/), can be\n  accessed from the [Well-being at UT San\n  Antonio](https://www.utsa.edu/students/wellbeing/) site.\n- [Student Assistance Services](https://www.utsa.edu/students/advocacy/assistance/)\n  offers confidential support and personalized guidance.\n- The [Roadrunner Pantry](https://www.utsa.edu/students/advocacy/pantry/)\n  provides free access to groceries, toiletries, and other essentials.\n- Students are responsible for ensuring their work is consistent with\n  UTSA's standards for academic integrity. Review [Section 203 of the\n  Student Code of\n  Conduct](https://catalog.utsa.edu/policies/administrativepoliciesandprocedures/studentcodeofconduct/).\n- Visit [UT San Antonio Libraries and Museums](https://lib.utsa.edu/) for\n  journals, research tutorials, and your department's librarian."
+    }
+  ],
+  "instructor": {
+    "name": "Eduardo Dueñez",
+    "title": "Associate Professor of Mathematics",
+    "department": "Mathematics",
+    "office": "FLN 4.01.11",
+    "email": "eduardo.duenez@utsa.edu",
+    "bio_link": "about_me.md",
+    "student_hours": "TBD"
+  },
+  "term": {
+    "id": "2026fall",
+    "name": "Fall 2026",
+    "start": "2026-08-19",
+    "end": "2026-12-03",
+    "midterm_grades_due": "2026-10-07",
+    "closures": [
+      {
+        "name": "Labor Day",
+        "date": "2026-09-07"
+      },
+      {
+        "name": "Fall Break",
+        "from": "2026-10-12",
+        "to": "2026-10-13"
+      },
+      {
+        "name": "Thanksgiving",
+        "from": "2026-11-25",
+        "to": "2026-11-27"
+      }
+    ]
+  },
+  "id": "mat4233-2026fall",
+  "course": {
+    "subject": "MAT",
+    "number": "4233",
+    "title": "Modern Abstract Algebra",
+    "section": "001",
+    "credit_hours": 3,
+    "level": "undergraduate",
+    "catalog_url": "https://catalog.utsa.edu/search/?P=MAT%204233",
+    "Catalog_description": "Basic properties and examples of semigroups, monoids, and groups, detailed study of permutation, dihedral, and congruence groups, cyclic groups, normal subgroups, quotient groups, homomorphism, isomorphism theorems, direct products of groups, rings and fields and their basic properties, ideals, polynomial rings.",
+    "prerequisites": "MAT 3233 Modern Algebra or equivalent"
+  },
+  "meetings": {
+    "modality": "Traditional in-person",
+    "campus": "Main Campus",
+    "location": "MS 2.02.12",
+    "days": [
+      "Tue",
+      "Thu"
+    ],
+    "time": "2:30 PM–3:45 PM"
+  },
+  "objectives": [
+    "Define the notions of group, cyclic group, subgroup, normal subgroup, homomorphism, isomorphism.",
+    "Define symmetric and permutation groups; determine the cycle decomposition and parity of finite permutations.",
+    "Define the notions of ring, subring, domain, field, ideal, homomorphism, isomorphism.",
+    "Define rings of polynomials over a field, the notion of degree, and irreducible factors.",
+    "Explain the abstract algebraic properties of various rings and number systems including ℤ, ℚ, ℝ, ℂ, ℍ, modular rings ℤ/nℤ, finite fields 𝔽ₚ and polynomial rings 𝔽[x].",
+    "Explain the common and specific aspects of the division and Euclidean algorithms in the rings ℤ of integers, ℤ[i] of Gaussian integers, and polynomial rings 𝔽[x].",
+    "Show that every Euclidean domain is a Unique Factorization Domain.",
+    "Use properties of Gaussian primes and factorization in ℤ[i] to characterize sums of pairs of perfect squares.",
+    "Communicate concepts in writing and debate technical arguments orally.",
+    "Use a computer algebra system to for numerical and visual explorations in algebraic structures (e.g., the RSA cryptosystem and geometric transformation groups)."
+  ],
+  "materials": {
+    "required": [
+      {
+        "authors": "Jürg Kramer and Anna-Maria von Pippich",
+        "title": "From Natural Numbers to Quaternions",
+        "publisher": "Springer",
+        "series": "Springer Undergraduate Mathematics Series",
+        "year": 2017,
+        "isbn": "978-3-319-69427-6",
+        "url": "https://doi.org/10.1007/978-3-319-69429-0",
+        "note": "Free to UTSA students through SpringerLink."
+      }
+    ],
+    "reference": [
+      {
+        "authors": "Keith Conrad",
+        "title": "The Gaussian Integers",
+        "url": "https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf",
+        "note": "Free handout; assigned reading for the final segment."
+      }
+    ]
+  },
+  "assessment": {
+    "components": [
+      {
+        "name": "Q&A sessions",
+        "weight": 40,
+        "detail": "5 sessions, 8% each"
+      },
+      {
+        "name": "Problem sets",
+        "weight": 15,
+        "detail": "5 sets, 3% each"
+      },
+      {
+        "name": "Midterm Exam 1",
+        "weight": 20,
+        "detail": "Thu 1 Oct in class"
+      },
+      {
+        "name": "Midterm Exam 2",
+        "weight": 25,
+        "detail": "Thu 3 Dec in class"
+      }
+    ],
+    "scale": [
+      {
+        "grade": "A",
+        "low": 90,
+        "high": 100
+      },
+      {
+        "grade": "A-",
+        "low": 85,
+        "high": 90
+      },
+      {
+        "grade": "B+",
+        "low": 80,
+        "high": 85
+      },
+      {
+        "grade": "B",
+        "low": 76,
+        "high": 80
+      },
+      {
+        "grade": "B-",
+        "low": 72,
+        "high": 76
+      },
+      {
+        "grade": "C+",
+        "low": 69,
+        "high": 72
+      },
+      {
+        "grade": "C",
+        "low": 65,
+        "high": 69
+      },
+      {
+        "grade": "C-",
+        "low": 60,
+        "high": 65
+      },
+      {
+        "grade": "D",
+        "low": 50,
+        "high": 60
+      },
+      {
+        "grade": "F",
+        "low": 0,
+        "high": 50
+      }
+    ],
+    "policies": [
+      {
+        "id": "defense",
+        "title": "Q&A sessions",
+        "body": "Five class meetings throughout the semester (roughly every\nother Thursday except when adjacent to an exam) will be *Q&A\nsessions* in which each student will be asked to explain and\ndefend their solution to a homework problem submitted as part\nof a written assignment. You will only be asked questions\nrelated to an assigned problem and about the solution you\nsubmitted.\n\nEach Q&A session is scored 0–3:\n\n- **3** Correct explanation to a correct solution, demonstrating\n  full understanding of the concepts and all aspects of the\n  solution submitted.\n- **2** A completely correct solution submitted is explained\n  to an incomplete degree;\n  **Or**: an unfinished solution, with a thorough and articulate\n  account of what you tried, explaining where and why you got stuck\n  while demonstrating knowledge of the background and reading\n  necessary to solve the problem.\n- **1** Correct solution inadequately explained revealing little or\n  no understanding; *or*: partial solution accompanied by an\n  incomplete but partly correct oral explanation.\n- **0** Nothing submitted; *or*: work submitted (even if fully correct)\n  is backed by no cogent explanation nor knowledge of concepts involved.\n\n> **A correct answer you cannot explain is worth less than an\n> explainable honest failure.**\n\n**Note:** A Q&A average ≤ 1.0 automatically caps the course grade\nto the level of ‘D’ (at most).\n"
+      },
+      {
+        "id": "problem_sets",
+        "title": "Problem sets",
+        "body": "Five sets, each with three or four theoretical problems plus one\nSageMath computer exploration. **Maximum three pages.** Do *not*\nsubmit code; include the relevant snippets and output as part of\nyour written submission. (SageMath problems are also included in Q&A.)\n\nEach item will be scored *only* based on the **degree of completion**\n(not on correctness):\n**2** for a nominally complete solution,\n**1** for a clearly partial one,\n**0** for nothing submitted or for obvious filler with no substance.\n\n*Note:* Any submission containing non-human-readable content, stray\ncharacters, or artifacts revealing non-proofread AI output scores 0\nfor that item.\n"
+      },
+      {
+        "id": "ai",
+        "title": "Use of Generative Artificial Intelligence",
+        "body": "**AI assistance is allowed in preparing work for submission**, as are\nany solution keys, collaboration, and internet sources.\nYou are ultimately responsible for your submissions;\nany part of your work that has clearly not been proofread\n(e.g., includes non-human readable characters or LLM artifacts)\nautomatically earns a zero grade.\n*Include one line noting what resources you used in your submission.*\n\nThis policy is by design, and it reflects how the course is graded:\n85% of the grade comes from Q&A sessions and in-class exams\nwhere only what is truly understood and can be explained counts.\nAssignments submitted but not written/understood by you result in\nfailing grades in Q&A sessions and exams. Use AI to learn faster\n—not to prepare and turn in papers you cannot defend, blocking you\nfrom passing exams as well.\n"
+      },
+      {
+        "id": "exams",
+        "title": "Exams",
+        "body": "Both exams are traditional in-class (written and closed book). Exams\nare based **primarily on the assigned problem sets** —expect some\ncontext and phrasing to differ from the homework, plus a minority of\nother unseen problems. Memorizing solutions will not result in good\nexam grades; preparing by understanding the assigned problems will\nmake the exams straightforward and earn high Q&A grades as well.\n"
+      },
+      {
+        "id": "attendance",
+        "title": "Attendance and missed work",
+        "body": "No extensions on problem sets. A *single* missed Q&A session in\nthe semester may be made up during office hours within seven days\n(no documentation is required). *No Q&A scores are dropped.*\n"
+      }
+    ]
+  },
+  "time_commitment": {
+    "total_hours_per_week": 9,
+    "minimum_hours_per_week": 7,
+    "breakdown": [
+      {
+        "activity": "Attend class meetings",
+        "hours": "3"
+      },
+      {
+        "activity": "Reading the assigned textbook sections",
+        "hours": "2–3"
+      },
+      {
+        "activity": "Problem sets and the Sage exploration",
+        "hours": "2–3"
+      },
+      {
+        "activity": "Office hours and study group",
+        "hours": "1"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "verbal_explanation",
+      "title": "Additional Course Information",
+      "body": "Each student should be intimately familiar with the contents of any work\nsubmitted for grading. The instructor has the right to request adequate\n**verbal explanation** of methodology and content for any submitted work.\nCredit will not be awarded when such an explanation is requested but not\nsatisfactorily provided.\n"
+    }
+  ],
+  "schedule": [
+    {
+      "date": "2026-08-20",
+      "kind": "lecture",
+      "topic": "Course launch; divisibility and the division algorithm",
+      "reading": "KvP §1.1–1.2"
+    },
+    {
+      "date": "2026-08-25",
+      "kind": "lecture",
+      "topic": "Primes, the Fundamental Theorem of Arithmetic, gcd and lcm",
+      "reading": "KvP §1.3–1.5"
+    },
+    {
+      "date": "2026-08-27",
+      "kind": "lecture",
+      "topic": "Semigroups, monoids, groups — all of them ℤ/nℤ",
+      "reading": "KvP §2.1"
+    },
+    {
+      "date": "2026-09-01",
+      "kind": "lecture",
+      "topic": "Subgroups; the unit group (ℤ/nℤ)*",
+      "reading": "KvP §2.2",
+      "due": "Problem Set 1"
+    },
+    {
+      "date": "2026-09-03",
+      "kind": "defense",
+      "topic": "Q&A session 1"
+    },
+    {
+      "date": "2026-09-08",
+      "kind": "lecture",
+      "topic": "Group homomorphisms; order of an element",
+      "reading": "KvP §2.3"
+    },
+    {
+      "date": "2026-09-10",
+      "kind": "lecture",
+      "topic": "Cyclic groups; primitive roots",
+      "reading": "KvP §2.3"
+    },
+    {
+      "date": "2026-09-15",
+      "kind": "lecture",
+      "topic": "Cosets and Lagrange's theorem",
+      "reading": "KvP §2.4",
+      "due": "Problem Set 2"
+    },
+    {
+      "date": "2026-09-17",
+      "kind": "defense",
+      "topic": "Q&A session 2"
+    },
+    {
+      "date": "2026-09-22",
+      "kind": "lecture",
+      "topic": "Normal subgroups and quotient groups",
+      "reading": "KvP §2.5"
+    },
+    {
+      "date": "2026-09-24",
+      "kind": "lecture",
+      "topic": "The homomorphism theorem",
+      "reading": "KvP §2.6"
+    },
+    {
+      "date": "2026-09-29",
+      "kind": "lecture",
+      "topic": "Euler's theorem, fast modular exponentiation, and RSA end to end",
+      "reading": "KvP §2.4, App. B"
+    },
+    {
+      "date": "2026-10-01",
+      "kind": "exam",
+      "topic": "Midterm Exam 1 — Segment 1"
+    },
+    {
+      "date": "2026-10-06",
+      "kind": "lecture",
+      "topic": "Rings and subrings",
+      "reading": "KvP §3.2"
+    },
+    {
+      "date": "2026-10-08",
+      "kind": "lecture",
+      "topic": "Ring homomorphisms",
+      "reading": "KvP §3.3"
+    },
+    {
+      "date": "2026-10-15",
+      "kind": "lecture",
+      "topic": "Ideals",
+      "reading": "KvP §3.3"
+    },
+    {
+      "date": "2026-10-20",
+      "kind": "lecture",
+      "topic": "Quotient rings",
+      "reading": "KvP §3.3",
+      "due": "Problem Set 3"
+    },
+    {
+      "date": "2026-10-22",
+      "kind": "defense",
+      "topic": "Q&A session 3"
+    },
+    {
+      "date": "2026-10-27",
+      "kind": "lecture",
+      "topic": "Fields and skew fields; 𝔽ₚ",
+      "reading": "KvP §3.4"
+    },
+    {
+      "date": "2026-10-29",
+      "kind": "lecture",
+      "topic": "Integral domains and the field of fractions",
+      "reading": "KvP §3.5"
+    },
+    {
+      "date": "2026-11-03",
+      "kind": "lecture",
+      "topic": "Unique factorization: UFDs",
+      "reading": "KvP §3.7",
+      "due": "Problem Set 4"
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "defense",
+      "topic": "Q&A session 4"
+    },
+    {
+      "date": "2026-11-10",
+      "kind": "lecture",
+      "topic": "PIDs and Euclidean domains",
+      "reading": "KvP §3.7"
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "lecture",
+      "topic": "The Gaussian integers ℤ[i]: norm and division",
+      "reading": "Conrad §1–2"
+    },
+    {
+      "date": "2026-11-17",
+      "kind": "lecture",
+      "topic": "Primes of ℤ[i]; which rational primes split",
+      "reading": "Conrad §3–4",
+      "due": "Problem Set 5"
+    },
+    {
+      "date": "2026-11-19",
+      "kind": "defense",
+      "topic": "Q&A session 5"
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "lecture",
+      "topic": "Fermat's two-square theorem",
+      "reading": "Conrad §5"
+    },
+    {
+      "date": "2026-12-01",
+      "kind": "review",
+      "topic": "Review — the exam pool"
+    },
+    {
+      "date": "2026-12-03",
+      "kind": "exam",
+      "topic": "Midterm Exam 2 — Segment 2 weighted"
+    }
+  ]
+}
