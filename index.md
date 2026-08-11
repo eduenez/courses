@@ -12,5 +12,5 @@ Course sites, most recent term first.
 ## Fall 2026
 
 - [MAT 4233 — Modern Abstract Algebra](2026fall/mat4233/)
-- [MAT 5173 — Algebra 1](2026fall/mat5173/)
+- [MAT 5173 — Algebra I](2026fall/mat5173/)
 

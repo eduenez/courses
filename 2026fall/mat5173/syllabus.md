@@ -16,14 +16,14 @@ nav_order: 10
 1. TOC
 {:toc}
 
-**MAT 5173 — Algebra 1**
+**MAT 5173 — Algebra I**
 Fall 2026 · UT San Antonio
 
 ## Course Information
 
 ### Catalog Entry
 
-[MAT 5173 Algebra 1](https://catalog.utsa.edu/search/?P=MAT%205173)
+[MAT 5173 Algebra I](https://catalog.utsa.edu/search/?P=MAT%205173)
 
 The opportunity for development of basic theory of algebraic structures. Areas of study may include monoids, semigroups, groups, isomorphism theorems, free groups, group extensions and group actions, Sylow theorems, group chains and composition series, nilpotent and solvable groups, cohomology of groups.
 

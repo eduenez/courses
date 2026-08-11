@@ -9,5 +9,5 @@ has_children: true
 # Fall 2026
 
 - **[MAT 4233 — Modern Abstract Algebra](mat4233/)**
-- **[MAT 5173 — Algebra 1](mat5173/)**
+- **[MAT 5173 — Algebra I](mat5173/)**
 
