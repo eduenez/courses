@@ -9,5 +9,8 @@ nav_order: 1
 
 Course sites, most recent term first.
 
-- [2026fall](2026fall/)
+## Fall 2026
+
+- [MAT 4233 — Modern Abstract Algebra](2026fall/mat4233/)
+- [MAT 5173 — Algebra 1](2026fall/mat5173/)
 
