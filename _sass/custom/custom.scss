@@ -27,6 +27,11 @@ code, pre, kbd, samp, .highlight {
   font-weight: 700;
 }
 
+// Multi-color wordmark tying the two sites together:
+//   "@" in the courses pine accent, "№" in supernumero.us's rosa.
+.site-title .wm-at     { color: #2f6b46; }
+.site-title .wm-numero { color: #b23a48; }
+
 // Ochre secondary accent (shared with home) for small warm cues.
 .main-content {
   blockquote {
