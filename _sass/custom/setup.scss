@@ -1,0 +1,11 @@
+// Layout variable overrides. This file (custom/setup.scss) is imported after the
+// theme's !default variables but BEFORE the modules that emit .main/.side-bar
+// CSS, so width overrides must live here (not in custom/custom.scss).
+//
+// Defaults: $content-width 50rem, $nav-width 16.5rem, $nav-width-md 15.5rem.
+// On wide screens the sidebar grows to align with the centered content, so a
+// narrow content + wide nav leaves a lot of right-side whitespace. Widen the
+// content and narrow the nav to rebalance.
+$content-width: 60rem;
+$nav-width:     14rem;
+$nav-width-md:  13rem;

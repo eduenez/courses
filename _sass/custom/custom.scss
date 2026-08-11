@@ -22,6 +22,11 @@ code, pre, kbd, samp, .highlight {
                "Courier New", monospace;
 }
 
+// Site title (top-left): bold so it reads as a title, not body text.
+.site-title {
+  font-weight: 700;
+}
+
 // Ochre secondary accent (shared with home) for small warm cues.
 .main-content {
   blockquote {
