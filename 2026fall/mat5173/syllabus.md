@@ -2,6 +2,7 @@
 layout: page
 title: Syllabus
 parent: MAT 5173
+grand_parent: Fall 2026
 description: Course syllabus.
 nav_order: 10
 ---
@@ -24,11 +25,11 @@ Fall 2026 · UT San Antonio
 
 [MAT 5173 Algebra 1](https://catalog.utsa.edu/search/?P=MAT%205173)
 
-Groups, rings and fields, with emphasis on concrete number-theoretic and computational examples.
+The opportunity for development of basic theory of algebraic structures. Areas of study may include monoids, semigroups, groups, isomorphism theorems, free groups, group extensions and group actions, Sylow theorems, group chains and composition series, nilpotent and solvable groups, cohomology of groups.
 
 ### Prerequisites
 
-Graduate standing, or consent of instructor.
+MAT 4233 or consent of instructor.
 
 ### Credit Hours
 
@@ -44,21 +45,22 @@ Traditional in-person
 |---|---|
 | Duration | Wed 19 Aug – Thu 3 Dec |
 | Campus | Main Campus |
-| Location | TBD |
-| Time | Mon Wed TBD |
+| Location | MH 3.03.10 |
+| Time | Mon Wed 7:30PM–8:45PM |
 
 
 ## Learning Objectives
 
 By the end of this course you should be able to:
 
-- State and use the definitions of group, subgroup, homomorphism, coset and quotient group, in each case on a concrete example built from modular arithmetic.
-- Carry out and explain the Euclidean algorithm, the fundamental theorem of arithmetic, and modular exponentiation.
-- Explain the RSA cryptosystem in terms of the group of units of Z/nZ, and execute it on small parameters.
-- State and use the definitions of ring, ideal, quotient ring, integral domain and field, on concrete examples.
-- Explain unique factorization in the Gaussian integers and its consequence for representing primes as sums of two squares.
-- Use a computer algebra system to explore an algebraic structure and interpret the output in writing.
-- Explain one's own written mathematical work aloud, on demand, in response to questions.
+- Define the notions of group, cyclic group, subgroup, normal subgroup, homomorphism, isomorphism, permutation group.
+- Describe and analyze examples of groups, emphasizing groups of geometric transformations.
+- Define group actions, emphasizing geometric actions.
+- Define the notions of ring, subring, domain, field, ideal, homomorphism, isomorphism.
+- Define rings of polynomials over a field, the notion of degree, and irreducible factors.
+- Explore connections of the abstract theory of rings, polynomials and ideals with the geometry of algebraic varieties.
+- Communicate concepts in writing and debate technical arguments orally.
+- Use a computer algebra system for numerical and visual explorations involving algebraic and geometric structures.
 
 
 ## About the Instructor
@@ -71,6 +73,8 @@ Eduardo Dueñez, Associate Professor of Mathematics.
 | Office | FLN 4.01.11 |
 | Student hours | TBD |
 | Email | <eduardo.duenez@utsa.edu> |
+| Homepage | [https://supernumero.us/about](https://supernumero.us/about) |
+
 
 Email is the preferred method of communication.
 
@@ -78,12 +82,10 @@ Email is the preferred method of communication.
 
 ### Required
 
-- Jürg Kramer and Anna-Maria von Pippich. [*From Natural Numbers to Quaternions*](https://doi.org/10.1007/978-3-319-69429-0). Springer, Springer Undergraduate Mathematics Series, 2017. ISBN 978-3-319-69427-6. Free to UTSA students through SpringerLink.
+- Stephan Rosebrock. [*Visual Group Theory: A Computer-Oriented Geometric Introduction*](https://doi.org/10.1007/978-3-662-69365-0). Springer, Springer Undergraduate Mathematics Series, 2024. ISBN 978-3-662-69364-3. Free to UTSA students through SpringerLink.
+- Alan F. Beardon. [*Algebra and Geometry*](https://doi.org/10.1017/CBO9780511800436). Cambridge University Press, 2005. ISBN 978-0-521-81362-4. Online access for UTSA students through the library.
+- David A. Cox, John Little and Donal OShea. [*Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra*](https://doi.org/10.1007/978-3-031-91841-4). Springer, 2025. ISBN 978-3-031-91840-7. Online access for UTSA students through the library.
 
-
-### Additional reading
-
-- Keith Conrad. [*The Gaussian Integers*](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf). Free handout; assigned reading for the final segment.
 
 
 ## Assessment and Grading

@@ -2,6 +2,7 @@
 layout: page
 title: Syllabus
 parent: MAT 4233
+grand_parent: Fall 2026
 description: Course syllabus.
 nav_order: 10
 ---
@@ -74,6 +75,8 @@ Eduardo Dueñez, Associate Professor of Mathematics.
 | Office | FLN 4.01.11 |
 | Student hours | TBD |
 | Email | <eduardo.duenez@utsa.edu> |
+| Homepage | [https://supernumero.us/about](https://supernumero.us/about) |
+
 
 Email is the preferred method of communication.
 

@@ -1,0 +1,34 @@
+<!-- Self-hosted webfonts, shared with supernumero.us for family resemblance:
+     Newsreader (serif) for prose + headings, Inter (sans) for UI chrome.
+     Variable woff2, fontsource latin subset (covers Latin-1, so Dueñez renders
+     in-font). relative_url prepends the /courses baseurl. -->
+<style>
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("{{ '/assets/fonts/inter-latin-wght-normal.woff2' | relative_url }}") format("woff2");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("{{ '/assets/fonts/inter-latin-wght-italic.woff2' | relative_url }}") format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("{{ '/assets/fonts/newsreader-latin-wght-normal.woff2' | relative_url }}") format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("{{ '/assets/fonts/newsreader-latin-wght-italic.woff2' | relative_url }}") format("woff2");
+}
+</style>

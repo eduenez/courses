@@ -1,0 +1,18 @@
+// courses sub-site color scheme — a sibling of supernumero.us, not a clone.
+// Distinct PINE-GREEN primary; warm cream/ink neutrals shared with the home
+// site; ochre secondary accent applied in _sass/custom/custom.scss.
+// Selected via `color_scheme: courses` in _config.yml.
+
+$body-background-color:        #faf5ec; // warm cream (shared with home)
+$sidebar-color:               #f3ecdd; // slightly deeper cream to delineate nav
+$search-background-color:     #fffdf7;
+$body-text-color:             #2c2622; // ink (shared with home)
+$body-heading-color:          #2c2622;
+$link-color:                  #2f6b46; // pine — the sub-site's identity accent
+$btn-primary-color:           #2f6b46;
+$nav-child-link-color:        #4a443d;
+$search-result-preview-color: #8a8177;
+$border-color:                #e6ddca;
+$table-background-color:      #fbf7ee;
+$code-background-color:       #f0e8d6;
+$feedback-color:              #efe7d6;

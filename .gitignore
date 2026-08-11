@@ -1,0 +1,10 @@
+# Local Jekyll build + toolchain — never commit these to the public site repo.
+# The publish workflow is `git add -A && commit && push`; without this file that
+# would stage the entire compiled _site/ and gem cruft.
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/
+Gemfile.lock

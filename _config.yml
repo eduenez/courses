@@ -2,13 +2,16 @@ title: Courses — Eduardo Dueñez
 description: Course sites, UTSA Department of Mathematics
 author: Eduardo Dueñez
 baseurl: '/courses'
-url: 'https://eduenez.github.io'
+url: 'https://supernumero.us'   # project site inherits the user site's custom domain
 
 remote_theme: just-the-docs/just-the-docs
-color_scheme: light
+color_scheme: courses           # _sass/color_schemes/courses.scss — pine on cream
 search_enabled: true
 heading_anchors: true
-permalink: pretty
+# Pages keep literal paths (syllabus.md -> syllabus.html), matching the
+# generated sibling artifacts (syllabus.pdf, course.json) and the links the
+# index templates emit. `permalink: pretty` would rewrite pages to
+# syllabus/index.html and break those links.
 
 enable_math: true
 math:

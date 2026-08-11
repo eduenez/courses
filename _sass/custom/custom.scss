@@ -1,0 +1,39 @@
+// Sub-site chrome, layered over just-the-docs. Fonts are set as literal CSS
+// (not SCSS variables) so they win regardless of the theme's import order.
+
+// Newsreader (serif) for content + headings — matches supernumero.us.
+body,
+.main-content h1, .main-content h2, .main-content h3,
+.main-content h4, .main-content h5, .main-content h6 {
+  font-family: "Newsreader", Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+// Inter (sans) for UI chrome: sidebar nav, header/footer, aux links, search,
+// buttons, breadcrumbs — mirrors home's serif-content / sans-chrome split.
+.side-bar, .site-header, .site-footer, .site-nav, .nav-list,
+.aux-nav, .breadcrumb-nav, .search, .search-input, .btn, .label {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, sans-serif;
+}
+
+// Monospace for code — matches home.
+code, pre, kbd, samp, .highlight {
+  font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono",
+               "Courier New", monospace;
+}
+
+// Ochre secondary accent (shared with home) for small warm cues.
+.main-content {
+  blockquote {
+    border-left: 3px solid #b8862f;
+  }
+  table th {
+    border-bottom: 2px solid #b8862f;
+  }
+}
+
+// Underlined prose links (not buttons/nav), matching home's prose feel.
+.main-content a:not(.btn) {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
