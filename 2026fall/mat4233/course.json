@@ -384,7 +384,7 @@
       "date": "2026-11-17",
       "kind": "lecture",
       "topic": "Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points",
-      "reading": "beardon Ch. 13",
+      "reading": "beardon Ch. 13; arnold-rogness",
       "extra": [
         {
           "text": "needham",
@@ -437,7 +437,7 @@
       "short": "Beardon",
       "authors": "Beardon",
       "title": "Algebra and Geometry",
-      "role": "supplement",
+      "role": "secondary",
       "access": "Full",
       "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621",
       "kms_key": "beardon2005algebra",
@@ -461,6 +461,15 @@
       "access": "Free",
       "url": "https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf",
       "note": "Survey reading for the final lecture: statements and examples; proofs optional."
+    },
+    "arnold-rogness": {
+      "short": "Arnold–Rogness",
+      "authors": "Arnold & Rogness",
+      "title": "Möbius Transformations Revealed",
+      "role": "handout",
+      "access": "Free",
+      "url": "https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf",
+      "note": "Notices of the AMS 55 (2008), no. 10. Co-reading for the Mobius lecture."
     }
   }
 }

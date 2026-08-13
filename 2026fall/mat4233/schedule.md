@@ -17,10 +17,23 @@ Fall 2026
 
 ## Texts
 
+### Primary text
+
 - **[KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621)** — Kramer & von Pippich, *From Natural Numbers to Quaternions*
+
+### Secondary reading
+
 - **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*
+
+### Supplementary reading
+
 - **[Needham](https://doi.org/10.1093/oso/9780192868916.001.0001)** — Needham, *Visual Complex Analysis, 25th Anniversary Edition*
+
+### Handouts & papers
+
 - **[Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf)** — Conrad, *The Gaussian Integers*
+- **[Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf)** — Arnold & Rogness, *Möbius Transformations Revealed*
+
 
 ## Schedule
 
@@ -50,7 +63,7 @@ Fall 2026
 | Thu 5 Nov | **Q&A** | Defense 4 |  |  |
 | Tue 10 Nov |  | PIDs and Euclidean domains | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.7 |  |
 | Thu 12 Nov |  | Complex numbers: arithmetic, the plane, polar form, roots of unity | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §3.1-3.2, §3.5 |  |
-| Tue 17 Nov |  | Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 13 | Problem Set 5 |
+| Tue 17 Nov |  | Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 13; [Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf) | Problem Set 5 |
 | Thu 19 Nov | **Q&A** | Defense 5 |  |  |
 | Tue 24 Nov |  | The Gaussian integers: norm, division with remainder, irreducibles, and sums of two squares — a survey | [Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf) |  |
 | Tue 1 Dec | *Review* | Review — the exam pool |  |  |

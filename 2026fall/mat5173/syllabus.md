@@ -21,18 +21,26 @@ Fall 2026 · UT San Antonio
 
 ## Texts and Materials
 
-### Texts
+### Primary text
+
+- **[Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621)** — Knapp, *Basic Algebra*. Digital Second Edition is free from the author and licensed for course posting.
+
+### Secondary reading
 
 - **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*
-- **[Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621)** — Knapp, *Basic Algebra*. Digital Second Edition is free from the author and licensed for course posting.
 - **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*. The concrete companion: Ch. 1-3, 12, 13, 14.
 - **[CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621)** — Cox, Little & O'Shea, *Ideals, Varieties, and Algorithms*. Chapter 1 only. No Groebner bases.
 
-### Supplementary and handouts
+### Supplementary reading
 
 - **[Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621)** — Shafarevich, *Basic Algebraic Geometry 1*. Section 1.1 only — plane curves.
-- **[Smith](https://doi.org/10.1007/978-1-4757-4497-2)** — Smith, Kahanpaa, Kekalainen & Traves, *An Invitation to Algebraic Geometry*. Not held by UTSA. Chapter 1 (13 pp.) distributed as a handout.
 - **[Needham](https://doi.org/10.1093/oso/9780192868916.001.0001)** — Needham, *Visual Complex Analysis, 25th Anniversary Edition*
+
+### Handouts & papers
+
+- **[Smith](https://doi.org/10.1007/978-1-4757-4497-2)** — Smith, Kahanpaa, Kekalainen & Traves, *An Invitation to Algebraic Geometry*. Not held by UTSA. Chapter 1 (13 pp.) distributed as a handout.
+- **[Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf)** — Arnold & Rogness, *Möbius Transformations Revealed*. Notices of the AMS 55 (2008), no. 10. Co-reading for the Mobius lecture.
+
 
 ## Course Information
 

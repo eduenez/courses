@@ -340,7 +340,7 @@
       "date": "2026-10-19",
       "kind": "lecture",
       "topic": "Mobius transformations as a group action on the sphere",
-      "reading": "beardon Ch. 13",
+      "reading": "beardon Ch. 13; arnold-rogness",
       "extra": [
         {
           "text": "needham",
@@ -452,7 +452,7 @@
       "short": "Rosebrock",
       "authors": "Rosebrock",
       "title": "Visual Group Theory",
-      "role": "primary",
+      "role": "secondary",
       "access": "Full",
       "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621",
       "url": "https://doi.org/10.1007/978-3-662-69365-0",
@@ -519,6 +519,15 @@
       "access": "None",
       "url": "https://doi.org/10.1093/oso/9780192868916.001.0001",
       "kms_key": "needham2023visual"
+    },
+    "arnold-rogness": {
+      "short": "Arnold–Rogness",
+      "authors": "Arnold & Rogness",
+      "title": "Möbius Transformations Revealed",
+      "role": "handout",
+      "access": "Free",
+      "url": "https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf",
+      "note": "Notices of the AMS 55 (2008), no. 10. Co-reading for the Mobius lecture."
     }
   }
 }

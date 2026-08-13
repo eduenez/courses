@@ -21,15 +21,23 @@ Fall 2026 · UT San Antonio
 
 ## Texts and Materials
 
-### Texts
+### Primary text
 
 - **[KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621)** — Kramer & von Pippich, *From Natural Numbers to Quaternions*
 
-### Supplementary and handouts
+### Secondary reading
 
 - **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*. Ch. 3 (complex numbers, polar form, roots of unity) and Ch. 13 (Mobius transformations).
+
+### Supplementary reading
+
 - **[Needham](https://doi.org/10.1093/oso/9780192868916.001.0001)** — Needham, *Visual Complex Analysis, 25th Anniversary Edition*. Not held by UTSA. Ch. 3 distributed as a handout; a copy is on reserve.
+
+### Handouts & papers
+
 - **[Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf)** — Conrad, *The Gaussian Integers*. Survey reading for the final lecture: statements and examples; proofs optional.
+- **[Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf)** — Arnold & Rogness, *Möbius Transformations Revealed*. Notices of the AMS 55 (2008), no. 10. Co-reading for the Mobius lecture.
+
 
 ## Course Information
 

@@ -17,13 +17,26 @@ Fall 2026
 
 ## Texts
 
-- **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*
+### Primary text
+
 - **[Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621)** — Knapp, *Basic Algebra*
+
+### Secondary reading
+
+- **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*
 - **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*
 - **[CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621)** — Cox, Little & O'Shea, *Ideals, Varieties, and Algorithms*
+
+### Supplementary reading
+
 - **[Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621)** — Shafarevich, *Basic Algebraic Geometry 1*
-- **[Smith](https://doi.org/10.1007/978-1-4757-4497-2)** — Smith, Kahanpaa, Kekalainen & Traves, *An Invitation to Algebraic Geometry*
 - **[Needham](https://doi.org/10.1093/oso/9780192868916.001.0001)** — Needham, *Visual Complex Analysis, 25th Anniversary Edition*
+
+### Handouts & papers
+
+- **[Smith](https://doi.org/10.1007/978-1-4757-4497-2)** — Smith, Kahanpaa, Kekalainen & Traves, *An Invitation to Algebraic Geometry*
+- **[Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf)** — Arnold & Rogness, *Möbius Transformations Revealed*
+
 
 ## Schedule
 
@@ -44,7 +57,7 @@ Fall 2026
 | Mon 5 Oct |  | Orbit-stabilizer and counting | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 4 |  |
 | Wed 7 Oct |  | Symmetries of the polyhedra; finite rotation groups in space | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §14.2-14.3 |  |
 | Wed 14 Oct |  | Finite groups; frieze and wallpaper patterns | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 7 |  |
-| Mon 19 Oct |  | Mobius transformations as a group action on the sphere | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 13 | Problem Set 3 |
+| Mon 19 Oct |  | Mobius transformations as a group action on the sphere | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 13; [Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf) | Problem Set 3 |
 | Wed 21 Oct | **Q&A** | Defense 3 |  |  |
 | Mon 26 Oct |  | Rings and polynomial rings k[x], k[x,y] | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.1 |  |
 | Wed 28 Oct |  | Integral domains and fields of fractions; polynomials in one variable | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.2 |  |
