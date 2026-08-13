@@ -162,7 +162,7 @@ characters, or artifacts revealing non-proofread AI output scores 0
 for that item.
 
 
-### Use of Generative Artificial Intelligence
+### Use of Artificial Intelligence (AI)
 
 **AI assistance is allowed in preparing work for submission**, as are
 any solution keys, collaboration, and internet sources.
@@ -179,6 +179,16 @@ Assignments submitted but not written/understood by you result in
 failing grades in Q&A sessions and exams. Use AI to learn faster
 —not to prepare and turn in papers you cannot defend, blocking you
 from passing exams as well.
+
+All audiovisual (or audio only, or video only) recordings of lectures
+are explicitly forbidden; all uses of AI agents or apps to capture,
+process, or analyze any lecture contents are **strictly forbidden**.
+The only *limited* exceptions are *explicitly* allowed recordings per
+official memorandum of the office of Student Disability Services.
+Under no circumstances is any processing or analyzing of such
+recordings allowed. Any sharing of confidential course materials with
+individuals who are not enrolled students in the course is a violation
+of [FERPA privacy laws](https://provost.utsa.edu/academicinnovation/resources/privacy-online-recordings.html#records).
 
 
 ### Exams
