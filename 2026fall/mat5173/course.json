@@ -265,67 +265,82 @@
       "date": "2026-08-19",
       "kind": "lecture",
       "topic": "Course launch; the plane and its isometries",
-      "reading": "Rosebrock Ch. 1"
+      "reading": "rosebrock Ch. 1"
     },
     {
       "date": "2026-08-24",
       "kind": "lecture",
       "topic": "Reflections generate everything",
-      "reading": "Rosebrock Ch. 1"
+      "reading": "rosebrock Ch. 1"
     },
     {
       "date": "2026-08-26",
       "kind": "lecture",
       "topic": "From symmetry to the group axioms",
-      "reading": "Rosebrock Ch. 2"
+      "reading": "rosebrock Ch. 2",
+      "extra": [
+        "knapp Ch. IV"
+      ]
     },
     {
       "date": "2026-08-31",
       "kind": "lecture",
       "topic": "Cyclic and dihedral groups",
-      "reading": "Rosebrock Ch. 2",
+      "reading": "rosebrock Ch. 2",
       "due": "Problem Set 1"
     },
     {
       "date": "2026-09-02",
       "kind": "defense",
-      "topic": "Q&A session 1"
+      "topic": "Defense 1"
     },
     {
       "date": "2026-09-09",
       "kind": "lecture",
       "topic": "Permutations and the sign homomorphism",
-      "reading": "Beardon Ch. 1"
+      "reading": "beardon §1.3-1.4",
+      "extra": [
+        "knapp Ch. I (permutations)"
+      ]
     },
     {
       "date": "2026-09-14",
       "kind": "lecture",
       "topic": "Subgroups; Cayley graphs",
-      "reading": "Rosebrock Ch. 3",
+      "reading": "rosebrock Ch. 3",
       "due": "Problem Set 2"
     },
     {
       "date": "2026-09-16",
       "kind": "defense",
-      "topic": "Q&A session 2"
+      "topic": "Defense 2"
     },
     {
       "date": "2026-09-21",
       "kind": "lecture",
       "topic": "Cosets and Lagrange",
-      "reading": "Beardon §12.2–12.3"
+      "reading": "beardon §12.2-12.3",
+      "extra": [
+        "knapp Ch. IV"
+      ]
     },
     {
       "date": "2026-09-23",
       "kind": "lecture",
       "topic": "Homomorphisms and quotient groups",
-      "reading": "Rosebrock Ch. 3 · Beardon §12.11–12.12"
+      "reading": "rosebrock Ch. 3",
+      "extra": [
+        "beardon §12.11-12.12"
+      ]
     },
     {
       "date": "2026-09-28",
       "kind": "lecture",
       "topic": "Group actions: orbits and stabilizers",
-      "reading": "Rosebrock Ch. 4"
+      "reading": "rosebrock Ch. 4",
+      "extra": [
+        "knapp Ch. IV"
+      ]
     },
     {
       "date": "2026-09-30",
@@ -335,86 +350,123 @@
     {
       "date": "2026-10-05",
       "kind": "lecture",
-      "topic": "Orbit–stabilizer and counting",
-      "reading": "Rosebrock Ch. 4"
+      "topic": "Orbit-stabilizer and counting",
+      "reading": "rosebrock Ch. 4"
     },
     {
       "date": "2026-10-07",
       "kind": "lecture",
       "topic": "Symmetries of the polyhedra; finite rotation groups in space",
-      "reading": "Beardon §14.2–14.3"
+      "reading": "beardon §14.2-14.3"
     },
     {
       "date": "2026-10-14",
       "kind": "lecture",
-      "topic": "Finite groups; frieze patterns",
-      "reading": "Rosebrock Ch. 7"
+      "topic": "Finite groups; frieze and wallpaper patterns",
+      "reading": "rosebrock Ch. 7",
+      "extra": [
+        "beardon §14.4"
+      ]
     },
     {
       "date": "2026-10-19",
       "kind": "lecture",
-      "topic": "Wallpaper groups",
-      "reading": "Beardon §14.4",
+      "topic": "Mobius transformations as a group action on the sphere",
+      "reading": "beardon Ch. 13",
+      "extra": [
+        {
+          "text": "needham",
+          "loc": "Ch. 3 §IV-VI",
+          "note": "handout; a copy is on reserve"
+        }
+      ],
+      "links": [
+        {
+          "label": "Mobius Transformations Revealed (2 min)",
+          "url": "https://www.youtube.com/watch?v=0z1fIsUNhO4"
+        }
+      ],
       "due": "Problem Set 3"
     },
     {
       "date": "2026-10-21",
       "kind": "defense",
-      "topic": "Q&A session 3"
+      "topic": "Defense 3"
     },
     {
       "date": "2026-10-26",
       "kind": "lecture",
-      "topic": "Fields: ℚ, ℝ, ℂ, and 𝔽ₚ",
-      "reading": "Beardon §2.3–2.4"
+      "topic": "Rings and polynomial rings k[x], k[x,y]",
+      "reading": "knapp §VIII.1",
+      "extra": [
+        "clo §1.1",
+        "beardon §2.3"
+      ]
     },
     {
       "date": "2026-10-28",
       "kind": "lecture",
-      "topic": "Polynomials in one variable: division, gcd, roots",
-      "reading": "CLO §1.5"
+      "topic": "Integral domains and fields of fractions; polynomials in one variable",
+      "reading": "knapp §VIII.2",
+      "extra": [
+        "clo §1.5"
+      ]
     },
     {
       "date": "2026-11-02",
       "kind": "lecture",
-      "topic": "Polynomials in several variables; affine space",
-      "reading": "CLO §1.1",
+      "topic": "Ideals; prime and maximal ideals",
+      "reading": "knapp §VIII.3",
+      "extra": [
+        "clo §1.4"
+      ],
       "due": "Problem Set 4"
     },
     {
       "date": "2026-11-04",
       "kind": "defense",
-      "topic": "Q&A session 4"
+      "topic": "Defense 4"
     },
     {
       "date": "2026-11-09",
       "kind": "lecture",
-      "topic": "Affine varieties — every graph is one",
-      "reading": "CLO §1.2 · Smith Ch. 1 handout"
+      "topic": "Affine space and affine varieties V(S)",
+      "reading": "clo §1.2",
+      "extra": [
+        {
+          "text": "smith",
+          "loc": "Ch. 1",
+          "note": "handout"
+        }
+      ]
     },
     {
       "date": "2026-11-11",
       "kind": "lecture",
-      "topic": "Parametrization: lines, the circle, Pythagorean triples",
-      "reading": "CLO §1.3"
+      "topic": "I(V) and the algebra-geometry dictionary",
+      "reading": "clo §1.4"
     },
     {
       "date": "2026-11-16",
       "kind": "lecture",
-      "topic": "Ideals; V(I), I(V), and the coordinate ring k[x,y]/I(V)",
-      "reading": "CLO §1.4 + reading guide",
+      "topic": "The coordinate ring k[x,y]/I(V) — the landing",
+      "reading": "clo §1.4",
+      "extra": [
+        "knapp §VIII.4",
+        "Reading guide, Segment B"
+      ],
       "due": "Problem Set 5"
     },
     {
       "date": "2026-11-18",
       "kind": "defense",
-      "topic": "Q&A session 5"
+      "topic": "Defense 5"
     },
     {
       "date": "2026-11-23",
       "kind": "lecture",
-      "topic": "Which curves are rational? Cusp, node, smooth cubic",
-      "reading": "Shafarevich §1.1 (Bix §1 optional)"
+      "topic": "Why C and not R; plane curves — rational, cusp, node",
+      "reading": "shafarevich §1.1"
     },
     {
       "date": "2026-11-30",

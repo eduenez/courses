@@ -224,32 +224,32 @@ satisfactorily provided.
 
 | Date | | Topic | Reading | Due |
 |---|---|---|---|---|
-| Wed 19 Aug |  | Course launch; the plane and its isometries | Rosebrock Ch. 1 |  |
-| Mon 24 Aug |  | Reflections generate everything | Rosebrock Ch. 1 |  |
-| Wed 26 Aug |  | From symmetry to the group axioms | Rosebrock Ch. 2 |  |
-| Mon 31 Aug |  | Cyclic and dihedral groups | Rosebrock Ch. 2 | Problem Set 1 |
-| Wed 2 Sep | **Q&A** | Q&A session 1 |  |  |
-| Wed 9 Sep |  | Permutations and the sign homomorphism | Beardon Ch. 1 |  |
-| Mon 14 Sep |  | Subgroups; Cayley graphs | Rosebrock Ch. 3 | Problem Set 2 |
-| Wed 16 Sep | **Q&A** | Q&A session 2 |  |  |
-| Mon 21 Sep |  | Cosets and Lagrange | Beardon §12.2–12.3 |  |
-| Wed 23 Sep |  | Homomorphisms and quotient groups | Rosebrock Ch. 3 · Beardon §12.11–12.12 |  |
-| Mon 28 Sep |  | Group actions: orbits and stabilizers | Rosebrock Ch. 4 |  |
+| Wed 19 Aug |  | Course launch; the plane and its isometries | rosebrock Ch. 1 |  |
+| Mon 24 Aug |  | Reflections generate everything | rosebrock Ch. 1 |  |
+| Wed 26 Aug |  | From symmetry to the group axioms | rosebrock Ch. 2 |  |
+| Mon 31 Aug |  | Cyclic and dihedral groups | rosebrock Ch. 2 | Problem Set 1 |
+| Wed 2 Sep | **Q&A** | Defense 1 |  |  |
+| Wed 9 Sep |  | Permutations and the sign homomorphism | beardon §1.3-1.4 |  |
+| Mon 14 Sep |  | Subgroups; Cayley graphs | rosebrock Ch. 3 | Problem Set 2 |
+| Wed 16 Sep | **Q&A** | Defense 2 |  |  |
+| Mon 21 Sep |  | Cosets and Lagrange | beardon §12.2-12.3 |  |
+| Wed 23 Sep |  | Homomorphisms and quotient groups | rosebrock Ch. 3 |  |
+| Mon 28 Sep |  | Group actions: orbits and stabilizers | rosebrock Ch. 4 |  |
 | Wed 30 Sep | **Exam** | Midterm Exam 1 — Segment A |  |  |
-| Mon 5 Oct |  | Orbit–stabilizer and counting | Rosebrock Ch. 4 |  |
-| Wed 7 Oct |  | Symmetries of the polyhedra; finite rotation groups in space | Beardon §14.2–14.3 |  |
-| Wed 14 Oct |  | Finite groups; frieze patterns | Rosebrock Ch. 7 |  |
-| Mon 19 Oct |  | Wallpaper groups | Beardon §14.4 | Problem Set 3 |
-| Wed 21 Oct | **Q&A** | Q&A session 3 |  |  |
-| Mon 26 Oct |  | Fields: ℚ, ℝ, ℂ, and 𝔽ₚ | Beardon §2.3–2.4 |  |
-| Wed 28 Oct |  | Polynomials in one variable: division, gcd, roots | CLO §1.5 |  |
-| Mon 2 Nov |  | Polynomials in several variables; affine space | CLO §1.1 | Problem Set 4 |
-| Wed 4 Nov | **Q&A** | Q&A session 4 |  |  |
-| Mon 9 Nov |  | Affine varieties — every graph is one | CLO §1.2 · Smith Ch. 1 handout |  |
-| Wed 11 Nov |  | Parametrization: lines, the circle, Pythagorean triples | CLO §1.3 |  |
-| Mon 16 Nov |  | Ideals; V(I), I(V), and the coordinate ring k[x,y]/I(V) | CLO §1.4 + reading guide | Problem Set 5 |
-| Wed 18 Nov | **Q&A** | Q&A session 5 |  |  |
-| Mon 23 Nov |  | Which curves are rational? Cusp, node, smooth cubic | Shafarevich §1.1 (Bix §1 optional) |  |
+| Mon 5 Oct |  | Orbit-stabilizer and counting | rosebrock Ch. 4 |  |
+| Wed 7 Oct |  | Symmetries of the polyhedra; finite rotation groups in space | beardon §14.2-14.3 |  |
+| Wed 14 Oct |  | Finite groups; frieze and wallpaper patterns | rosebrock Ch. 7 |  |
+| Mon 19 Oct |  | Mobius transformations as a group action on the sphere | beardon Ch. 13 | Problem Set 3 |
+| Wed 21 Oct | **Q&A** | Defense 3 |  |  |
+| Mon 26 Oct |  | Rings and polynomial rings k[x], k[x,y] | knapp §VIII.1 |  |
+| Wed 28 Oct |  | Integral domains and fields of fractions; polynomials in one variable | knapp §VIII.2 |  |
+| Mon 2 Nov |  | Ideals; prime and maximal ideals | knapp §VIII.3 | Problem Set 4 |
+| Wed 4 Nov | **Q&A** | Defense 4 |  |  |
+| Mon 9 Nov |  | Affine space and affine varieties V(S) | clo §1.2 |  |
+| Wed 11 Nov |  | I(V) and the algebra-geometry dictionary | clo §1.4 |  |
+| Mon 16 Nov |  | The coordinate ring k[x,y]/I(V) — the landing | clo §1.4 | Problem Set 5 |
+| Wed 18 Nov | **Q&A** | Defense 5 |  |  |
+| Mon 23 Nov |  | Why C and not R; plane curves — rational, cusp, node | shafarevich §1.1 |  |
 | Mon 30 Nov | *Review* | Review — the exam pool |  |  |
 | Wed 2 Dec | **Exam** | Midterm Exam 2 — Segment B weighted |  |  |
 

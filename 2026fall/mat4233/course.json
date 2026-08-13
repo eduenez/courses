@@ -257,73 +257,76 @@
       "date": "2026-08-20",
       "kind": "lecture",
       "topic": "Course launch; divisibility and the division algorithm",
-      "reading": "KvP §1.1–1.2"
+      "reading": "kvp §1.1-1.2"
     },
     {
       "date": "2026-08-25",
       "kind": "lecture",
       "topic": "Primes, the Fundamental Theorem of Arithmetic, gcd and lcm",
-      "reading": "KvP §1.3–1.5"
+      "reading": "kvp §1.3-1.5"
     },
     {
       "date": "2026-08-27",
       "kind": "lecture",
-      "topic": "Semigroups, monoids, groups — all of them ℤ/nℤ",
-      "reading": "KvP §2.1"
+      "topic": "Semigroups, monoids, groups — all of them Z/nZ",
+      "reading": "kvp §2.1"
     },
     {
       "date": "2026-09-01",
       "kind": "lecture",
-      "topic": "Subgroups; the unit group (ℤ/nℤ)*",
-      "reading": "KvP §2.2",
+      "topic": "Subgroups; the unit group (Z/nZ)*",
+      "reading": "kvp §2.2",
       "due": "Problem Set 1"
     },
     {
       "date": "2026-09-03",
       "kind": "defense",
-      "topic": "Q&A session 1"
+      "topic": "Defense 1"
     },
     {
       "date": "2026-09-08",
       "kind": "lecture",
-      "topic": "Group homomorphisms; order of an element",
-      "reading": "KvP §2.3"
+      "topic": "Group homomorphisms; the order of an element",
+      "reading": "kvp §2.3"
     },
     {
       "date": "2026-09-10",
       "kind": "lecture",
       "topic": "Cyclic groups; primitive roots",
-      "reading": "KvP §2.3"
+      "reading": "kvp §2.3"
     },
     {
       "date": "2026-09-15",
       "kind": "lecture",
       "topic": "Cosets and Lagrange's theorem",
-      "reading": "KvP §2.4",
+      "reading": "kvp §2.4",
       "due": "Problem Set 2"
     },
     {
       "date": "2026-09-17",
       "kind": "defense",
-      "topic": "Q&A session 2"
+      "topic": "Defense 2"
     },
     {
       "date": "2026-09-22",
       "kind": "lecture",
       "topic": "Normal subgroups and quotient groups",
-      "reading": "KvP §2.5"
+      "reading": "kvp §2.5"
     },
     {
       "date": "2026-09-24",
       "kind": "lecture",
       "topic": "The homomorphism theorem",
-      "reading": "KvP §2.6"
+      "reading": "kvp §2.6"
     },
     {
       "date": "2026-09-29",
       "kind": "lecture",
       "topic": "Euler's theorem, fast modular exponentiation, and RSA end to end",
-      "reading": "KvP §2.4, App. B"
+      "reading": "kvp App. B",
+      "extra": [
+        "kvp §2.4"
+      ]
     },
     {
       "date": "2026-10-01",
@@ -334,85 +337,101 @@
       "date": "2026-10-06",
       "kind": "lecture",
       "topic": "Rings and subrings",
-      "reading": "KvP §3.2"
+      "reading": "kvp §3.2"
     },
     {
       "date": "2026-10-08",
       "kind": "lecture",
       "topic": "Ring homomorphisms",
-      "reading": "KvP §3.3"
+      "reading": "kvp §3.3"
     },
     {
       "date": "2026-10-15",
       "kind": "lecture",
       "topic": "Ideals",
-      "reading": "KvP §3.3"
+      "reading": "kvp §3.3"
     },
     {
       "date": "2026-10-20",
       "kind": "lecture",
       "topic": "Quotient rings",
-      "reading": "KvP §3.3",
+      "reading": "kvp §3.3",
       "due": "Problem Set 3"
     },
     {
       "date": "2026-10-22",
       "kind": "defense",
-      "topic": "Q&A session 3"
+      "topic": "Defense 3"
     },
     {
       "date": "2026-10-27",
       "kind": "lecture",
-      "topic": "Fields and skew fields; 𝔽ₚ",
-      "reading": "KvP §3.4"
+      "topic": "Fields and skew fields; F_p",
+      "reading": "kvp §3.4"
     },
     {
       "date": "2026-10-29",
       "kind": "lecture",
       "topic": "Integral domains and the field of fractions",
-      "reading": "KvP §3.5"
+      "reading": "kvp §3.5"
     },
     {
       "date": "2026-11-03",
       "kind": "lecture",
       "topic": "Unique factorization: UFDs",
-      "reading": "KvP §3.7",
+      "reading": "kvp §3.7",
       "due": "Problem Set 4"
     },
     {
       "date": "2026-11-05",
       "kind": "defense",
-      "topic": "Q&A session 4"
+      "topic": "Defense 4"
     },
     {
       "date": "2026-11-10",
       "kind": "lecture",
       "topic": "PIDs and Euclidean domains",
-      "reading": "KvP §3.7"
+      "reading": "kvp §3.7"
     },
     {
       "date": "2026-11-12",
       "kind": "lecture",
-      "topic": "The Gaussian integers ℤ[i]: norm and division",
-      "reading": "Conrad §1–2"
+      "topic": "Complex numbers: arithmetic, the plane, polar form, roots of unity",
+      "reading": "beardon §3.1-3.2, §3.5",
+      "extra": [
+        "kvp §5.1-5.2"
+      ]
     },
     {
       "date": "2026-11-17",
       "kind": "lecture",
-      "topic": "Primes of ℤ[i]; which rational primes split",
-      "reading": "Conrad §3–4",
+      "topic": "Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points",
+      "reading": "beardon Ch. 13",
+      "extra": [
+        {
+          "text": "needham",
+          "loc": "Ch. 3 §I-II, §IV-VI",
+          "note": "handout; a copy is on reserve"
+        }
+      ],
+      "links": [
+        {
+          "label": "Mobius Transformations Revealed (2 min)",
+          "url": "https://www.youtube.com/watch?v=0z1fIsUNhO4"
+        }
+      ],
       "due": "Problem Set 5"
     },
     {
       "date": "2026-11-19",
       "kind": "defense",
-      "topic": "Q&A session 5"
+      "topic": "Defense 5"
     },
     {
       "date": "2026-11-24",
       "kind": "lecture",
-      "topic": "Fermat's two-square theorem",
-      "reading": "Conrad §5"
+      "topic": "The Gaussian integers: norm, division with remainder, irreducibles, and sums of two squares — a survey",
+      "reading": "conrad-zi"
     },
     {
       "date": "2026-12-01",
