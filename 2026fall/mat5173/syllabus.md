@@ -21,12 +21,18 @@ Fall 2026 · UT San Antonio
 
 ## Texts and Materials
 
-### Required
+### Texts
 
-- Stephan Rosebrock (**Ros**). [*Visual Group Theory: A Computer-Oriented Geometric Introduction*](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621). Springer, Springer Undergraduate Mathematics Series, 2024. ISBN 978-3-662-69364-3. Free to UTSA students through SpringerLink.
-- Alan F. Beardon (**Bea**). [*Algebra and Geometry*](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621). Cambridge University Press, 2005. ISBN 978-0-521-81362-4. Online access for UTSA students through the library.
-- David A. Cox, John Little and Donal O'Shea (**CLO**). [*Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra*](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621). Springer, 2025. ISBN 978-3-031-91840-7. Online access for UTSA students through the library.
+- **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*
+- **[Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621)** — Knapp, *Basic Algebra*. Digital Second Edition is free from the author and licensed for course posting.
+- **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*. The concrete companion: Ch. 1-3, 12, 13, 14.
+- **[CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621)** — Cox, Little & O'Shea, *Ideals, Varieties, and Algorithms*. Chapter 1 only. No Groebner bases.
 
+### Supplementary and handouts
+
+- **[Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621)** — Shafarevich, *Basic Algebraic Geometry 1*. Section 1.1 only — plane curves.
+- **[Smith](https://doi.org/10.1007/978-1-4757-4497-2)** — Smith, Kahanpaa, Kekalainen & Traves, *An Invitation to Algebraic Geometry*. Not held by UTSA. Chapter 1 (13 pp.) distributed as a handout.
+- **[Needham](https://doi.org/10.1093/oso/9780192868916.001.0001)** — Needham, *Visual Complex Analysis, 25th Anniversary Edition*
 
 ## Course Information
 
@@ -221,37 +227,40 @@ satisfactorily provided.
 
 ## Course Schedule
 
-| Date | | Topic | Reading | Due |
-|---|---|---|---|---|
-| Wed 19 Aug |  | Course launch; the plane and its isometries | rosebrock Ch. 1 |  |
-| Mon 24 Aug |  | Reflections generate everything | rosebrock Ch. 1 |  |
-| Wed 26 Aug |  | From symmetry to the group axioms | rosebrock Ch. 2 |  |
-| Mon 31 Aug |  | Cyclic and dihedral groups | rosebrock Ch. 2 | Problem Set 1 |
-| Wed 2 Sep | **Q&A** | Defense 1 |  |  |
-| Wed 9 Sep |  | Permutations and the sign homomorphism | beardon §1.3-1.4 |  |
-| Mon 14 Sep |  | Subgroups; Cayley graphs | rosebrock Ch. 3 | Problem Set 2 |
-| Wed 16 Sep | **Q&A** | Defense 2 |  |  |
-| Mon 21 Sep |  | Cosets and Lagrange | beardon §12.2-12.3 |  |
-| Wed 23 Sep |  | Homomorphisms and quotient groups | rosebrock Ch. 3 |  |
-| Mon 28 Sep |  | Group actions: orbits and stabilizers | rosebrock Ch. 4 |  |
-| Wed 30 Sep | **Exam** | Midterm Exam 1 — Segment A |  |  |
-| Mon 5 Oct |  | Orbit-stabilizer and counting | rosebrock Ch. 4 |  |
-| Wed 7 Oct |  | Symmetries of the polyhedra; finite rotation groups in space | beardon §14.2-14.3 |  |
-| Wed 14 Oct |  | Finite groups; frieze and wallpaper patterns | rosebrock Ch. 7 |  |
-| Mon 19 Oct |  | Mobius transformations as a group action on the sphere | beardon Ch. 13 | Problem Set 3 |
-| Wed 21 Oct | **Q&A** | Defense 3 |  |  |
-| Mon 26 Oct |  | Rings and polynomial rings k[x], k[x,y] | knapp §VIII.1 |  |
-| Wed 28 Oct |  | Integral domains and fields of fractions; polynomials in one variable | knapp §VIII.2 |  |
-| Mon 2 Nov |  | Ideals; prime and maximal ideals | knapp §VIII.3 | Problem Set 4 |
-| Wed 4 Nov | **Q&A** | Defense 4 |  |  |
-| Mon 9 Nov |  | Affine space and affine varieties V(S) | clo §1.2 |  |
-| Wed 11 Nov |  | I(V) and the algebra-geometry dictionary | clo §1.4 |  |
-| Mon 16 Nov |  | The coordinate ring k[x,y]/I(V) — the landing | clo §1.4 | Problem Set 5 |
-| Wed 18 Nov | **Q&A** | Defense 5 |  |  |
-| Mon 23 Nov |  | Why C and not R; plane curves — rational, cusp, node | shafarevich §1.1 |  |
-| Mon 30 Nov | *Review* | Review — the exam pool |  |  |
-| Wed 2 Dec | **Exam** | Midterm Exam 2 — Segment B weighted |  |  |
+| Date | | Topic |
+|:--|:-:|:--|
+| Wed 19 Aug |  | Course launch; the plane and its isometries |
+| Mon 24 Aug |  | Reflections generate everything |
+| Wed 26 Aug |  | From symmetry to the group axioms |
+| Mon 31 Aug |  | Cyclic and dihedral groups |
+| Wed 2 Sep | **Q&A** | Defense 1 |
+| Wed 9 Sep |  | Permutations and the sign homomorphism |
+| Mon 14 Sep |  | Subgroups; Cayley graphs |
+| Wed 16 Sep | **Q&A** | Defense 2 |
+| Mon 21 Sep |  | Cosets and Lagrange |
+| Wed 23 Sep |  | Homomorphisms and quotient groups |
+| Mon 28 Sep |  | Group actions: orbits and stabilizers |
+| Wed 30 Sep | **Exam** | Midterm Exam 1 — Segment A |
+| Mon 5 Oct |  | Orbit-stabilizer and counting |
+| Wed 7 Oct |  | Symmetries of the polyhedra; finite rotation groups in space |
+| Wed 14 Oct |  | Finite groups; frieze and wallpaper patterns |
+| Mon 19 Oct |  | Mobius transformations as a group action on the sphere |
+| Wed 21 Oct | **Q&A** | Defense 3 |
+| Mon 26 Oct |  | Rings and polynomial rings k[x], k[x,y] |
+| Wed 28 Oct |  | Integral domains and fields of fractions; polynomials in one variable |
+| Mon 2 Nov |  | Ideals; prime and maximal ideals |
+| Wed 4 Nov | **Q&A** | Defense 4 |
+| Mon 9 Nov |  | Affine space and affine varieties V(S) |
+| Wed 11 Nov |  | I(V) and the algebra-geometry dictionary |
+| Mon 16 Nov |  | The coordinate ring k[x,y]/I(V) — the landing |
+| Wed 18 Nov | **Q&A** | Defense 5 |
+| Mon 23 Nov |  | Why C and not R; plane curves — rational, cusp, node |
+| Mon 30 Nov | *Review* | Review — the exam pool |
+| Wed 2 Dec | **Exam** | Midterm Exam 2 — Segment B weighted |
 
+
+Readings for each meeting and assignment due-dates are on the
+[Weekly Schedule](schedule.html).
 
 ## Department and University Policies
 

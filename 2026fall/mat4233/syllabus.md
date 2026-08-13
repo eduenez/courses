@@ -21,13 +21,15 @@ Fall 2026 · UT San Antonio
 
 ## Texts and Materials
 
-### Required
+### Texts
 
-- Jürgen Kramer and Anna-Maria von Pippich (**KvP**). [*From Natural Numbers to Quaternions*](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621). Springer, Springer Undergraduate Mathematics Series, 2017. ISBN 978-3-319-69427-6. Free to UTSA students through SpringerLink.
+- **[KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621)** — Kramer & von Pippich, *From Natural Numbers to Quaternions*
 
-### Additional reading
+### Supplementary and handouts
 
-- Keith Conrad (**Con**). [*The Gaussian Integers*](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf). Free handout; assigned reading for the final segment.
+- **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*. Ch. 3 (complex numbers, polar form, roots of unity) and Ch. 13 (Mobius transformations).
+- **[Needham](https://doi.org/10.1093/oso/9780192868916.001.0001)** — Needham, *Visual Complex Analysis, 25th Anniversary Edition*. Not held by UTSA. Ch. 3 distributed as a handout; a copy is on reserve.
+- **[Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf)** — Conrad, *The Gaussian Integers*. Survey reading for the final lecture: statements and examples; proofs optional.
 
 ## Course Information
 
@@ -35,7 +37,7 @@ Fall 2026 · UT San Antonio
 
 [MAT 4233 Modern Abstract Algebra](https://catalog.utsa.edu/search/?P=MAT%204233)
 
-
+Basic properties and examples of semigroups, monoids, and groups, detailed study of permutation, dihedral, and congruence groups, cyclic groups, normal subgroups, quotient groups, homomorphism, isomorphism theorems, direct products of groups, rings and fields and their basic properties, ideals, polynomial rings.
 
 ### Prerequisites
 
@@ -224,38 +226,41 @@ satisfactorily provided.
 
 ## Course Schedule
 
-| Date | | Topic | Reading | Due |
-|---|---|---|---|---|
-| Thu 20 Aug |  | Course launch; divisibility and the division algorithm | kvp §1.1-1.2 |  |
-| Tue 25 Aug |  | Primes, the Fundamental Theorem of Arithmetic, gcd and lcm | kvp §1.3-1.5 |  |
-| Thu 27 Aug |  | Semigroups, monoids, groups — all of them Z/nZ | kvp §2.1 |  |
-| Tue 1 Sep |  | Subgroups; the unit group (Z/nZ)* | kvp §2.2 | Problem Set 1 |
-| Thu 3 Sep | **Q&A** | Defense 1 |  |  |
-| Tue 8 Sep |  | Group homomorphisms; the order of an element | kvp §2.3 |  |
-| Thu 10 Sep |  | Cyclic groups; primitive roots | kvp §2.3 |  |
-| Tue 15 Sep |  | Cosets and Lagrange's theorem | kvp §2.4 | Problem Set 2 |
-| Thu 17 Sep | **Q&A** | Defense 2 |  |  |
-| Tue 22 Sep |  | Normal subgroups and quotient groups | kvp §2.5 |  |
-| Thu 24 Sep |  | The homomorphism theorem | kvp §2.6 |  |
-| Tue 29 Sep |  | Euler's theorem, fast modular exponentiation, and RSA end to end | kvp App. B |  |
-| Thu 1 Oct | **Exam** | Midterm Exam 1 — Segment 1 |  |  |
-| Tue 6 Oct |  | Rings and subrings | kvp §3.2 |  |
-| Thu 8 Oct |  | Ring homomorphisms | kvp §3.3 |  |
-| Thu 15 Oct |  | Ideals | kvp §3.3 |  |
-| Tue 20 Oct |  | Quotient rings | kvp §3.3 | Problem Set 3 |
-| Thu 22 Oct | **Q&A** | Defense 3 |  |  |
-| Tue 27 Oct |  | Fields and skew fields; F_p | kvp §3.4 |  |
-| Thu 29 Oct |  | Integral domains and the field of fractions | kvp §3.5 |  |
-| Tue 3 Nov |  | Unique factorization: UFDs | kvp §3.7 | Problem Set 4 |
-| Thu 5 Nov | **Q&A** | Defense 4 |  |  |
-| Tue 10 Nov |  | PIDs and Euclidean domains | kvp §3.7 |  |
-| Thu 12 Nov |  | Complex numbers: arithmetic, the plane, polar form, roots of unity | beardon §3.1-3.2, §3.5 |  |
-| Tue 17 Nov |  | Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points | beardon Ch. 13 | Problem Set 5 |
-| Thu 19 Nov | **Q&A** | Defense 5 |  |  |
-| Tue 24 Nov |  | The Gaussian integers: norm, division with remainder, irreducibles, and sums of two squares — a survey | conrad-zi |  |
-| Tue 1 Dec | *Review* | Review — the exam pool |  |  |
-| Thu 3 Dec | **Exam** | Midterm Exam 2 — Segment 2 weighted |  |  |
+| Date | | Topic |
+|:--|:-:|:--|
+| Thu 20 Aug |  | Course launch; divisibility and the division algorithm |
+| Tue 25 Aug |  | Primes, the Fundamental Theorem of Arithmetic, gcd and lcm |
+| Thu 27 Aug |  | Semigroups, monoids, groups — all of them Z/nZ |
+| Tue 1 Sep |  | Subgroups; the unit group (Z/nZ)* |
+| Thu 3 Sep | **Q&A** | Defense 1 |
+| Tue 8 Sep |  | Group homomorphisms; the order of an element |
+| Thu 10 Sep |  | Cyclic groups; primitive roots |
+| Tue 15 Sep |  | Cosets and Lagrange's theorem |
+| Thu 17 Sep | **Q&A** | Defense 2 |
+| Tue 22 Sep |  | Normal subgroups and quotient groups |
+| Thu 24 Sep |  | The homomorphism theorem |
+| Tue 29 Sep |  | Euler's theorem, fast modular exponentiation, and RSA end to end |
+| Thu 1 Oct | **Exam** | Midterm Exam 1 — Segment 1 |
+| Tue 6 Oct |  | Rings and subrings |
+| Thu 8 Oct |  | Ring homomorphisms |
+| Thu 15 Oct |  | Ideals |
+| Tue 20 Oct |  | Quotient rings |
+| Thu 22 Oct | **Q&A** | Defense 3 |
+| Tue 27 Oct |  | Fields and skew fields; F_p |
+| Thu 29 Oct |  | Integral domains and the field of fractions |
+| Tue 3 Nov |  | Unique factorization: UFDs |
+| Thu 5 Nov | **Q&A** | Defense 4 |
+| Tue 10 Nov |  | PIDs and Euclidean domains |
+| Thu 12 Nov |  | Complex numbers: arithmetic, the plane, polar form, roots of unity |
+| Tue 17 Nov |  | Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points |
+| Thu 19 Nov | **Q&A** | Defense 5 |
+| Tue 24 Nov |  | The Gaussian integers: norm, division with remainder, irreducibles, and sums of two squares — a survey |
+| Tue 1 Dec | *Review* | Review — the exam pool |
+| Thu 3 Dec | **Exam** | Midterm Exam 2 — Segment 2 weighted |
 
+
+Readings for each meeting and assignment due-dates are on the
+[Weekly Schedule](schedule.html).
 
 ## Department and University Policies
 
