@@ -48,9 +48,7 @@ code, pre, kbd, samp, .highlight {
   text-underline-offset: 2px;
 }
 
-// Weekly Schedule table: keep Date / badge / Due from wrapping so the Topic
-// and Reading columns get the horizontal room (issue: narrow, cramped Topic).
+// Weekly Schedule table (Date | Topic | Reading — kind badge and due-date are
+// folded into Topic): keep Date from wrapping so Topic and Reading get the
+// horizontal room.
 .schedule td:nth-child(1) { white-space: nowrap; }              // Date
-.schedule td:nth-child(2) { white-space: nowrap; text-align: center; } // kind badge
-.schedule td:nth-child(5) { white-space: nowrap; }              // Due
-.schedule th:nth-child(2) { text-align: center; }

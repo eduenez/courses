@@ -236,11 +236,12 @@ satisfactorily provided.
 ## Course Schedule
 
 <!-- Column widths are set by the relative dash counts below (pandoc derives
-     p{} widths from them for the PDF): Date ~15%, badge ~9%, Topic ~76%, so
-     Topic — which carries the text — is not starved by two near-empty columns. -->
+     p{} widths from them for the PDF): Date ~12%, Activity ~6.5%, Topic ~81.5%
+     (Date needs enough room that "Thu 22 Oct" doesn't wrap), so Topic — which
+     carries the text — is not starved by two near-empty columns. -->
 
-| Date | | Topic |
-|:--------------|:-------:|:---------------------------------------------------------------------------|
+| Date | Activity | Topic |
+|:------------|:-----:|:---------------------------------------------------------------------------------------|
 | Wed 19 Aug |  | Course launch; the plane and its isometries |
 | Mon 24 Aug |  | Reflections generate everything |
 | Wed 26 Aug |  | From symmetry to the group axioms |

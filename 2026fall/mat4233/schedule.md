@@ -34,36 +34,36 @@ Fall 2026
 
 ## Schedule
 
-| Date | | Topic | Reading | Due |
-|:--|:-:|:--|:--|:--|
-| Thu 20 Aug |  | Course launch; divisibility and the division algorithm | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §1.1-1.2 |  |
-| Tue 25 Aug |  | Primes, the Fundamental Theorem of Arithmetic, gcd and lcm | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §1.3-1.5 |  |
-| Thu 27 Aug |  | Semigroups, monoids, groups — all of them Z/nZ | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.1 |  |
-| Tue 1 Sep |  | Subgroups; the unit group (Z/nZ)* | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.2 | Problem Set 1 |
-| Thu 3 Sep | **Q&A** | Defense 1 |  |  |
-| Tue 8 Sep |  | Group homomorphisms; the order of an element | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.3 |  |
-| Thu 10 Sep |  | Cyclic groups; primitive roots | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.3 |  |
-| Tue 15 Sep |  | Cosets and Lagrange's theorem | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.4 | Problem Set 2 |
-| Thu 17 Sep | **Q&A** | Defense 2 |  |  |
-| Tue 22 Sep |  | Normal subgroups and quotient groups | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.5 |  |
-| Thu 24 Sep |  | The homomorphism theorem | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.6 |  |
-| Tue 29 Sep |  | Euler's theorem, fast modular exponentiation, and RSA end to end | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) App. B; [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.4 |  |
-| Thu 1 Oct | **Exam** | Midterm Exam 1 — Segment 1 |  |  |
-| Tue 6 Oct |  | Rings and subrings | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.2 |  |
-| Thu 8 Oct |  | Ring homomorphisms | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.3 |  |
-| Thu 15 Oct |  | Ideals | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.3 |  |
-| Tue 20 Oct |  | Quotient rings | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.3 | Problem Set 3 |
-| Thu 22 Oct | **Q&A** | Defense 3 |  |  |
-| Tue 27 Oct |  | Fields and skew fields; F_p | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.4 |  |
-| Thu 29 Oct |  | Integral domains and the field of fractions | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.5 |  |
-| Tue 3 Nov |  | Unique factorization: UFDs | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.7 | Problem Set 4 |
-| Thu 5 Nov | **Q&A** | Defense 4 |  |  |
-| Tue 10 Nov |  | PIDs and Euclidean domains | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.7 |  |
-| Thu 12 Nov |  | Complex numbers: arithmetic, the plane, polar form, roots of unity | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §3.1-3.2, §3.5; [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §5.1-5.2 |  |
-| Tue 17 Nov |  | Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 13; [Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf); [Needham](https://doi.org/10.1093/oso/9780192868916.001.0001) Ch. 3 §I-II, §IV-VI (handout; a copy is on reserve); [Mobius Transformations Revealed (2 min)](https://www.youtube.com/watch?v=0z1fIsUNhO4) | Problem Set 5 |
-| Thu 19 Nov | **Q&A** | Defense 5 |  |  |
-| Tue 24 Nov |  | The Gaussian integers: norm, division with remainder, irreducibles, and sums of two squares — a survey | [Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf) |  |
-| Tue 1 Dec | *Review* | Review — the exam pool |  |  |
-| Thu 3 Dec | **Exam** | Midterm Exam 2 — Segment 2 weighted |  |  |
+| Date | Topic | Reading |
+|:--|:--|:--|
+| Thu 20 Aug | Lecture — Course launch; divisibility and the division algorithm | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §1.1-1.2 |
+| Tue 25 Aug | Lecture — Primes, the Fundamental Theorem of Arithmetic, gcd and lcm | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §1.3-1.5 |
+| Thu 27 Aug | Lecture — Semigroups, monoids, groups — all of them Z/nZ | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.1 |
+| Tue 1 Sep | Lecture — Subgroups; the unit group (Z/nZ)* (Due: Set 1) | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.2 |
+| Thu 3 Sep | **Q&A** — Defense 1 |  |
+| Tue 8 Sep | Lecture — Group homomorphisms; the order of an element | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.3 |
+| Thu 10 Sep | Lecture — Cyclic groups; primitive roots | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.3 |
+| Tue 15 Sep | Lecture — Cosets and Lagrange's theorem (Due: Set 2) | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.4 |
+| Thu 17 Sep | **Q&A** — Defense 2 |  |
+| Tue 22 Sep | Lecture — Normal subgroups and quotient groups | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.5 |
+| Thu 24 Sep | Lecture — The homomorphism theorem | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.6 |
+| Tue 29 Sep | Lecture — Euler's theorem, fast modular exponentiation, and RSA end to end | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) App. B; [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §2.4 |
+| Thu 1 Oct | **Exam** — Midterm Exam 1 — Segment 1 |  |
+| Tue 6 Oct | Lecture — Rings and subrings | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.2 |
+| Thu 8 Oct | Lecture — Ring homomorphisms | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.3 |
+| Thu 15 Oct | Lecture — Ideals | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.3 |
+| Tue 20 Oct | Lecture — Quotient rings (Due: Set 3) | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.3 |
+| Thu 22 Oct | **Q&A** — Defense 3 |  |
+| Tue 27 Oct | Lecture — Fields and skew fields; F_p | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.4 |
+| Thu 29 Oct | Lecture — Integral domains and the field of fractions | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.5 |
+| Tue 3 Nov | Lecture — Unique factorization: UFDs (Due: Set 4) | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.7 |
+| Thu 5 Nov | **Q&A** — Defense 4 |  |
+| Tue 10 Nov | Lecture — PIDs and Euclidean domains | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §3.7 |
+| Thu 12 Nov | Lecture — Complex numbers: arithmetic, the plane, polar form, roots of unity | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §3.1-3.2, §3.5; [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §5.1-5.2 |
+| Tue 17 Nov | Lecture — Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points (Due: Set 5) | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 13; [Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf); [Needham](https://doi.org/10.1093/oso/9780192868916.001.0001) Ch. 3 §I-II, §IV-VI (handout; a copy is on reserve); [Mobius Transformations Revealed (2 min)](https://www.youtube.com/watch?v=0z1fIsUNhO4) |
+| Thu 19 Nov | **Q&A** — Defense 5 |  |
+| Tue 24 Nov | Lecture — The Gaussian integers: norm, division with remainder, irreducibles, and sums of two squares — a survey | [Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf) |
+| Tue 1 Dec | *Review* — Review — the exam pool |  |
+| Thu 3 Dec | **Exam** — Midterm Exam 2 — Segment 2 weighted |  |
 
 {: .schedule}
