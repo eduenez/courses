@@ -19,6 +19,15 @@ nav_order: 10
 **MAT 5173 — Algebra I**
 Fall 2026 · UT San Antonio
 
+## Texts and Materials
+
+### Required
+
+- Stephan Rosebrock (**Ros**). [*Visual Group Theory: A Computer-Oriented Geometric Introduction*](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621). Springer, Springer Undergraduate Mathematics Series, 2024. ISBN 978-3-662-69364-3. Free to UTSA students through SpringerLink.
+- Alan F. Beardon (**Bea**). [*Algebra and Geometry*](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621). Cambridge University Press, 2005. ISBN 978-0-521-81362-4. Online access for UTSA students through the library.
+- David A. Cox, John Little and Donal O'Shea (**CLO**). [*Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra*](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621). Springer, 2025. ISBN 978-3-031-91840-7. Online access for UTSA students through the library.
+
+
 ## Course Information
 
 ### Catalog Entry
@@ -77,16 +86,6 @@ Eduardo Dueñez, Associate Professor of Mathematics.
 
 
 Email is the preferred method of communication.
-
-## Course Materials
-
-### Required
-
-- Stephan Rosebrock. [*Visual Group Theory: A Computer-Oriented Geometric Introduction*](https://doi.org/10.1007/978-3-662-69365-0). Springer, Springer Undergraduate Mathematics Series, 2024. ISBN 978-3-662-69364-3. Free to UTSA students through SpringerLink.
-- Alan F. Beardon. [*Algebra and Geometry*](https://doi.org/10.1017/CBO9780511800436). Cambridge University Press, 2005. ISBN 978-0-521-81362-4. Online access for UTSA students through the library.
-- David A. Cox, John Little and Donal OShea. [*Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra*](https://doi.org/10.1007/978-3-031-91841-4). Springer, 2025. ISBN 978-3-031-91840-7. Online access for UTSA students through the library.
-
-
 
 ## Assessment and Grading
 
@@ -220,6 +219,38 @@ Credit will not be awarded when such an explanation is requested but not
 satisfactorily provided.
 
 
+## Course Schedule
+
+| Date | | Topic | Reading | Due |
+|---|---|---|---|---|
+| Wed 19 Aug |  | Course launch; the plane and its isometries | rosebrock Ch. 1 |  |
+| Mon 24 Aug |  | Reflections generate everything | rosebrock Ch. 1 |  |
+| Wed 26 Aug |  | From symmetry to the group axioms | rosebrock Ch. 2 |  |
+| Mon 31 Aug |  | Cyclic and dihedral groups | rosebrock Ch. 2 | Problem Set 1 |
+| Wed 2 Sep | **Q&A** | Defense 1 |  |  |
+| Wed 9 Sep |  | Permutations and the sign homomorphism | beardon §1.3-1.4 |  |
+| Mon 14 Sep |  | Subgroups; Cayley graphs | rosebrock Ch. 3 | Problem Set 2 |
+| Wed 16 Sep | **Q&A** | Defense 2 |  |  |
+| Mon 21 Sep |  | Cosets and Lagrange | beardon §12.2-12.3 |  |
+| Wed 23 Sep |  | Homomorphisms and quotient groups | rosebrock Ch. 3 |  |
+| Mon 28 Sep |  | Group actions: orbits and stabilizers | rosebrock Ch. 4 |  |
+| Wed 30 Sep | **Exam** | Midterm Exam 1 — Segment A |  |  |
+| Mon 5 Oct |  | Orbit-stabilizer and counting | rosebrock Ch. 4 |  |
+| Wed 7 Oct |  | Symmetries of the polyhedra; finite rotation groups in space | beardon §14.2-14.3 |  |
+| Wed 14 Oct |  | Finite groups; frieze and wallpaper patterns | rosebrock Ch. 7 |  |
+| Mon 19 Oct |  | Mobius transformations as a group action on the sphere | beardon Ch. 13 | Problem Set 3 |
+| Wed 21 Oct | **Q&A** | Defense 3 |  |  |
+| Mon 26 Oct |  | Rings and polynomial rings k[x], k[x,y] | knapp §VIII.1 |  |
+| Wed 28 Oct |  | Integral domains and fields of fractions; polynomials in one variable | knapp §VIII.2 |  |
+| Mon 2 Nov |  | Ideals; prime and maximal ideals | knapp §VIII.3 | Problem Set 4 |
+| Wed 4 Nov | **Q&A** | Defense 4 |  |  |
+| Mon 9 Nov |  | Affine space and affine varieties V(S) | clo §1.2 |  |
+| Wed 11 Nov |  | I(V) and the algebra-geometry dictionary | clo §1.4 |  |
+| Mon 16 Nov |  | The coordinate ring k[x,y]/I(V) — the landing | clo §1.4 | Problem Set 5 |
+| Wed 18 Nov | **Q&A** | Defense 5 |  |  |
+| Mon 23 Nov |  | Why C and not R; plane curves — rational, cusp, node | shafarevich §1.1 |  |
+| Mon 30 Nov | *Review* | Review — the exam pool |  |  |
+| Wed 2 Dec | **Exam** | Midterm Exam 2 — Segment B weighted |  |  |
 
 
 ## Department and University Policies

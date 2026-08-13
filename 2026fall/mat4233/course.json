@@ -101,13 +101,15 @@
   "materials": {
     "required": [
       {
-        "authors": "Jürg Kramer and Anna-Maria von Pippich",
+        "authors": "Jürgen Kramer and Anna-Maria von Pippich",
         "title": "From Natural Numbers to Quaternions",
         "publisher": "Springer",
         "series": "Springer Undergraduate Mathematics Series",
         "year": 2017,
         "isbn": "978-3-319-69427-6",
         "url": "https://doi.org/10.1007/978-3-319-69429-0",
+        "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621",
+        "abbr": "KvP",
         "note": "Free to UTSA students through SpringerLink."
       }
     ],
@@ -116,6 +118,7 @@
         "authors": "Keith Conrad",
         "title": "The Gaussian Integers",
         "url": "https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf",
+        "abbr": "Con",
         "note": "Free handout; assigned reading for the final segment."
       }
     ]

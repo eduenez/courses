@@ -106,6 +106,8 @@
         "year": 2024,
         "isbn": "978-3-662-69364-3",
         "url": "https://doi.org/10.1007/978-3-662-69365-0",
+        "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621",
+        "abbr": "Ros",
         "note": "Free to UTSA students through SpringerLink."
       },
       {
@@ -115,15 +117,19 @@
         "year": 2005,
         "isbn": "978-0-521-81362-4",
         "url": "https://doi.org/10.1017/CBO9780511800436",
+        "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621",
+        "abbr": "Bea",
         "note": "Online access for UTSA students through the library."
       },
       {
-        "authors": "David A. Cox, John Little and Donal OShea",
+        "authors": "David A. Cox, John Little and Donal O'Shea",
         "title": "Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra",
         "publisher": "Springer",
         "year": 2025,
         "isbn": "978-3-031-91840-7",
         "url": "https://doi.org/10.1007/978-3-031-91841-4",
+        "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621",
+        "abbr": "CLO",
         "note": "Online access for UTSA students through the library."
       }
     ]
