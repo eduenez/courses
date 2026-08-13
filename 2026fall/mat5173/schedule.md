@@ -45,30 +45,30 @@ Fall 2026
 | Wed 19 Aug | Lecture — Course launch; the plane and its isometries | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 1 |
 | Mon 24 Aug | Lecture — Reflections generate everything | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 1 |
 | Wed 26 Aug | Lecture — From symmetry to the group axioms | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 2; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. IV |
-| Mon 31 Aug | Lecture — Cyclic and dihedral groups (**Due**: Set 1) | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 2 |
-| Wed 2 Sep | **Q&A** |  |
-| Wed 9 Sep | Lecture — Permutations and the sign homomorphism | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §1.3-1.4; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. I (permutations) |
-| Mon 14 Sep | Lecture — Subgroups; Cayley graphs (**Due**: Set 2) | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 3 |
-| Wed 16 Sep | **Q&A** |  |
-| Mon 21 Sep | Lecture — Cosets and Lagrange | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §12.2-12.3; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. IV |
-| Wed 23 Sep | Lecture — Homomorphisms and quotient groups | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 3; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §12.11-12.12 |
-| Mon 28 Sep | Lecture — Group actions: orbits and stabilizers | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 4; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. IV |
-| Wed 30 Sep | **Exam** — Midterm Exam 1 — Segment A |  |
-| Mon 5 Oct | Lecture — Orbit-stabilizer and counting | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 4 |
+| Mon 31 Aug | Lecture — Cyclic and dihedral groups | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 2 |
+| Wed 2 Sep | Lecture — Permutations and the sign homomorphism | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §1.3-1.4; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. I (permutations) |
+| Wed 9 Sep | **Q&A** (**Due**: Set 1) |  |
+| Mon 14 Sep | Lecture — Subgroups; Cayley graphs | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 3 |
+| Wed 16 Sep | Lecture — Cosets and Lagrange | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §12.2-12.3; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. IV |
+| Mon 21 Sep | Lecture — Homomorphisms and quotient groups | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 3; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §12.11-12.12 |
+| Wed 23 Sep | Lecture — Group actions: orbits and stabilizers | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 4; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. IV |
+| Mon 28 Sep | Lecture — Orbit-stabilizer and counting | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 4 |
+| Wed 30 Sep | **Q&A** (**Due**: Set 2) |  |
+| Mon 5 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |  |
 | Wed 7 Oct | Lecture — Symmetries of the polyhedra; finite rotation groups in space | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §14.2-14.3 |
 | Wed 14 Oct | Lecture — Finite groups; frieze and wallpaper patterns | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 7; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §14.4 |
-| Mon 19 Oct | Lecture — Mobius transformations as a group action on the sphere (**Due**: Set 3) | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 13; [Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf); [Needham](https://doi.org/10.1093/oso/9780192868916.001.0001) Ch. 3 §IV-VI (handout; a copy is on reserve); [Mobius Transformations Revealed (2 min)](https://www.youtube.com/watch?v=0z1fIsUNhO4) |
-| Wed 21 Oct | **Q&A** |  |
-| Mon 26 Oct | Lecture — Rings and polynomial rings k[x], k[x,y] | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.1; [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.1; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §2.3 |
-| Wed 28 Oct | Lecture — Integral domains and fields of fractions; polynomials in one variable | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.2; [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.5 |
-| Mon 2 Nov | Lecture — Ideals; prime and maximal ideals (**Due**: Set 4) | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.3; [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4 |
-| Wed 4 Nov | **Q&A** |  |
-| Mon 9 Nov | Lecture — Affine space and affine varieties V(S) | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.2; [Smith](https://doi.org/10.1007/978-1-4757-4497-2) Ch. 1 (handout) |
-| Wed 11 Nov | Lecture — I(V) and the algebra-geometry dictionary | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4 |
-| Mon 16 Nov | Lecture — The coordinate ring k[x,y]/I(V) — the landing (**Due**: Set 5) | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.4; Reading guide, Segment B |
-| Wed 18 Nov | **Q&A** |  |
-| Mon 23 Nov | Lecture — Why C and not R; plane curves — rational, cusp, node | [Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621) §1.1 |
+| Mon 19 Oct | Lecture — Mobius transformations as a group action on the sphere | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 13; [Needham](https://doi.org/10.1093/oso/9780192868916.001.0001) Ch. 3 §IV-VI (handout; a copy is on reserve); [Mobius Transformations Revealed (2 min)](https://www.youtube.com/watch?v=0z1fIsUNhO4) |
+| Wed 21 Oct | Lecture — Rings and polynomial rings k[x], k[x,y] | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.1; [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.1; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §2.3 |
+| Mon 26 Oct | Lecture — Integral domains and fields of fractions; polynomials in one variable | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.2; [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.5 |
+| Wed 28 Oct | Lecture — Ideals; prime and maximal ideals | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.3; [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4 |
+| Mon 2 Nov | **Q&A** (**Due**: Set 3) |  |
+| Wed 4 Nov | Lecture — Affine space and affine varieties V(S) | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.2; [Smith](https://doi.org/10.1007/978-1-4757-4497-2) Ch. 1 (handout) |
+| Mon 9 Nov | Lecture — I(V) and the algebra-geometry dictionary | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4 |
+| Wed 11 Nov | Lecture — The coordinate ring k[x,y]/I(V) — the landing | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.4; Reading guide, Segment B |
+| Mon 16 Nov | Lecture — Why C and not R: the Nullstellensatz, stated | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4; Reading guide, Segment B |
+| Wed 18 Nov | **Q&A** (**Due**: Set 4) |  |
+| Mon 23 Nov | Lecture — Plane curves — rational, cusp, node | [Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621) §1.1 |
 | Mon 30 Nov | *Review* — Review — the exam pool |  |
-| Wed 2 Dec | **Exam** — Midterm Exam 2 — Segment B weighted |  |
+| Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |  |
 
 {: .schedule}

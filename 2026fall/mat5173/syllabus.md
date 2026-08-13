@@ -94,7 +94,7 @@ Eduardo Dueñez, Associate Professor of Mathematics.
 |---|---|
 | Department | Mathematics |
 | Office | FLN 4.01.11 |
-| Student hours | Wed 6PM–7PM |
+| Student hours | Mon 5:30PM – 6:30PM & Tue 1:30PM – 2:30PM |
 | Email | <eduardo.duenez@utsa.edu> |
 | Homepage | [https://supernumero.us/about](https://supernumero.us/about) |
 
@@ -257,31 +257,31 @@ satisfactorily provided.
 | Wed 19 Aug | Lecture — Course launch; the plane and its isometries |
 | Mon 24 Aug | Lecture — Reflections generate everything |
 | Wed 26 Aug | Lecture — From symmetry to the group axioms |
-| Mon 31 Aug | Lecture — Cyclic and dihedral groups (**Due**: Set 1) |
-| Wed 2 Sep | **Q&A** |
-| Wed 9 Sep | Lecture — Permutations and the sign homomorphism |
-| Mon 14 Sep | Lecture — Subgroups; Cayley graphs (**Due**: Set 2) |
-| Wed 16 Sep | **Q&A** |
-| Mon 21 Sep | Lecture — Cosets and Lagrange |
-| Wed 23 Sep | Lecture — Homomorphisms and quotient groups |
-| Mon 28 Sep | Lecture — Group actions: orbits and stabilizers |
-| Wed 30 Sep | **Exam** — Midterm Exam 1 — Segment A |
-| Mon 5 Oct | Lecture — Orbit-stabilizer and counting |
+| Mon 31 Aug | Lecture — Cyclic and dihedral groups |
+| Wed 2 Sep | Lecture — Permutations and the sign homomorphism |
+| Wed 9 Sep | **Q&A** (**Due**: Set 1) |
+| Mon 14 Sep | Lecture — Subgroups; Cayley graphs |
+| Wed 16 Sep | Lecture — Cosets and Lagrange |
+| Mon 21 Sep | Lecture — Homomorphisms and quotient groups |
+| Wed 23 Sep | Lecture — Group actions: orbits and stabilizers |
+| Mon 28 Sep | Lecture — Orbit-stabilizer and counting |
+| Wed 30 Sep | **Q&A** (**Due**: Set 2) |
+| Mon 5 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |
 | Wed 7 Oct | Lecture — Symmetries of the polyhedra; finite rotation groups in space |
 | Wed 14 Oct | Lecture — Finite groups; frieze and wallpaper patterns |
-| Mon 19 Oct | Lecture — Mobius transformations as a group action on the sphere (**Due**: Set 3) |
-| Wed 21 Oct | **Q&A** |
-| Mon 26 Oct | Lecture — Rings and polynomial rings k[x], k[x,y] |
-| Wed 28 Oct | Lecture — Integral domains and fields of fractions; polynomials in one variable |
-| Mon 2 Nov | Lecture — Ideals; prime and maximal ideals (**Due**: Set 4) |
-| Wed 4 Nov | **Q&A** |
-| Mon 9 Nov | Lecture — Affine space and affine varieties V(S) |
-| Wed 11 Nov | Lecture — I(V) and the algebra-geometry dictionary |
-| Mon 16 Nov | Lecture — The coordinate ring k[x,y]/I(V) — the landing (**Due**: Set 5) |
-| Wed 18 Nov | **Q&A** |
-| Mon 23 Nov | Lecture — Why C and not R; plane curves — rational, cusp, node |
+| Mon 19 Oct | Lecture — Mobius transformations as a group action on the sphere |
+| Wed 21 Oct | Lecture — Rings and polynomial rings k[x], k[x,y] |
+| Mon 26 Oct | Lecture — Integral domains and fields of fractions; polynomials in one variable |
+| Wed 28 Oct | Lecture — Ideals; prime and maximal ideals |
+| Mon 2 Nov | **Q&A** (**Due**: Set 3) |
+| Wed 4 Nov | Lecture — Affine space and affine varieties V(S) |
+| Mon 9 Nov | Lecture — I(V) and the algebra-geometry dictionary |
+| Wed 11 Nov | Lecture — The coordinate ring k[x,y]/I(V) — the landing |
+| Mon 16 Nov | Lecture — Why C and not R: the Nullstellensatz, stated |
+| Wed 18 Nov | **Q&A** (**Due**: Set 4) |
+| Mon 23 Nov | Lecture — Plane curves — rational, cusp, node |
 | Mon 30 Nov | *Review* — Review — the exam pool |
-| Wed 2 Dec | **Exam** — Midterm Exam 2 — Segment B weighted |
+| Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |
 
 
 Readings for each meeting are on the

@@ -39,7 +39,7 @@
     "email": "eduardo.duenez@utsa.edu",
     "bio_link": "about_me.md",
     "homepage": "https://supernumero.us/about",
-    "student_hours": "Wed 6PM–7PM"
+    "student_hours": "Mon 5:30PM – 6:30PM & Tue 1:30PM – 2:30PM"
   },
   "term": {
     "id": "2026fall",
@@ -254,15 +254,10 @@
       "date": "2026-08-31",
       "kind": "lecture",
       "topic": "Cyclic and dihedral groups",
-      "reading": "rosebrock Ch. 2",
-      "due": "Problem Set 1"
+      "reading": "rosebrock Ch. 2"
     },
     {
       "date": "2026-09-02",
-      "kind": "defense"
-    },
-    {
-      "date": "2026-09-09",
       "kind": "lecture",
       "topic": "Permutations and the sign homomorphism",
       "reading": "beardon §1.3-1.4",
@@ -271,18 +266,18 @@
       ]
     },
     {
+      "date": "2026-09-09",
+      "kind": "defense",
+      "due": "Problem Set 1"
+    },
+    {
       "date": "2026-09-14",
       "kind": "lecture",
       "topic": "Subgroups; Cayley graphs",
-      "reading": "rosebrock Ch. 3",
-      "due": "Problem Set 2"
+      "reading": "rosebrock Ch. 3"
     },
     {
       "date": "2026-09-16",
-      "kind": "defense"
-    },
-    {
-      "date": "2026-09-21",
       "kind": "lecture",
       "topic": "Cosets and Lagrange",
       "reading": "beardon §12.2-12.3",
@@ -291,7 +286,7 @@
       ]
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-21",
       "kind": "lecture",
       "topic": "Homomorphisms and quotient groups",
       "reading": "rosebrock Ch. 3",
@@ -300,7 +295,7 @@
       ]
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-23",
       "kind": "lecture",
       "topic": "Group actions: orbits and stabilizers",
       "reading": "rosebrock Ch. 4",
@@ -309,15 +304,20 @@
       ]
     },
     {
-      "date": "2026-09-30",
-      "kind": "exam",
-      "topic": "Midterm Exam 1 — Segment A"
-    },
-    {
-      "date": "2026-10-05",
+      "date": "2026-09-28",
       "kind": "lecture",
       "topic": "Orbit-stabilizer and counting",
       "reading": "rosebrock Ch. 4"
+    },
+    {
+      "date": "2026-09-30",
+      "kind": "defense",
+      "due": "Problem Set 2"
+    },
+    {
+      "date": "2026-10-05",
+      "kind": "exam",
+      "topic": "Midterm Exam 1 — Sets 1 and 2"
     },
     {
       "date": "2026-10-07",
@@ -338,7 +338,7 @@
       "date": "2026-10-19",
       "kind": "lecture",
       "topic": "Mobius transformations as a group action on the sphere",
-      "reading": "beardon Ch. 13; arnold-rogness",
+      "reading": "beardon Ch. 13",
       "extra": [
         {
           "text": "needham",
@@ -351,15 +351,10 @@
           "label": "Mobius Transformations Revealed (2 min)",
           "url": "https://www.youtube.com/watch?v=0z1fIsUNhO4"
         }
-      ],
-      "due": "Problem Set 3"
+      ]
     },
     {
       "date": "2026-10-21",
-      "kind": "defense"
-    },
-    {
-      "date": "2026-10-26",
       "kind": "lecture",
       "topic": "Rings and polynomial rings k[x], k[x,y]",
       "reading": "knapp §VIII.1",
@@ -369,7 +364,7 @@
       ]
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-26",
       "kind": "lecture",
       "topic": "Integral domains and fields of fractions; polynomials in one variable",
       "reading": "knapp §VIII.2",
@@ -378,21 +373,21 @@
       ]
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-10-28",
       "kind": "lecture",
       "topic": "Ideals; prime and maximal ideals",
       "reading": "knapp §VIII.3",
       "extra": [
         "clo §1.4"
-      ],
-      "due": "Problem Set 4"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "defense",
+      "due": "Problem Set 3"
     },
     {
       "date": "2026-11-04",
-      "kind": "defense"
-    },
-    {
-      "date": "2026-11-09",
       "kind": "lecture",
       "topic": "Affine space and affine varieties V(S)",
       "reading": "clo §1.2",
@@ -405,32 +400,39 @@
       ]
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-09",
       "kind": "lecture",
       "topic": "I(V) and the algebra-geometry dictionary",
       "reading": "clo §1.4"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-11",
       "kind": "lecture",
       "topic": "The coordinate ring k[x,y]/I(V) — the landing",
       "reading": "clo §1.4",
       "extra": [
         "knapp §VIII.4",
-        {
-          "note": "Reading guide, Segment B"
-        }
-      ],
-      "due": "Problem Set 5"
+        "Reading guide, Segment B"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "kind": "lecture",
+      "topic": "Why C and not R: the Nullstellensatz, stated",
+      "reading": "clo §1.4",
+      "extra": [
+        "Reading guide, Segment B"
+      ]
     },
     {
       "date": "2026-11-18",
-      "kind": "defense"
+      "kind": "defense",
+      "due": "Problem Set 4"
     },
     {
       "date": "2026-11-23",
       "kind": "lecture",
-      "topic": "Why C and not R; plane curves — rational, cusp, node",
+      "topic": "Plane curves — rational, cusp, node",
       "reading": "shafarevich §1.1"
     },
     {
@@ -441,7 +443,7 @@
     {
       "date": "2026-12-02",
       "kind": "exam",
-      "topic": "Midterm Exam 2 — Segment B weighted"
+      "topic": "Midterm Exam 2 — Sets 3 and 4"
     }
   ],
   "texts": {

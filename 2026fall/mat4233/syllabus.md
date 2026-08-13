@@ -89,7 +89,7 @@ Eduardo Dueñez, Associate Professor of Mathematics.
 |---|---|
 | Department | Mathematics |
 | Office | FLN 4.01.11 |
-| Student hours | Wed 6PM–7PM |
+| Student hours | Mon 5:30PM – 6:30PM & Tue 1:30PM – 2:30PM |
 | Email | <eduardo.duenez@utsa.edu> |
 | Homepage | [https://supernumero.us/about](https://supernumero.us/about) |
 
@@ -252,32 +252,32 @@ satisfactorily provided.
 | Thu 20 Aug | Lecture — Course launch; divisibility and the division algorithm |
 | Tue 25 Aug | Lecture — Primes, the Fundamental Theorem of Arithmetic, gcd and lcm |
 | Thu 27 Aug | Lecture — Semigroups, monoids, groups — all of them Z/nZ |
-| Tue 1 Sep | Lecture — Subgroups; the unit group (Z/nZ)* (**Due**: Set 1) |
-| Thu 3 Sep | **Q&A** |
-| Tue 8 Sep | Lecture — Group homomorphisms; the order of an element |
+| Tue 1 Sep | Lecture — Subgroups; the unit group (Z/nZ)* |
+| Thu 3 Sep | Lecture — Group homomorphisms; the order of an element |
+| Tue 8 Sep | **Q&A** (**Due**: Set 1) |
 | Thu 10 Sep | Lecture — Cyclic groups; primitive roots |
-| Tue 15 Sep | Lecture — Cosets and Lagrange's theorem (**Due**: Set 2) |
-| Thu 17 Sep | **Q&A** |
-| Tue 22 Sep | Lecture — Normal subgroups and quotient groups |
-| Thu 24 Sep | Lecture — The homomorphism theorem |
-| Tue 29 Sep | Lecture — Euler's theorem, fast modular exponentiation, and RSA end to end |
-| Thu 1 Oct | **Exam** — Midterm Exam 1 — Segment 1 |
+| Tue 15 Sep | Lecture — Cosets and Lagrange's theorem |
+| Thu 17 Sep | Lecture — Normal subgroups and quotient groups |
+| Tue 22 Sep | Lecture — The homomorphism theorem |
+| Thu 24 Sep | Lecture — Euler's theorem, fast modular exponentiation, and RSA end to end |
+| Tue 29 Sep | **Q&A** (**Due**: Set 2) |
+| Thu 1 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |
 | Tue 6 Oct | Lecture — Rings and subrings |
 | Thu 8 Oct | Lecture — Ring homomorphisms |
 | Thu 15 Oct | Lecture — Ideals |
-| Tue 20 Oct | Lecture — Quotient rings (**Due**: Set 3) |
-| Thu 22 Oct | **Q&A** |
-| Tue 27 Oct | Lecture — Fields and skew fields; F_p |
+| Tue 20 Oct | Lecture — Quotient rings |
+| Thu 22 Oct | Lecture — Fields and skew fields; F_p |
+| Tue 27 Oct | **Q&A** (**Due**: Set 3) |
 | Thu 29 Oct | Lecture — Integral domains and the field of fractions |
-| Tue 3 Nov | Lecture — Unique factorization: UFDs (**Due**: Set 4) |
-| Thu 5 Nov | **Q&A** |
-| Tue 10 Nov | Lecture — PIDs and Euclidean domains |
+| Tue 3 Nov | Lecture — Unique factorization: UFDs |
+| Thu 5 Nov | Lecture — Principal ideal domains |
+| Tue 10 Nov | Lecture — Euclidean domains |
 | Thu 12 Nov | Lecture — Complex numbers: arithmetic, the plane, polar form, roots of unity |
-| Tue 17 Nov | Lecture — Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points (**Due**: Set 5) |
-| Thu 19 Nov | **Q&A** |
+| Tue 17 Nov | Lecture — Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points |
+| Thu 19 Nov | **Q&A** (**Due**: Set 4) |
 | Tue 24 Nov | Lecture — The Gaussian integers: norm, division with remainder, irreducibles, and sums of two squares — a survey |
 | Tue 1 Dec | *Review* — Review — the exam pool |
-| Thu 3 Dec | **Exam** — Midterm Exam 2 — Segment 2 weighted |
+| Thu 3 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |
 
 
 Readings for each meeting are on the

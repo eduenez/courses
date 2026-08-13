@@ -39,7 +39,7 @@
     "email": "eduardo.duenez@utsa.edu",
     "bio_link": "about_me.md",
     "homepage": "https://supernumero.us/about",
-    "student_hours": "Wed 6PM–7PM"
+    "student_hours": "Mon 5:30PM – 6:30PM & Tue 1:30PM – 2:30PM"
   },
   "term": {
     "id": "2026fall",
@@ -252,18 +252,18 @@
       "date": "2026-09-01",
       "kind": "lecture",
       "topic": "Subgroups; the unit group (Z/nZ)*",
-      "reading": "kvp §2.2",
-      "due": "Problem Set 1"
+      "reading": "kvp §2.2"
     },
     {
       "date": "2026-09-03",
-      "kind": "defense"
-    },
-    {
-      "date": "2026-09-08",
       "kind": "lecture",
       "topic": "Group homomorphisms; the order of an element",
       "reading": "kvp §2.3"
+    },
+    {
+      "date": "2026-09-08",
+      "kind": "defense",
+      "due": "Problem Set 1"
     },
     {
       "date": "2026-09-10",
@@ -275,27 +275,22 @@
       "date": "2026-09-15",
       "kind": "lecture",
       "topic": "Cosets and Lagrange's theorem",
-      "reading": "kvp §2.4",
-      "due": "Problem Set 2"
+      "reading": "kvp §2.4"
     },
     {
       "date": "2026-09-17",
-      "kind": "defense"
-    },
-    {
-      "date": "2026-09-22",
       "kind": "lecture",
       "topic": "Normal subgroups and quotient groups",
       "reading": "kvp §2.5"
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-22",
       "kind": "lecture",
       "topic": "The homomorphism theorem",
       "reading": "kvp §2.6"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-24",
       "kind": "lecture",
       "topic": "Euler's theorem, fast modular exponentiation, and RSA end to end",
       "reading": "kvp App. B",
@@ -304,9 +299,14 @@
       ]
     },
     {
+      "date": "2026-09-29",
+      "kind": "defense",
+      "due": "Problem Set 2"
+    },
+    {
       "date": "2026-10-01",
       "kind": "exam",
-      "topic": "Midterm Exam 1 — Segment 1"
+      "topic": "Midterm Exam 1 — Sets 1 and 2"
     },
     {
       "date": "2026-10-06",
@@ -330,18 +330,18 @@
       "date": "2026-10-20",
       "kind": "lecture",
       "topic": "Quotient rings",
-      "reading": "kvp §3.3",
-      "due": "Problem Set 3"
+      "reading": "kvp §3.3"
     },
     {
       "date": "2026-10-22",
-      "kind": "defense"
-    },
-    {
-      "date": "2026-10-27",
       "kind": "lecture",
       "topic": "Fields and skew fields; F_p",
       "reading": "kvp §3.4"
+    },
+    {
+      "date": "2026-10-27",
+      "kind": "defense",
+      "due": "Problem Set 3"
     },
     {
       "date": "2026-10-29",
@@ -353,17 +353,18 @@
       "date": "2026-11-03",
       "kind": "lecture",
       "topic": "Unique factorization: UFDs",
-      "reading": "kvp §3.7",
-      "due": "Problem Set 4"
+      "reading": "kvp §3.7"
     },
     {
       "date": "2026-11-05",
-      "kind": "defense"
+      "kind": "lecture",
+      "topic": "Principal ideal domains",
+      "reading": "kvp §3.7"
     },
     {
       "date": "2026-11-10",
       "kind": "lecture",
-      "topic": "PIDs and Euclidean domains",
+      "topic": "Euclidean domains",
       "reading": "kvp §3.7"
     },
     {
@@ -395,12 +396,12 @@
           "label": "Mobius Transformations Revealed (2 min)",
           "url": "https://www.youtube.com/watch?v=0z1fIsUNhO4"
         }
-      ],
-      "due": "Problem Set 5"
+      ]
     },
     {
       "date": "2026-11-19",
-      "kind": "defense"
+      "kind": "defense",
+      "due": "Problem Set 4"
     },
     {
       "date": "2026-11-24",
@@ -416,7 +417,7 @@
     {
       "date": "2026-12-03",
       "kind": "exam",
-      "topic": "Midterm Exam 2 — Segment 2 weighted"
+      "topic": "Midterm Exam 2 — Sets 3 and 4"
     }
   ],
   "texts": {
