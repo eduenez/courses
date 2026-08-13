@@ -16,5 +16,5 @@ Fall 2026
 - [**Syllabus**](syllabus.html) — the full course syllabus
 - [Syllabus (PDF)](syllabus.pdf) — printable
 - [Syllabus (large print)](syllabus-large.html) — high-contrast, larger type
-- [**Weekly Schedule**](schedule.html) — meeting-by-meeting, with readings
+- [**Weekly Schedule**](schedule.html) — meeting-by-meeting, with readings ([PDF](schedule.pdf))
 

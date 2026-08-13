@@ -227,8 +227,12 @@ satisfactorily provided.
 
 ## Course Schedule
 
+<!-- Column widths are set by the relative dash counts below (pandoc derives
+     p{} widths from them for the PDF): Date ~15%, badge ~9%, Topic ~76%, so
+     Topic — which carries the text — is not starved by two near-empty columns. -->
+
 | Date | | Topic |
-|:--|:-:|:--|
+|:--------------|:-------:|:---------------------------------------------------------------------------|
 | Wed 19 Aug |  | Course launch; the plane and its isometries |
 | Mon 24 Aug |  | Reflections generate everything |
 | Wed 26 Aug |  | From symmetry to the group axioms |
@@ -260,7 +264,7 @@ satisfactorily provided.
 
 
 Readings for each meeting and assignment due-dates are on the
-[Weekly Schedule](schedule.html).
+[Weekly Schedule](schedule.html) (also available as a [printable PDF](schedule.pdf)).
 
 ## Department and University Policies
 

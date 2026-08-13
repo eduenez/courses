@@ -13,6 +13,8 @@ nav_order: 20
 Fall 2026
 {: .fs-5 .fw-300 }
 
+[Printable PDF](schedule.pdf){: .btn .btn-outline .fs-3 }
+
 ## Texts
 
 - **[KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621)** — Kramer & von Pippich, *From Natural Numbers to Quaternions*

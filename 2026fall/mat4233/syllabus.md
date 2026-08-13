@@ -226,8 +226,12 @@ satisfactorily provided.
 
 ## Course Schedule
 
+<!-- Column widths are set by the relative dash counts below (pandoc derives
+     p{} widths from them for the PDF): Date ~15%, badge ~9%, Topic ~76%, so
+     Topic — which carries the text — is not starved by two near-empty columns. -->
+
 | Date | | Topic |
-|:--|:-:|:--|
+|:--------------|:-------:|:---------------------------------------------------------------------------|
 | Thu 20 Aug |  | Course launch; divisibility and the division algorithm |
 | Tue 25 Aug |  | Primes, the Fundamental Theorem of Arithmetic, gcd and lcm |
 | Thu 27 Aug |  | Semigroups, monoids, groups — all of them Z/nZ |
@@ -260,7 +264,7 @@ satisfactorily provided.
 
 
 Readings for each meeting and assignment due-dates are on the
-[Weekly Schedule](schedule.html).
+[Weekly Schedule](schedule.html) (also available as a [printable PDF](schedule.pdf)).
 
 ## Department and University Policies
 
