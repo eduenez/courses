@@ -24,9 +24,6 @@ Fall 2026 · UT San Antonio
 ### Primary text
 
 - **[KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621)** — Kramer & von Pippich, *From Natural Numbers to Quaternions*
-
-### Secondary reading
-
 - **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*. Ch. 3 (complex numbers, polar form, roots of unity) and Ch. 13 (Mobius transformations).
 
 ### Supplementary reading

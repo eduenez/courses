@@ -421,7 +421,9 @@
       "reading": "clo §1.4",
       "extra": [
         "knapp §VIII.4",
-        "Reading guide, Segment B"
+        {
+          "note": "Reading guide, Segment B"
+        }
       ],
       "due": "Problem Set 5"
     },

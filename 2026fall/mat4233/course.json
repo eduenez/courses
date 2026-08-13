@@ -384,8 +384,11 @@
       "date": "2026-11-17",
       "kind": "lecture",
       "topic": "Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points",
-      "reading": "beardon Ch. 13; arnold-rogness",
+      "reading": "beardon Ch. 13",
       "extra": [
+        {
+          "text": "arnold-rogness"
+        },
         {
           "text": "needham",
           "loc": "Ch. 3 §I-II, §IV-VI",
@@ -437,7 +440,7 @@
       "short": "Beardon",
       "authors": "Beardon",
       "title": "Algebra and Geometry",
-      "role": "secondary",
+      "role": "primary",
       "access": "Full",
       "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621",
       "kms_key": "beardon2005algebra",
