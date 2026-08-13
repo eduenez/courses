@@ -74,10 +74,9 @@ By the end of this course you should be able to:
 - Define symmetric and permutation groups; determine the cycle decomposition and parity of finite permutations.
 - Define the notions of ring, subring, domain, field, ideal, homomorphism, isomorphism.
 - Define rings of polynomials over a field, the notion of degree, and irreducible factors.
-- Explain the abstract algebraic properties of various rings and number systems including ℤ, ℚ, ℝ, ℂ, ℍ, modular rings ℤ/nℤ, finite fields 𝔽ₚ and polynomial rings 𝔽[x].
+- Explain the abstract algebraic properties of various rings and number systems including ℤ, ℚ, ℝ, ℂ, modular rings ℤ/nℤ, finite fields 𝔽ₚ and polynomial rings 𝔽[x].
 - Explain the common and specific aspects of the division and Euclidean algorithms in the rings ℤ of integers, ℤ[i] of Gaussian integers, and polynomial rings 𝔽[x].
 - Show that every Euclidean domain is a Unique Factorization Domain.
-- Use properties of Gaussian primes and factorization in ℤ[i] to characterize sums of pairs of perfect squares.
 - Communicate concepts in writing and debate technical arguments orally.
 - Use a computer algebra system to for numerical and visual explorations in algebraic structures (e.g., the RSA cryptosystem and geometric transformation groups).
 
