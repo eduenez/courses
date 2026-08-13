@@ -39,7 +39,7 @@
     "email": "eduardo.duenez@utsa.edu",
     "bio_link": "about_me.md",
     "homepage": "https://supernumero.us/about",
-    "student_hours": "TBD"
+    "student_hours": "Wed 6PM–7PM"
   },
   "term": {
     "id": "2026fall",
@@ -257,8 +257,7 @@
     },
     {
       "date": "2026-09-03",
-      "kind": "defense",
-      "topic": "Defense 1"
+      "kind": "defense"
     },
     {
       "date": "2026-09-08",
@@ -281,8 +280,7 @@
     },
     {
       "date": "2026-09-17",
-      "kind": "defense",
-      "topic": "Defense 2"
+      "kind": "defense"
     },
     {
       "date": "2026-09-22",
@@ -337,8 +335,7 @@
     },
     {
       "date": "2026-10-22",
-      "kind": "defense",
-      "topic": "Defense 3"
+      "kind": "defense"
     },
     {
       "date": "2026-10-27",
@@ -361,8 +358,7 @@
     },
     {
       "date": "2026-11-05",
-      "kind": "defense",
-      "topic": "Defense 4"
+      "kind": "defense"
     },
     {
       "date": "2026-11-10",
@@ -404,8 +400,7 @@
     },
     {
       "date": "2026-11-19",
-      "kind": "defense",
-      "topic": "Defense 5"
+      "kind": "defense"
     },
     {
       "date": "2026-11-24",
