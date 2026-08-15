@@ -95,7 +95,7 @@
     "Explain the common and specific aspects of the division and Euclidean algorithms in the rings ℤ of integers, ℤ[i] of Gaussian integers, and polynomial rings 𝔽[x].",
     "Show that every Euclidean domain is a Unique Factorization Domain.",
     "Communicate concepts in writing and debate technical arguments orally.",
-    "Use a computer algebra system to for numerical and visual explorations in algebraic structures (e.g., the RSA cryptosystem and geometric transformation groups)."
+    "Use a computer algebra system for numerical and visual explorations in algebraic structures (e.g., experimental verification in particular cases of general theorems, visualization of geometric transformation groups, etc.)"
   ],
   "assessment": {
     "components": [
