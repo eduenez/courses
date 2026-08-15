@@ -23,17 +23,15 @@ Fall 2026 · UT San Antonio
 
 ### Primary text
 
-- **[KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621)** — Kramer & von Pippich, *From Natural Numbers to Quaternions*
-- **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*. Ch. 3 (complex numbers, polar form, roots of unity) and Ch. 13 (Mobius transformations).
+- **[LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621)** — Li & Zhao, *Introduction to Abstract Algebra*. Chapters 1-5, omitting 3.2, 3.5, 3.6, 4.3, 4.4 and 5.4. Sample solutions are printed for the exercises.
 
-### Supplementary reading
+### Secondary reading
 
-- **[Needham](https://doi.org/10.1093/oso/9780192868916.001.0001)** — Needham, *Visual Complex Analysis, 25th Anniversary Edition*. Not held by UTSA. Ch. 3 distributed as a handout; a copy is on reserve.
+- **[KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621)** — Kramer & von Pippich, *From Natural Numbers to Quaternions*. The gentle source for the arithmetic Li-Zhao assumes (Ch. I) and for the closing survey (Ch. V).
 
 ### Handouts & papers
 
-- **[Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf)** — Conrad, *The Gaussian Integers*. Survey reading for the final lecture: statements and examples; proofs optional.
-- **[Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf)** — Arnold & Rogness, *Möbius Transformations Revealed*. Notices of the AMS 55 (2008), no. 10. Co-reading for the Mobius lecture.
+- **[Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf)** — Conrad, *The Gaussian Integers*. Companion reading for the Two Squares lecture: statements and examples; proofs optional.
 
 
 ## Course Information
@@ -102,8 +100,8 @@ Email is the preferred method of communication.
 
 | Component | Weight | |
 |---|---:|---|
-| Q&A sessions | 40% | 5 sessions, 8% each |
-| Problem sets | 15% | 5 sets, 3% each |
+| Q&A sessions | 40% | 4 sessions, 10% each; none dropped |
+| Problem sets | 15% | 4 sets, 3.75% each; graded for completeness |
 | Midterm Exam 1 | 20% | Thu 1 Oct in class |
 | Midterm Exam 2 | 25% | Thu 3 Dec in class |
 
@@ -111,7 +109,7 @@ Email is the preferred method of communication.
 
 ### Q&A sessions
 
-Five class meetings throughout the semester (roughly every
+Four class meetings throughout the semester (roughly every
 other Thursday except when adjacent to an exam) will be *Q&A
 sessions* in which each student will be asked to explain and
 defend their solution to a homework problem submitted as part
@@ -145,10 +143,10 @@ to the level of ‘D’ (at most).
 
 ### Problem sets
 
-Five sets, each with three or four theoretical problems plus one
-SageMath computer exploration. **Maximum three pages.** Do *not*
-submit code; include the relevant snippets and output as part of
-your written submission. (SageMath problems are also included in Q&A.)
+Four sets, each with five or six theoretical problems plus one
+SageMath exploration. **Maximum four pages.** Do not submit code;
+include the relevant snippets and output inside your written work.
+(SageMath problems are also included in Q&A.)
 
 Each item will be scored *only* based on the **degree of completion**
 (not on correctness):
@@ -249,33 +247,33 @@ satisfactorily provided.
 
 | Date | Topic |
 |:------------|:---------------------------------------------------------------------------------------------|
-| Thu 20 Aug | Lecture — Course launch; divisibility and the division algorithm |
-| Tue 25 Aug | Lecture — Primes, the Fundamental Theorem of Arithmetic, gcd and lcm |
-| Thu 27 Aug | Lecture — Semigroups, monoids, groups — all of them Z/nZ |
-| Tue 1 Sep | Lecture — Subgroups; the unit group (Z/nZ)* |
-| Thu 3 Sep | Lecture — Group homomorphisms; the order of an element |
+| Thu 20 Aug | Lecture — Course launch. The integers: division algorithm, gcd, Bezout; congruence and the ring Zn |
+| Tue 25 Aug | Lecture — Binary operations; Cayley tables; Zn under addition and multiplication |
+| Thu 27 Aug | Lecture — Isomorphic binary structures |
+| Tue 1 Sep | Lecture — Groups: axioms and first properties. Zn, the unit group (Zn)*, and the symmetries of a square |
+| Thu 3 Sep | Lecture — Subgroups; subgroup criteria; the subgroups of Dn and of Zn |
 | Tue 8 Sep | **Q&A** (**Due**: Set 1) |
-| Thu 10 Sep | Lecture — Cyclic groups; primitive roots |
-| Tue 15 Sep | Lecture — Cosets and Lagrange's theorem |
-| Thu 17 Sep | Lecture — Normal subgroups and quotient groups |
-| Tue 22 Sep | Lecture — The homomorphism theorem |
-| Thu 24 Sep | Lecture — Euler's theorem, fast modular exponentiation, and RSA end to end |
+| Thu 10 Sep | Lecture — Cyclic groups; the order of an element; Zn, (Zp)* and primitive roots |
+| Tue 15 Sep | Lecture — Generating sets; Dn as the group generated by a rotation and a reflection |
+| Thu 17 Sep | Lecture — Permutation groups; cycle notation; Cayley's theorem |
+| Tue 22 Sep | Lecture — Alternating groups; the sign of a permutation; A4 and the tetrahedron |
+| Thu 24 Sep | Lecture — Plane isometries and finite symmetry groups: every one is cyclic or dihedral |
 | Tue 29 Sep | **Q&A** (**Due**: Set 2) |
 | Thu 1 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |
-| Tue 6 Oct | Lecture — Rings and subrings |
-| Thu 8 Oct | Lecture — Ring homomorphisms |
-| Thu 15 Oct | Lecture — Ideals |
-| Tue 20 Oct | Lecture — Quotient rings |
-| Thu 22 Oct | Lecture — Fields and skew fields; F_p |
+| Tue 6 Oct | Lecture — Cosets; Lagrange's theorem; index |
+| Thu 8 Oct | Lecture — Homomorphisms: kernel, image, and first properties |
+| Thu 15 Oct | Lecture — Normal subgroups; quotient groups; Z/nZ built properly |
+| Tue 20 Oct | Lecture — The isomorphism theorems; groups of small order |
+| Thu 22 Oct | Lecture — Rings and subrings; Zn as a ring; units and zero divisors |
 | Tue 27 Oct | **Q&A** (**Due**: Set 3) |
-| Thu 29 Oct | Lecture — Integral domains and the field of fractions |
-| Tue 3 Nov | Lecture — Unique factorization: UFDs |
-| Thu 5 Nov | Lecture — Principal ideal domains |
-| Tue 10 Nov | Lecture — Euclidean domains |
-| Thu 12 Nov | Lecture — Complex numbers: arithmetic, the plane, polar form, roots of unity |
-| Tue 17 Nov | Lecture — Mobius transformations: the formula, composition as matrix multiplication, circles to circles, the Riemann sphere, fixed points |
+| Thu 29 Oct | Lecture — Integral domains and fields; Zn is a field exactly when n is prime; characteristic. Euler's and Fermat's theorems via (Zn)* |
+| Tue 3 Nov | Lecture — Ring homomorphisms, ideals and quotient rings; the isomorphism theorems for rings |
+| Thu 5 Nov | Lecture — Ideal theory: principal, prime and maximal ideals |
+| Tue 10 Nov | Lecture — Irreducibles and primes; unique factorization domains; principal ideal domains |
+| Thu 12 Nov | Lecture — Euclidean domains; the Euclidean algorithm in Z and in k[x] |
+| Tue 17 Nov | Lecture — Multiplicative norms; the Gaussian integers Z[i]; Fermat's Two Squares theorem |
 | Thu 19 Nov | **Q&A** (**Due**: Set 4) |
-| Tue 24 Nov | Lecture — The Gaussian integers: norm, division with remainder, irreducibles, and sums of two squares — a survey |
+| Tue 24 Nov | Lecture — Sums of three and four squares; Z[sqrt(-5)] and the failure of unique factorization — a closing survey |
 | Tue 1 Dec | *Review* — Review — the exam pool |
 | Thu 3 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |
 

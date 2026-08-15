@@ -19,55 +19,54 @@ Fall 2026
 
 ### Primary text
 
-- **[Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621)** — Knapp, *Basic Algebra*
+- **[Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf)** — Ash, *Abstract Algebra: The Basic Graduate Year*
 
 ### Secondary reading
 
-- **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*
-- **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*
+- **[LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621)** — Li & Zhao, *Introduction to Abstract Algebra*
 - **[CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621)** — Cox, Little & O'Shea, *Ideals, Varieties, and Algorithms*
 
 ### Supplementary reading
 
 - **[Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621)** — Shafarevich, *Basic Algebraic Geometry 1*
-- **[Needham](https://doi.org/10.1093/oso/9780192868916.001.0001)** — Needham, *Visual Complex Analysis, 25th Anniversary Edition*
+- **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*
+- **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*
 
 ### Handouts & papers
 
 - **[Smith](https://doi.org/10.1007/978-1-4757-4497-2)** — Smith, Kahanpaa, Kekalainen & Traves, *An Invitation to Algebraic Geometry*
-- **[Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf)** — Arnold & Rogness, *Möbius Transformations Revealed*
 
 
 ## Schedule
 
 | Date | Topic | Reading |
 |:--|:--|:--|
-| Wed 19 Aug | Lecture — Course launch; the plane and its isometries | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 1 |
-| Mon 24 Aug | Lecture — Reflections generate everything | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 1 |
-| Wed 26 Aug | Lecture — From symmetry to the group axioms | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 2; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. IV |
-| Mon 31 Aug | Lecture — Cyclic and dihedral groups | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 2 |
-| Wed 2 Sep | Lecture — Permutations and the sign homomorphism | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §1.3-1.4; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. I (permutations) |
+| Wed 19 Aug | Lecture — Course launch; groups and subgroups | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §1.1; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.3-1.4 |
+| Mon 24 Aug | Lecture — Permutation groups; cyclic groups; the order of an element | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §1.2; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.5, §2.1; [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 2 (source of the symmetry-group examples) |
+| Wed 26 Aug | Lecture — Cosets, normal subgroups and homomorphisms | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §1.3; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §3.1, §3.3 |
+| Mon 31 Aug | Lecture — The isomorphism theorems | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §1.4; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §3.4 |
+| Wed 2 Sep | Lecture — Direct products | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §1.5; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 12 (worked examples in symmetry groups) |
 | Wed 9 Sep | **Q&A** (**Due**: Set 1) |  |
-| Mon 14 Sep | Lecture — Subgroups; Cayley graphs | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 3 |
-| Wed 16 Sep | Lecture — Cosets and Lagrange | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §12.2-12.3; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. IV |
-| Mon 21 Sep | Lecture — Homomorphisms and quotient groups | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 3; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §12.11-12.12 |
-| Wed 23 Sep | Lecture — Group actions: orbits and stabilizers | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 4; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) Ch. IV |
-| Mon 28 Sep | Lecture — Orbit-stabilizer and counting | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 4 |
+| Mon 14 Sep | Lecture — Rings: basic definitions and properties | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §2.1; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §4.1 |
+| Wed 16 Sep | Lecture — Ideals, homomorphisms and quotient rings; the isomorphism theorems for rings | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §2.2-2.3; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §4.5 |
+| Mon 21 Sep | Lecture — Maximal and prime ideals | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §2.4; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §4.7 |
+| Wed 23 Sep | Lecture — Polynomial rings; unique factorization | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §2.5-2.6; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §5.1 |
+| Mon 28 Sep | Lecture — Principal ideal domains and Euclidean domains; rings of fractions; irreducible polynomials | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §2.7-2.9; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §5.2-5.3 |
 | Wed 30 Sep | **Q&A** (**Due**: Set 2) |  |
 | Mon 5 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |  |
-| Wed 7 Oct | Lecture — Symmetries of the polyhedra; finite rotation groups in space | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §14.2-14.3 |
-| Wed 14 Oct | Lecture — Finite groups; frieze and wallpaper patterns | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 7; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §14.4 |
-| Mon 19 Oct | Lecture — Mobius transformations as a group action on the sphere | [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) Ch. 13; [Needham](https://doi.org/10.1093/oso/9780192868916.001.0001) Ch. 3 §IV-VI (handout; a copy is on reserve); [Mobius Transformations Revealed (2 min)](https://www.youtube.com/watch?v=0z1fIsUNhO4) |
-| Wed 21 Oct | Lecture — Rings and polynomial rings k[x], k[x,y] | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.1; [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.1; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §2.3 |
-| Mon 26 Oct | Lecture — Integral domains and fields of fractions; polynomials in one variable | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.2; [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.5 |
-| Wed 28 Oct | Lecture — Ideals; prime and maximal ideals | [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.3; [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4 |
+| Wed 7 Oct | Lecture — Field extensions; degree; simple extensions | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §3.1; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §6.1-6.2 |
+| Wed 14 Oct | Lecture — Splitting fields; algebraic closures | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §3.2-3.3; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §6.3 |
+| Mon 19 Oct | Lecture — Separability; normal extensions; finite fields | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §3.4-3.5; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §6.4; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §6.4 |
+| Wed 21 Oct | Lecture — Affine space and affine varieties | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.1-1.2; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §8.1; [Smith](https://doi.org/10.1007/978-1-4757-4497-2) Ch. 1 (handout) |
+| Mon 26 Oct | Lecture — V(I) and I(V): the two maps | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §8.1 |
+| Wed 28 Oct | Lecture — The coordinate ring; the algebra-geometry dictionary; the Nullstellensatz stated, and why k must be algebraically closed | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §8.3 |
 | Mon 2 Nov | **Q&A** (**Due**: Set 3) |  |
-| Wed 4 Nov | Lecture — Affine space and affine varieties V(S) | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.2; [Smith](https://doi.org/10.1007/978-1-4757-4497-2) Ch. 1 (handout) |
-| Mon 9 Nov | Lecture — I(V) and the algebra-geometry dictionary | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4 |
-| Wed 11 Nov | Lecture — The coordinate ring k[x,y]/I(V) — the landing | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4; [Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621) §VIII.4; Reading guide, Segment B |
-| Mon 16 Nov | Lecture — Why C and not R: the Nullstellensatz, stated | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.4; Reading guide, Segment B |
-| Wed 18 Nov | **Q&A** (**Due**: Set 4) |  |
-| Mon 23 Nov | Lecture — Plane curves — rational, cusp, node | [Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621) §1.1 |
+| Wed 4 Nov | Lecture — The Hilbert basis theorem; Noetherian rings; every variety is cut out by finitely many equations | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §8.2 |
+| Mon 9 Nov | Lecture — Plane curves: rational curves, the node and the cusp | [Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621) §1.1 |
+| Wed 11 Nov | Lecture — Fixed fields and Galois groups | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §6.1 |
+| Mon 16 Nov | Lecture — The fundamental theorem of Galois theory | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §6.2; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §6.3 |
+| Wed 18 Nov | Lecture — Solvability by radicals: the unsolvable quintic — a survey | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf) §6.8 |
+| Mon 23 Nov | **Q&A** (**Due**: Set 4) |  |
 | Mon 30 Nov | *Review* — Review — the exam pool |  |
 | Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |  |
 

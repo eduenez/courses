@@ -23,23 +23,22 @@ Fall 2026 · UT San Antonio
 
 ### Primary text
 
-- **[Knapp](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621)** — Knapp, *Basic Algebra*. Digital Second Edition is free from the author and licensed for course posting.
+- **[Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf)** — Ash, *Abstract Algebra: The Basic Graduate Year*. Chapters 1, 2, 3, then 8.1-8.3, then 6. Complete solutions to every problem are at the back.
 
 ### Secondary reading
 
-- **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*
-- **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*. The concrete companion: Ch. 1-3, 12, 13, 14.
+- **[LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621)** — Li & Zhao, *Introduction to Abstract Algebra*. The gentler parallel reading for every Ash section in Segments A-C. Also MAT 4233's primary text.
 - **[CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621)** — Cox, Little & O'Shea, *Ideals, Varieties, and Algorithms*. Chapter 1 only. No Groebner bases.
 
 ### Supplementary reading
 
 - **[Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621)** — Shafarevich, *Basic Algebraic Geometry 1*. Section 1.1 only — plane curves.
-- **[Needham](https://doi.org/10.1093/oso/9780192868916.001.0001)** — Needham, *Visual Complex Analysis, 25th Anniversary Edition*
+- **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*. No lecture is assigned out of it: it is the source of the symmetry-group examples that replace Ash's in Segment A.
+- **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*. As above — worked examples in symmetry groups, Ch. 12 and Ch. 14.
 
 ### Handouts & papers
 
 - **[Smith](https://doi.org/10.1007/978-1-4757-4497-2)** — Smith, Kahanpaa, Kekalainen & Traves, *An Invitation to Algebraic Geometry*. Not held by UTSA. Chapter 1 (13 pp.) distributed as a handout.
-- **[Arnold–Rogness](https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf)** — Arnold & Rogness, *Möbius Transformations Revealed*. Notices of the AMS 55 (2008), no. 10. Co-reading for the Mobius lecture.
 
 
 ## Course Information
@@ -107,16 +106,16 @@ Email is the preferred method of communication.
 
 | Component | Weight | |
 |---|---:|---|
-| Q&A sessions | 40% | 5 sessions, 8% each |
-| Problem sets | 15% | 5 sets, 3% each |
-| Midterm Exam 1 | 20% | Wed 30 Sep in class |
+| Q&A sessions | 40% | 4 sessions, 10% each; none dropped |
+| Problem sets | 15% | 4 sets, 3.75% each; graded for completeness |
+| Midterm Exam 1 | 20% | In class, Mon 5 Oct |
 | Midterm Exam 2 | 25% | Wed 2 Dec in class |
 
 
 
 ### Q&A sessions
 
-Five class meetings throughout the semester (roughly every
+Four class meetings throughout the semester (roughly every
 other Wednesday except when adjacent to an exam) will be *Q&A
 sessions* in which each student will be asked to explain and
 defend their solution to a homework problem submitted as part
@@ -150,10 +149,10 @@ to the level of ‘D’ (at most).
 
 ### Problem sets
 
-Five sets, each with three or four theoretical problems plus one
-SageMath computer exploration. **Maximum three pages.** Do *not*
-submit code; include the relevant snippets and output as part of
-your written submission. (SageMath problems are also included in Q&A.)
+Four sets, each with five or six theoretical problems plus one
+SageMath exploration. **Maximum four pages.** Do not submit code;
+include the relevant snippets and output inside your written work.
+(SageMath problems are also included in Q&A.)
 
 Each item will be scored *only* based on the **degree of completion**
 (not on correctness):
@@ -254,32 +253,32 @@ satisfactorily provided.
 
 | Date | Topic |
 |:------------|:---------------------------------------------------------------------------------------------|
-| Wed 19 Aug | Lecture — Course launch; the plane and its isometries |
-| Mon 24 Aug | Lecture — Reflections generate everything |
-| Wed 26 Aug | Lecture — From symmetry to the group axioms |
-| Mon 31 Aug | Lecture — Cyclic and dihedral groups |
-| Wed 2 Sep | Lecture — Permutations and the sign homomorphism |
+| Wed 19 Aug | Lecture — Course launch; groups and subgroups |
+| Mon 24 Aug | Lecture — Permutation groups; cyclic groups; the order of an element |
+| Wed 26 Aug | Lecture — Cosets, normal subgroups and homomorphisms |
+| Mon 31 Aug | Lecture — The isomorphism theorems |
+| Wed 2 Sep | Lecture — Direct products |
 | Wed 9 Sep | **Q&A** (**Due**: Set 1) |
-| Mon 14 Sep | Lecture — Subgroups; Cayley graphs |
-| Wed 16 Sep | Lecture — Cosets and Lagrange |
-| Mon 21 Sep | Lecture — Homomorphisms and quotient groups |
-| Wed 23 Sep | Lecture — Group actions: orbits and stabilizers |
-| Mon 28 Sep | Lecture — Orbit-stabilizer and counting |
+| Mon 14 Sep | Lecture — Rings: basic definitions and properties |
+| Wed 16 Sep | Lecture — Ideals, homomorphisms and quotient rings; the isomorphism theorems for rings |
+| Mon 21 Sep | Lecture — Maximal and prime ideals |
+| Wed 23 Sep | Lecture — Polynomial rings; unique factorization |
+| Mon 28 Sep | Lecture — Principal ideal domains and Euclidean domains; rings of fractions; irreducible polynomials |
 | Wed 30 Sep | **Q&A** (**Due**: Set 2) |
 | Mon 5 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |
-| Wed 7 Oct | Lecture — Symmetries of the polyhedra; finite rotation groups in space |
-| Wed 14 Oct | Lecture — Finite groups; frieze and wallpaper patterns |
-| Mon 19 Oct | Lecture — Mobius transformations as a group action on the sphere |
-| Wed 21 Oct | Lecture — Rings and polynomial rings k[x], k[x,y] |
-| Mon 26 Oct | Lecture — Integral domains and fields of fractions; polynomials in one variable |
-| Wed 28 Oct | Lecture — Ideals; prime and maximal ideals |
+| Wed 7 Oct | Lecture — Field extensions; degree; simple extensions |
+| Wed 14 Oct | Lecture — Splitting fields; algebraic closures |
+| Mon 19 Oct | Lecture — Separability; normal extensions; finite fields |
+| Wed 21 Oct | Lecture — Affine space and affine varieties |
+| Mon 26 Oct | Lecture — V(I) and I(V): the two maps |
+| Wed 28 Oct | Lecture — The coordinate ring; the algebra-geometry dictionary; the Nullstellensatz stated, and why k must be algebraically closed |
 | Mon 2 Nov | **Q&A** (**Due**: Set 3) |
-| Wed 4 Nov | Lecture — Affine space and affine varieties V(S) |
-| Mon 9 Nov | Lecture — I(V) and the algebra-geometry dictionary |
-| Wed 11 Nov | Lecture — The coordinate ring k[x,y]/I(V) — the landing |
-| Mon 16 Nov | Lecture — Why C and not R: the Nullstellensatz, stated |
-| Wed 18 Nov | **Q&A** (**Due**: Set 4) |
-| Mon 23 Nov | Lecture — Plane curves — rational, cusp, node |
+| Wed 4 Nov | Lecture — The Hilbert basis theorem; Noetherian rings; every variety is cut out by finitely many equations |
+| Mon 9 Nov | Lecture — Plane curves: rational curves, the node and the cusp |
+| Wed 11 Nov | Lecture — Fixed fields and Galois groups |
+| Mon 16 Nov | Lecture — The fundamental theorem of Galois theory |
+| Wed 18 Nov | Lecture — Solvability by radicals: the unsolvable quintic — a survey |
+| Mon 23 Nov | **Q&A** (**Due**: Set 4) |
 | Mon 30 Nov | *Review* — Review — the exam pool |
 | Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |
 

@@ -101,17 +101,17 @@
       {
         "name": "Q&A sessions",
         "weight": 40,
-        "detail": "5 sessions, 8% each"
+        "detail": "4 sessions, 10% each; none dropped"
       },
       {
         "name": "Problem sets",
         "weight": 15,
-        "detail": "5 sets, 3% each"
+        "detail": "4 sets, 3.75% each; graded for completeness"
       },
       {
         "name": "Midterm Exam 1",
         "weight": 20,
-        "detail": "Wed 30 Sep in class"
+        "detail": "In class, Mon 5 Oct"
       },
       {
         "name": "Midterm Exam 2",
@@ -175,12 +175,12 @@
       {
         "id": "defense",
         "title": "Q&A sessions",
-        "body": "Five class meetings throughout the semester (roughly every\nother Wednesday except when adjacent to an exam) will be *Q&A\nsessions* in which each student will be asked to explain and\ndefend their solution to a homework problem submitted as part\nof a written assignment. You will only be asked questions\nrelated to an assigned problem and about the solution you\nsubmitted.\n\nEach Q&A session is scored 0–3:\n\n- **3** Correct explanation to a correct solution, demonstrating\n  full understanding of the concepts and all aspects of the\n  solution submitted.\n- **2** A completely correct solution submitted is explained\n  to an incomplete degree;\n  **Or**: an unfinished solution, with a thorough and articulate\n  account of what you tried, explaining where and why you got stuck\n  while demonstrating knowledge of the background and reading\n  necessary to solve the problem.\n- **1** Correct solution inadequately explained revealing little or\n  no understanding; *or*: partial solution accompanied by an\n  incomplete but partly correct oral explanation.\n- **0** Nothing submitted; *or*: work submitted (even if fully correct)\n  is backed by no cogent explanation nor knowledge of concepts involved.\n\n> **A correct answer you cannot explain is worth less than an\n> explainable honest failure.**\n\n**Note:** A Q&A average ≤ 1.0 automatically caps the course grade\nto the level of ‘D’ (at most).\n"
+        "body": "Four class meetings throughout the semester (roughly every\nother Wednesday except when adjacent to an exam) will be *Q&A\nsessions* in which each student will be asked to explain and\ndefend their solution to a homework problem submitted as part\nof a written assignment. You will only be asked questions\nrelated to an assigned problem and about the solution you\nsubmitted.\n\nEach Q&A session is scored 0–3:\n\n- **3** Correct explanation to a correct solution, demonstrating\n  full understanding of the concepts and all aspects of the\n  solution submitted.\n- **2** A completely correct solution submitted is explained\n  to an incomplete degree;\n  **Or**: an unfinished solution, with a thorough and articulate\n  account of what you tried, explaining where and why you got stuck\n  while demonstrating knowledge of the background and reading\n  necessary to solve the problem.\n- **1** Correct solution inadequately explained revealing little or\n  no understanding; *or*: partial solution accompanied by an\n  incomplete but partly correct oral explanation.\n- **0** Nothing submitted; *or*: work submitted (even if fully correct)\n  is backed by no cogent explanation nor knowledge of concepts involved.\n\n> **A correct answer you cannot explain is worth less than an\n> explainable honest failure.**\n\n**Note:** A Q&A average ≤ 1.0 automatically caps the course grade\nto the level of ‘D’ (at most).\n"
       },
       {
         "id": "problem_sets",
         "title": "Problem sets",
-        "body": "Five sets, each with three or four theoretical problems plus one\nSageMath computer exploration. **Maximum three pages.** Do *not*\nsubmit code; include the relevant snippets and output as part of\nyour written submission. (SageMath problems are also included in Q&A.)\n\nEach item will be scored *only* based on the **degree of completion**\n(not on correctness):\n**2** for a nominally complete solution,\n**1** for a clearly partial one,\n**0** for nothing submitted or for obvious filler with no substance.\n\n*Note:* Any submission containing non-human-readable content, stray\ncharacters, or artifacts revealing non-proofread AI output scores 0\nfor that item.\n"
+        "body": "Four sets, each with five or six theoretical problems plus one\nSageMath exploration. **Maximum four pages.** Do not submit code;\ninclude the relevant snippets and output inside your written work.\n(SageMath problems are also included in Q&A.)\n\nEach item will be scored *only* based on the **degree of completion**\n(not on correctness):\n**2** for a nominally complete solution,\n**1** for a clearly partial one,\n**0** for nothing submitted or for obvious filler with no substance.\n\n*Note:* Any submission containing non-human-readable content, stray\ncharacters, or artifacts revealing non-proofread AI output scores 0\nfor that item.\n"
       },
       {
         "id": "ai",
@@ -232,37 +232,55 @@
     {
       "date": "2026-08-19",
       "kind": "lecture",
-      "topic": "Course launch; the plane and its isometries",
-      "reading": "rosebrock Ch. 1"
+      "topic": "Course launch; groups and subgroups",
+      "reading": "ash §1.1",
+      "extra": [
+        "lizh §1.3-1.4"
+      ]
     },
     {
       "date": "2026-08-24",
       "kind": "lecture",
-      "topic": "Reflections generate everything",
-      "reading": "rosebrock Ch. 1"
+      "topic": "Permutation groups; cyclic groups; the order of an element",
+      "reading": "ash §1.2",
+      "extra": [
+        "lizh §1.5, §2.1",
+        {
+          "text": "rosebrock",
+          "loc": "Ch. 2",
+          "note": "source of the symmetry-group examples"
+        }
+      ]
     },
     {
       "date": "2026-08-26",
       "kind": "lecture",
-      "topic": "From symmetry to the group axioms",
-      "reading": "rosebrock Ch. 2",
+      "topic": "Cosets, normal subgroups and homomorphisms",
+      "reading": "ash §1.3",
       "extra": [
-        "knapp Ch. IV"
+        "lizh §3.1, §3.3"
       ]
     },
     {
       "date": "2026-08-31",
       "kind": "lecture",
-      "topic": "Cyclic and dihedral groups",
-      "reading": "rosebrock Ch. 2"
+      "topic": "The isomorphism theorems",
+      "reading": "ash §1.4",
+      "extra": [
+        "lizh §3.4"
+      ]
     },
     {
       "date": "2026-09-02",
       "kind": "lecture",
-      "topic": "Permutations and the sign homomorphism",
-      "reading": "beardon §1.3-1.4",
+      "topic": "Direct products",
+      "reading": "ash §1.5",
       "extra": [
-        "knapp Ch. I (permutations)"
+        {
+          "text": "beardon",
+          "loc": "Ch. 12",
+          "note": "worked examples in symmetry groups"
+        }
       ]
     },
     {
@@ -273,41 +291,47 @@
     {
       "date": "2026-09-14",
       "kind": "lecture",
-      "topic": "Subgroups; Cayley graphs",
-      "reading": "rosebrock Ch. 3"
+      "topic": "Rings: basic definitions and properties",
+      "reading": "ash §2.1",
+      "extra": [
+        "lizh §4.1"
+      ]
     },
     {
       "date": "2026-09-16",
       "kind": "lecture",
-      "topic": "Cosets and Lagrange",
-      "reading": "beardon §12.2-12.3",
+      "topic": "Ideals, homomorphisms and quotient rings; the isomorphism theorems for rings",
+      "reading": "ash §2.2-2.3",
       "extra": [
-        "knapp Ch. IV"
+        "lizh §4.5"
       ]
     },
     {
       "date": "2026-09-21",
       "kind": "lecture",
-      "topic": "Homomorphisms and quotient groups",
-      "reading": "rosebrock Ch. 3",
+      "topic": "Maximal and prime ideals",
+      "reading": "ash §2.4",
       "extra": [
-        "beardon §12.11-12.12"
+        "lizh §4.7"
       ]
     },
     {
       "date": "2026-09-23",
       "kind": "lecture",
-      "topic": "Group actions: orbits and stabilizers",
-      "reading": "rosebrock Ch. 4",
+      "topic": "Polynomial rings; unique factorization",
+      "reading": "ash §2.5-2.6",
       "extra": [
-        "knapp Ch. IV"
+        "lizh §5.1"
       ]
     },
     {
       "date": "2026-09-28",
       "kind": "lecture",
-      "topic": "Orbit-stabilizer and counting",
-      "reading": "rosebrock Ch. 4"
+      "topic": "Principal ideal domains and Euclidean domains; rings of fractions; irreducible polynomials",
+      "reading": "ash §2.7-2.9",
+      "extra": [
+        "lizh §5.2-5.3"
+      ]
     },
     {
       "date": "2026-09-30",
@@ -322,63 +346,61 @@
     {
       "date": "2026-10-07",
       "kind": "lecture",
-      "topic": "Symmetries of the polyhedra; finite rotation groups in space",
-      "reading": "beardon §14.2-14.3"
+      "topic": "Field extensions; degree; simple extensions",
+      "reading": "ash §3.1",
+      "extra": [
+        "lizh §6.1-6.2"
+      ]
     },
     {
       "date": "2026-10-14",
       "kind": "lecture",
-      "topic": "Finite groups; frieze and wallpaper patterns",
-      "reading": "rosebrock Ch. 7",
+      "topic": "Splitting fields; algebraic closures",
+      "reading": "ash §3.2-3.3",
       "extra": [
-        "beardon §14.4"
+        "lizh §6.3"
       ]
     },
     {
       "date": "2026-10-19",
       "kind": "lecture",
-      "topic": "Mobius transformations as a group action on the sphere",
-      "reading": "beardon Ch. 13",
+      "topic": "Separability; normal extensions; finite fields",
+      "reading": "ash §3.4-3.5",
       "extra": [
-        {
-          "text": "needham",
-          "loc": "Ch. 3 §IV-VI",
-          "note": "handout; a copy is on reserve"
-        }
-      ],
-      "links": [
-        {
-          "label": "Mobius Transformations Revealed (2 min)",
-          "url": "https://www.youtube.com/watch?v=0z1fIsUNhO4"
-        }
+        "ash §6.4",
+        "lizh §6.4"
       ]
     },
     {
       "date": "2026-10-21",
       "kind": "lecture",
-      "topic": "Rings and polynomial rings k[x], k[x,y]",
-      "reading": "knapp §VIII.1",
+      "topic": "Affine space and affine varieties",
+      "reading": "clo §1.1-1.2",
       "extra": [
-        "clo §1.1",
-        "beardon §2.3"
+        "ash §8.1",
+        {
+          "text": "smith",
+          "loc": "Ch. 1",
+          "note": "handout"
+        }
       ]
     },
     {
       "date": "2026-10-26",
       "kind": "lecture",
-      "topic": "Integral domains and fields of fractions; polynomials in one variable",
-      "reading": "knapp §VIII.2",
+      "topic": "V(I) and I(V): the two maps",
+      "reading": "clo §1.4",
       "extra": [
-        "clo §1.5"
+        "ash §8.1"
       ]
     },
     {
       "date": "2026-10-28",
       "kind": "lecture",
-      "topic": "Ideals; prime and maximal ideals",
-      "reading": "knapp §VIII.3",
+      "topic": "The coordinate ring; the algebra-geometry dictionary; the Nullstellensatz stated, and why k must be algebraically closed",
+      "reading": "clo §1.4",
       "extra": [
-        "clo §1.4"
+        "ash §8.3"
       ]
     },
     {
@@ -389,51 +411,40 @@
     {
       "date": "2026-11-04",
       "kind": "lecture",
-      "topic": "Affine space and affine varieties V(S)",
-      "reading": "clo §1.2",
-      "extra": [
-        {
-          "text": "smith",
-          "loc": "Ch. 1",
-          "note": "handout"
-        }
-      ]
+      "topic": "The Hilbert basis theorem; Noetherian rings; every variety is cut out by finitely many equations",
+      "reading": "ash §8.2"
     },
     {
       "date": "2026-11-09",
       "kind": "lecture",
-      "topic": "I(V) and the algebra-geometry dictionary",
-      "reading": "clo §1.4"
+      "topic": "Plane curves: rational curves, the node and the cusp",
+      "reading": "shafarevich §1.1"
     },
     {
       "date": "2026-11-11",
       "kind": "lecture",
-      "topic": "The coordinate ring k[x,y]/I(V) — the landing",
-      "reading": "clo §1.4",
-      "extra": [
-        "knapp §VIII.4",
-        "Reading guide, Segment B"
-      ]
+      "topic": "Fixed fields and Galois groups",
+      "reading": "ash §6.1"
     },
     {
       "date": "2026-11-16",
       "kind": "lecture",
-      "topic": "Why C and not R: the Nullstellensatz, stated",
-      "reading": "clo §1.4",
+      "topic": "The fundamental theorem of Galois theory",
+      "reading": "ash §6.2",
       "extra": [
-        "Reading guide, Segment B"
+        "ash §6.3"
       ]
     },
     {
       "date": "2026-11-18",
-      "kind": "defense",
-      "due": "Problem Set 4"
+      "kind": "lecture",
+      "topic": "Solvability by radicals: the unsolvable quintic — a survey",
+      "reading": "ash §6.8"
     },
     {
       "date": "2026-11-23",
-      "kind": "lecture",
-      "topic": "Plane curves — rational, cusp, node",
-      "reading": "shafarevich §1.1"
+      "kind": "defense",
+      "due": "Problem Set 4"
     },
     {
       "date": "2026-11-30",
@@ -447,36 +458,26 @@
     }
   ],
   "texts": {
-    "rosebrock": {
-      "short": "Rosebrock",
-      "authors": "Rosebrock",
-      "title": "Visual Group Theory",
-      "role": "secondary",
-      "access": "Full",
-      "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621",
-      "url": "https://doi.org/10.1007/978-3-662-69365-0",
-      "kms_key": "rosebrock2024visual"
-    },
-    "knapp": {
-      "short": "Knapp",
-      "authors": "Knapp",
-      "title": "Basic Algebra",
+    "ash": {
+      "short": "Ash",
+      "authors": "Ash",
+      "title": "Abstract Algebra: The Basic Graduate Year",
       "role": "primary",
-      "access": "Full",
-      "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877833604621",
-      "url": "https://www.math.stonybrook.edu/~aknapp/download/b2-alg-clickable.pdf",
-      "kms_key": "knapp2006basic",
-      "note": "Digital Second Edition is free from the author and licensed for course posting."
+      "access": "Free",
+      "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf",
+      "kms_key": "ash2002abstract",
+      "note": "Chapters 1, 2, 3, then 8.1-8.3, then 6. Complete solutions to every problem are at the back."
     },
-    "beardon": {
-      "short": "Beardon",
-      "authors": "Beardon",
-      "title": "Algebra and Geometry",
+    "lizh": {
+      "short": "LiZh",
+      "authors": "Li & Zhao",
+      "title": "Introduction to Abstract Algebra",
       "role": "secondary",
-      "access": "Full",
-      "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621",
-      "kms_key": "beardon2005algebra",
-      "note": "The concrete companion: Ch. 1-3, 12, 13, 14."
+      "access": "Online",
+      "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621",
+      "url": "https://doi.org/10.1051/978-2-7598-2916-3",
+      "kms_key": "li2022introduction",
+      "note": "The gentler parallel reading for every Ash section in Segments A-C. Also MAT 4233's primary text."
     },
     "clo": {
       "short": "CLO",
@@ -510,23 +511,26 @@
       "kms_key": "smith2000invitation",
       "note": "Not held by UTSA. Chapter 1 (13 pp.) distributed as a handout."
     },
-    "needham": {
-      "short": "Needham",
-      "authors": "Needham",
-      "title": "Visual Complex Analysis, 25th Anniversary Edition",
+    "rosebrock": {
+      "short": "Rosebrock",
+      "authors": "Rosebrock",
+      "title": "Visual Group Theory",
       "role": "supplement",
-      "access": "None",
-      "url": "https://doi.org/10.1093/oso/9780192868916.001.0001",
-      "kms_key": "needham2023visual"
+      "access": "Full",
+      "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621",
+      "url": "https://doi.org/10.1007/978-3-662-69365-0",
+      "kms_key": "rosebrock2024visual",
+      "note": "No lecture is assigned out of it: it is the source of the symmetry-group examples that replace Ash's in Segment A."
     },
-    "arnold-rogness": {
-      "short": "Arnold–Rogness",
-      "authors": "Arnold & Rogness",
-      "title": "Möbius Transformations Revealed",
-      "role": "handout",
-      "access": "Free",
-      "url": "https://www-users.cse.umn.edu/~arnold/papers/moebius.pdf",
-      "note": "Notices of the AMS 55 (2008), no. 10. Co-reading for the Mobius lecture."
+    "beardon": {
+      "short": "Beardon",
+      "authors": "Beardon",
+      "title": "Algebra and Geometry",
+      "role": "supplement",
+      "access": "Full",
+      "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621",
+      "kms_key": "beardon2005algebra",
+      "note": "As above — worked examples in symmetry groups, Ch. 12 and Ch. 14."
     }
   }
 }
