@@ -234,7 +234,7 @@
       "date": "2026-08-20",
       "kind": "lecture",
       "topic": "Course launch. The integers: division algorithm, gcd, Bezout; congruence and the ring Zn",
-      "reading": "kvp §1.1-1.5"
+      "reading": "childs Ch. 3, 5 & 6."
     },
     {
       "date": "2026-08-25",
@@ -401,8 +401,7 @@
       "extra": [
         {
           "note": "Instructor notes"
-        },
-        "kvp §5.1-5.2"
+        }
       ]
     },
     {
@@ -427,6 +426,17 @@
       "url": "https://doi.org/10.1051/978-2-7598-2916-3",
       "kms_key": "li2022introduction",
       "note": "Chapters 1-5, omitting 3.2, 3.5, 3.6, 4.3, 4.4 and 5.4. Sample solutions are printed for the exercises."
+    },
+    "childs": {
+      "short": "Childs",
+      "authors": "Childs",
+      "title": "A Concrete Introduction to Higher Algebra",
+      "role": "supplement",
+      "access": "Online",
+      "permalink": "",
+      "url": "https://doi.org/10.1007/978-0-387-74725-5",
+      "kms_key": "childs2009concrete",
+      "note": "Textbook for prior course MAT 3233. Chapters 1-6 serve as reference for basic number theory and modular rings ℤₙ."
     },
     "conrad-zi": {
       "short": "Conrad",
