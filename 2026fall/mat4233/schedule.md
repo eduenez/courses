@@ -23,7 +23,7 @@ Fall 2026
 
 ### Supplementary reading
 
-- **[Childs](https://doi.org/10.1007/978-0-387-74725-5)** — Childs, *A Concrete Introduction to Higher Algebra*
+- **[Childs](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877516004621)** — Childs, *A Concrete Introduction to Higher Algebra*
 
 ### Handouts & papers
 
@@ -34,7 +34,7 @@ Fall 2026
 
 | Date | Topic | Reading |
 |:--|:--|:--|
-| Thu 20 Aug | Lecture — Course launch. The integers: division algorithm, gcd, Bezout; congruence and the ring Zn | [Childs](https://doi.org/10.1007/978-0-387-74725-5) Ch. 3, 5 & 6. |
+| Thu 20 Aug | Lecture — Course launch. The integers: division algorithm, gcd, Bezout; congruence and the ring Zn | [Childs](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877516004621) Ch. 3, 5 & 6. |
 | Tue 25 Aug | Lecture — Binary operations; Cayley tables; Zn under addition and multiplication | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.1 |
 | Thu 27 Aug | Lecture — Isomorphic binary structures | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.2 |
 | Tue 1 Sep | Lecture — Groups: axioms and first properties. Zn, the unit group (Zn)*, and the symmetries of a square | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.3 |

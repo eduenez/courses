@@ -27,7 +27,7 @@ Fall 2026 · UT San Antonio
 
 ### Supplementary reading
 
-- **[Childs](https://doi.org/10.1007/978-0-387-74725-5)** — Childs, *A Concrete Introduction to Higher Algebra*. Textbook for prior course MAT 3233. Chapters 1-6 serve as reference for basic number theory and modular rings ℤₙ.
+- **[Childs](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937877516004621)** — Childs, *A Concrete Introduction to Higher Algebra*. Textbook for prior course MAT 3233. Chapters 1-6 serve as reference for basic number theory and modular rings ℤₙ.
 
 ### Handouts & papers
 
