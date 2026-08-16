@@ -428,17 +428,6 @@
       "kms_key": "li2022introduction",
       "note": "Chapters 1-5, omitting 3.2, 3.5, 3.6, 4.3, 4.4 and 5.4. Sample solutions are printed for the exercises."
     },
-    "kvp": {
-      "short": "KvP",
-      "authors": "Kramer & von Pippich",
-      "title": "From Natural Numbers to Quaternions",
-      "role": "secondary",
-      "access": "Full",
-      "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621",
-      "url": "https://doi.org/10.1007/978-3-319-69429-0",
-      "kms_key": "kramer2017natural",
-      "note": "The gentle source for the arithmetic Li-Zhao assumes (Ch. I) and for the closing survey (Ch. V)."
-    },
     "conrad-zi": {
       "short": "Conrad",
       "authors": "Conrad",

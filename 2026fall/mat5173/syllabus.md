@@ -23,7 +23,7 @@ Fall 2026 · UT San Antonio
 
 ### Primary text
 
-- **[Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/texts/Ash_Abstract-Algebra.pdf)** — Ash, *Abstract Algebra: The Basic Graduate Year*. Chapters 1, 2, 3, then 8.1-8.3, then 6. Complete solutions to every problem are at the back.
+- **[Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf)** — Ash, *Abstract Algebra: The Basic Graduate Year*. Chapters 1, 2, 3, then 8.1-8.3, then 6. Complete solutions to every problem are at the back.
 
 ### Secondary reading
 

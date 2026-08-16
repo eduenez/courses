@@ -8,7 +8,10 @@ nav_order: 30
 
 # Downloads
 
-Files here are public — no passphrase, open to anyone with the link.
+## Public
 
-- [texts/Ash_Abstract-Algebra.pdf](downloads/texts/Ash_Abstract-Algebra.pdf)
+Open to anyone with the link — no passphrase.
+
+- [texts/Ash_Abstract-Algebra.pdf](downloads/public/texts/Ash_Abstract-Algebra.pdf)
+
 

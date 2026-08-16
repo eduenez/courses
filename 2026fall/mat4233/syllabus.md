@@ -25,10 +25,6 @@ Fall 2026 · UT San Antonio
 
 - **[LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621)** — Li & Zhao, *Introduction to Abstract Algebra*. Chapters 1-5, omitting 3.2, 3.5, 3.6, 4.3, 4.4 and 5.4. Sample solutions are printed for the exercises.
 
-### Secondary reading
-
-- **[KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621)** — Kramer & von Pippich, *From Natural Numbers to Quaternions*. The gentle source for the arithmetic Li-Zhao assumes (Ch. I) and for the closing survey (Ch. V).
-
 ### Handouts & papers
 
 - **[Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf)** — Conrad, *The Gaussian Integers*. Companion reading for the Two Squares lecture: statements and examples; proofs optional.

@@ -21,10 +21,6 @@ Fall 2026
 
 - **[LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621)** — Li & Zhao, *Introduction to Abstract Algebra*
 
-### Secondary reading
-
-- **[KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621)** — Kramer & von Pippich, *From Natural Numbers to Quaternions*
-
 ### Handouts & papers
 
 - **[Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf)** — Conrad, *The Gaussian Integers*
@@ -34,7 +30,7 @@ Fall 2026
 
 | Date | Topic | Reading |
 |:--|:--|:--|
-| Thu 20 Aug | Lecture — Course launch. The integers: division algorithm, gcd, Bezout; congruence and the ring Zn | [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §1.1-1.5 |
+| Thu 20 Aug | Lecture — Course launch. The integers: division algorithm, gcd, Bezout; congruence and the ring Zn | kvp §1.1-1.5 |
 | Tue 25 Aug | Lecture — Binary operations; Cayley tables; Zn under addition and multiplication | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.1 |
 | Thu 27 Aug | Lecture — Isomorphic binary structures | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.2 |
 | Tue 1 Sep | Lecture — Groups: axioms and first properties. Zn, the unit group (Zn)*, and the symmetries of a square | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.3 |
@@ -60,7 +56,7 @@ Fall 2026
 | Thu 12 Nov | Lecture — Euclidean domains; the Euclidean algorithm in Z and in k[x] | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §5.3 |
 | Tue 17 Nov | Lecture — Multiplicative norms; the Gaussian integers Z[i]; Fermat's Two Squares theorem | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §5.5; [Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf) (statements and examples; proofs optional) |
 | Thu 19 Nov | **Q&A** (**Due**: Set 4) |  |
-| Tue 24 Nov | Lecture — Sums of three and four squares; Z[sqrt(-5)] and the failure of unique factorization — a closing survey | Instructor notes; [KvP](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937973561704621) §5.1-5.2 |
+| Tue 24 Nov | Lecture — Sums of three and four squares; Z[sqrt(-5)] and the failure of unique factorization — a closing survey | Instructor notes; kvp §5.1-5.2 |
 | Tue 1 Dec | *Review* — Review — the exam pool |  |
 | Thu 3 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |  |
 
