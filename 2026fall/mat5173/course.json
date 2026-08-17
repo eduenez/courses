@@ -388,7 +388,7 @@
     {
       "date": "2026-10-26",
       "kind": "lecture",
-      "topic": "V(I) and I(V): the two maps",
+      "topic": "V(I) and I(V): algebra ↔ geometry",
       "reading": "clo §1.4",
       "extra": [
         "ash §8.1"
@@ -397,7 +397,7 @@
     {
       "date": "2026-10-28",
       "kind": "lecture",
-      "topic": "The coordinate ring; the algebra-geometry dictionary; the Nullstellensatz stated, and why k must be algebraically closed",
+      "topic": "The coordinate ring; the algebra-geometry dictionary; Hilbert’s Nullstellensatz",
       "reading": "clo §1.4",
       "extra": [
         "ash §8.3"
@@ -411,13 +411,13 @@
     {
       "date": "2026-11-04",
       "kind": "lecture",
-      "topic": "The Hilbert basis theorem; Noetherian rings; every variety is cut out by finitely many equations",
+      "topic": "The Hilbert basis theorem; Noetherian rings",
       "reading": "ash §8.2"
     },
     {
       "date": "2026-11-09",
       "kind": "lecture",
-      "topic": "Plane curves: rational curves, the node and the cusp",
+      "topic": "Plane curves: rational curves; nodes and cusps",
       "reading": "shafarevich §1.1"
     },
     {
@@ -438,7 +438,7 @@
     {
       "date": "2026-11-18",
       "kind": "lecture",
-      "topic": "Solvability by radicals: the unsolvable quintic — a survey",
+      "topic": "Survey: the unsolvability of the quintic",
       "reading": "ash §6.8"
     },
     {

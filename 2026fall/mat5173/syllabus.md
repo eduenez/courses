@@ -269,14 +269,14 @@ satisfactorily provided.
 | Wed 14 Oct | Lecture — Splitting fields; algebraic closures |
 | Mon 19 Oct | Lecture — Separability; normal extensions; finite fields |
 | Wed 21 Oct | Lecture — Affine space and affine varieties |
-| Mon 26 Oct | Lecture — V(I) and I(V): the two maps |
-| Wed 28 Oct | Lecture — The coordinate ring; the algebra-geometry dictionary; the Nullstellensatz stated, and why k must be algebraically closed |
+| Mon 26 Oct | Lecture — V(I) and I(V): algebra ↔ geometry |
+| Wed 28 Oct | Lecture — The coordinate ring; the algebra-geometry dictionary; Hilbert’s Nullstellensatz |
 | Mon 2 Nov | **Q&A** (**Due**: Set 3) |
-| Wed 4 Nov | Lecture — The Hilbert basis theorem; Noetherian rings; every variety is cut out by finitely many equations |
-| Mon 9 Nov | Lecture — Plane curves: rational curves, the node and the cusp |
+| Wed 4 Nov | Lecture — The Hilbert basis theorem; Noetherian rings |
+| Mon 9 Nov | Lecture — Plane curves: rational curves; nodes and cusps |
 | Wed 11 Nov | Lecture — Fixed fields and Galois groups |
 | Mon 16 Nov | Lecture — The fundamental theorem of Galois theory |
-| Wed 18 Nov | Lecture — Solvability by radicals: the unsolvable quintic — a survey |
+| Wed 18 Nov | Lecture — Survey: the unsolvability of the quintic |
 | Mon 23 Nov | **Q&A** (**Due**: Set 4) |
 | Mon 30 Nov | *Review* — Review — the exam pool |
 | Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |
