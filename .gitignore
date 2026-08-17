@@ -8,3 +8,8 @@ _site/
 .bundle/
 vendor/
 Gemfile.lock
+# Per-machine Ruby version manager pin (rbenv/rvm/chruby). Names like
+# "3.3.12-homebrew" only resolve on the machine that defined them — commit
+# would break rbenv on machines using a different package manager. The
+# portable constraint (Ruby < 3.4) is documented in the Gemfile instead.
+.ruby-version
