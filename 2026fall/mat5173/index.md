@@ -13,9 +13,7 @@ nav_order: 5173
 Fall 2026
 {: .fs-5 .fw-300 }
 
-- [**Syllabus**](syllabus.html) — the full course syllabus
-- [Syllabus (PDF)](syllabus.pdf) — printable
-- [Syllabus (large print)](syllabus-large.html) — high-contrast, larger type
+- [**Syllabus**](syllabus.html) — the full course syllabus ([PDF](syllabus.pdf), [large print](syllabus-large.html))
 - [**Weekly Schedule**](schedule.html) — meeting-by-meeting, with readings ([PDF](schedule.pdf))
 - [**Downloads**](downloads.html) — course files (some open, some class-only)
 

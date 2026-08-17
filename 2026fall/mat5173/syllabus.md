@@ -13,32 +13,31 @@ nav_order: 10
 # Syllabus
 {:.no_toc}
 
+[Printable PDF](syllabus.pdf){: .btn .btn-outline .fs-3 }
+
 1. TOC
 {:toc}
 
 **MAT 5173 — Algebra I**
 Fall 2026 · UT San Antonio
 
+
 ## Texts and Materials
 
 ### Primary text
 
-- **[Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf)** — Ash, *Abstract Algebra: The Basic Graduate Year*. Chapters 1, 2, 3, then 8.1-8.3, then 6. Complete solutions to every problem are at the back.
+- **[Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf)** — Ash, *Abstract Algebra: The Basic Graduate Year*, 2002
 
 ### Secondary reading
 
-- **[LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621)** — Li & Zhao, *Introduction to Abstract Algebra*. The gentler parallel reading for every Ash section in Segments A-C. Also MAT 4233's primary text.
-- **[CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621)** — Cox, Little & O'Shea, *Ideals, Varieties, and Algorithms*. Chapter 1 only. No Groebner bases.
+- **[LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621)** — Li & Zhao, *Introduction to Abstract Algebra*, Les Ulis: EDP Sciences, 2022. ISBN 978-2-7598-2915-6. [DOI: 10.1051/978-2-7598-2916-3](https://doi.org/10.1051/978-2-7598-2916-3)
+- **[CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621)** — Cox, Little & O'Shea, *Ideals, Varieties, and Algorithms*, 5th ed., Springer, 2025. ISBN 978-3-031-91840-7. [DOI: 10.1007/978-3-031-91841-4](https://doi.org/10.1007/978-3-031-91841-4)
 
 ### Supplementary reading
 
-- **[Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621)** — Shafarevich, *Basic Algebraic Geometry 1*. Section 1.1 only — plane curves.
-- **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*. No lecture is assigned out of it: it is the source of the symmetry-group examples that replace Ash's in Segment A.
-- **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*. As above — worked examples in symmetry groups, Ch. 12 and Ch. 14.
-
-### Handouts & papers
-
-- **[Smith](https://doi.org/10.1007/978-1-4757-4497-2)** — Smith, Kahanpaa, Kekalainen & Traves, *An Invitation to Algebraic Geometry*. Not held by UTSA. Chapter 1 (13 pp.) distributed as a handout.
+- **[Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621)** — Shafarevich, *Basic Algebraic Geometry 1*, 3rd ed., Springer, 2013. ISBN 978-3-642-37955-0. [DOI: 10.1007/978-3-642-37956-7](https://doi.org/10.1007/978-3-642-37956-7)
+- **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*, Springer, 2024. ISBN 978-3-662-69364-3. [DOI: 10.1007/978-3-662-69365-0](https://doi.org/10.1007/978-3-662-69365-0)
+- **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*, Cambridge University Press, 2005. ISBN 978-0-521-81362-4. [DOI: 10.1017/CBO9780511800436](https://doi.org/10.1017/CBO9780511800436)
 
 
 ## Course Information

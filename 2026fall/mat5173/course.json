@@ -466,7 +466,7 @@
       "access": "Free",
       "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf",
       "kms_key": "ash2002abstract",
-      "note": "Chapters 1, 2, 3, then 8.1-8.3, then 6. Complete solutions to every problem are at the back."
+      "year": 2002
     },
     "lizh": {
       "short": "LiZh",
@@ -477,7 +477,11 @@
       "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621",
       "url": "https://doi.org/10.1051/978-2-7598-2916-3",
       "kms_key": "li2022introduction",
-      "note": "The gentler parallel reading for every Ash section in Segments A-C. Also MAT 4233's primary text."
+      "year": 2022,
+      "publisher": "EDP Sciences",
+      "city": "Les Ulis",
+      "isbn": "978-2-7598-2915-6",
+      "doi": "10.1051/978-2-7598-2916-3"
     },
     "clo": {
       "short": "CLO",
@@ -488,7 +492,11 @@
       "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621",
       "url": "https://doi.org/10.1007/978-3-031-91841-4",
       "kms_key": "cox2025ideals",
-      "note": "Chapter 1 only. No Groebner bases."
+      "edition": "5th",
+      "year": 2025,
+      "publisher": "Springer",
+      "isbn": "978-3-031-91840-7",
+      "doi": "10.1007/978-3-031-91841-4"
     },
     "shafarevich": {
       "short": "Shafarevich",
@@ -499,7 +507,11 @@
       "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621",
       "url": "https://doi.org/10.1007/978-3-642-37956-7",
       "kms_key": "shafarevich2013basic",
-      "note": "Section 1.1 only — plane curves."
+      "edition": "3rd",
+      "year": 2013,
+      "publisher": "Springer",
+      "isbn": "978-3-642-37955-0",
+      "doi": "10.1007/978-3-642-37956-7"
     },
     "smith": {
       "short": "Smith",
@@ -509,7 +521,10 @@
       "access": "None",
       "url": "https://doi.org/10.1007/978-1-4757-4497-2",
       "kms_key": "smith2000invitation",
-      "note": "Not held by UTSA. Chapter 1 (13 pp.) distributed as a handout."
+      "year": 2000,
+      "publisher": "Springer",
+      "isbn": "978-0-387-98980-8",
+      "doi": "10.1007/978-1-4757-4497-2"
     },
     "rosebrock": {
       "short": "Rosebrock",
@@ -520,7 +535,10 @@
       "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621",
       "url": "https://doi.org/10.1007/978-3-662-69365-0",
       "kms_key": "rosebrock2024visual",
-      "note": "No lecture is assigned out of it: it is the source of the symmetry-group examples that replace Ash's in Segment A."
+      "year": 2024,
+      "publisher": "Springer",
+      "isbn": "978-3-662-69364-3",
+      "doi": "10.1007/978-3-662-69365-0"
     },
     "beardon": {
       "short": "Beardon",
@@ -530,7 +548,10 @@
       "access": "Full",
       "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621",
       "kms_key": "beardon2005algebra",
-      "note": "As above — worked examples in symmetry groups, Ch. 12 and Ch. 14."
+      "year": 2005,
+      "publisher": "Cambridge University Press",
+      "isbn": "978-0-521-81362-4",
+      "doi": "10.1017/CBO9780511800436"
     }
   }
 }
