@@ -30,8 +30,8 @@ Fall 2026 · UT San Antonio
 
 ### Secondary reading
 
-- **[LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621)** — Li & Zhao, *Introduction to Abstract Algebra*, Les Ulis: EDP Sciences, 2022. ISBN 978-2-7598-2915-6. [DOI: 10.1051/978-2-7598-2916-3](https://doi.org/10.1051/978-2-7598-2916-3)
-- **[CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621)** — Cox, Little & O'Shea, *Ideals, Varieties, and Algorithms*, 5th ed., Springer, 2025. ISBN 978-3-031-91840-7. [DOI: 10.1007/978-3-031-91841-4](https://doi.org/10.1007/978-3-031-91841-4)
+- **[LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621)** — Li & Zhao, *Introduction to Abstract Algebra*, Les Ulis: EDP Sciences, 2022. ISBN 978-2-7598-2915-6. [DOI: 10.1051/978-2-7598-2916-3](https://doi.org/10.1051/978-2-7598-2916-3). Gentler (undergraduate-level) discussion of many topics in Ash. (Primary text for MAT 4233's.)
+- **[CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621)** — Cox, Little & O'Shea, *Ideals, Varieties, and Algorithms*, 5th ed., Springer, 2025. ISBN 978-3-031-91840-7. [DOI: 10.1007/978-3-031-91841-4](https://doi.org/10.1007/978-3-031-91841-4). Algebraic geometry text; supplements Ash Ch. 8.
 
 ### Supplementary reading
 

@@ -251,7 +251,7 @@ satisfactorily provided.
 | Thu 20 Aug | Lecture — Course launch. The integers: division algorithm, gcd, Bezout |
 | Tue 25 Aug | Lecture — Congruence and the ring Zn |
 | Thu 27 Aug | Lecture — Binary operations; Cayley tables; isomorphic binary structures |
-| Tue 1 Sep | Lecture — Plane isometries and finite symmetry groups: every one is cyclic or dihedral |
+| Tue 1 Sep | Lecture — Plane isometries and finite symmetry groups: cyclic and dihedral |
 | Thu 3 Sep | Lecture — Groups: axioms and first properties |
 | Tue 8 Sep | **Q&A** (**Due**: Set 1) |
 | Thu 10 Sep | Lecture — Subgroups; examples |

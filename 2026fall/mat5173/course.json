@@ -485,7 +485,8 @@
       "publisher": "EDP Sciences",
       "city": "Les Ulis",
       "isbn": "978-2-7598-2915-6",
-      "doi": "10.1051/978-2-7598-2916-3"
+      "doi": "10.1051/978-2-7598-2916-3",
+      "note": "Gentler (undergraduate-level) discussion of many topics in Ash. (Primary text for MAT 4233's.)"
     },
     "clo": {
       "short": "CLO",
@@ -500,7 +501,8 @@
       "year": 2025,
       "publisher": "Springer",
       "isbn": "978-3-031-91840-7",
-      "doi": "10.1007/978-3-031-91841-4"
+      "doi": "10.1007/978-3-031-91841-4",
+      "note": "Algebraic geometry text; supplements Ash Ch. 8."
     },
     "shafarevich": {
       "short": "Shafarevich",
