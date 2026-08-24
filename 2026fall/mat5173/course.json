@@ -247,8 +247,13 @@
         "lizh §1.5, §2.1",
         {
           "text": "rosebrock",
-          "loc": "Ch. 2",
-          "note": "source of the symmetry-group examples"
+          "loc": "Ch. 2"
+        }
+      ],
+      "links": [
+        {
+          "label": "E-handout: Complex geometry (Canvas)",
+          "url": "https://utsa.instructure.com/courses/87173/modules/items/4301987"
         }
       ]
     },
@@ -278,8 +283,7 @@
       "extra": [
         {
           "text": "beardon",
-          "loc": "Ch. 12",
-          "note": "worked examples in symmetry groups"
+          "loc": "Ch. 12"
         }
       ]
     },
