@@ -41,7 +41,7 @@ Fall 2026
 | Thu 27 Aug | Lecture — Binary operations; Cayley tables; isomorphic binary structures | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.1-1.2 |
 | Tue 1 Sep | Lecture — Plane isometries and finite symmetry groups: cyclic and dihedral | [Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621) Ch. 1; [Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621) §3.1-3.4; [E-handout: Complex geometry (Canvas)](https://utsa.instructure.com/courses/87353/modules/items/4302441) |
 | Thu 3 Sep | Lecture — Groups: axioms and first properties | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.3 |
-| Tue 8 Sep | **Q&A** (**Due**: Set 1) |  |
+| Tue 8 Sep | **Q&A** (**Due**: [Set 1](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps1.pdf)) | [Problem Set 1 (PDF)](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps1.pdf) |
 | Thu 10 Sep | Lecture — Subgroups; examples | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.4 |
 | Tue 15 Sep | Lecture — Cyclic groups; the order of an element; generators | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.5 |
 | Thu 17 Sep | Lecture — Generating sets | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.6 |

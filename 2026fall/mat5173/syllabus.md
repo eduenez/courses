@@ -81,7 +81,6 @@ By the end of this course you should be able to:
 - Define rings of polynomials over a field, the notion of degree, and irreducible factors.
 - Explore connections of the abstract theory of rings, polynomials and ideals with the geometry of algebraic varieties.
 - Communicate concepts in writing and debate technical arguments orally.
-- Use a computer algebra system for numerical and visual explorations involving algebraic and geometric structures.
 
 
 ## About the Instructor
@@ -142,16 +141,24 @@ Each Q&A session is scored 0–3:
 > **A correct answer you cannot explain is worth less than an
 > explainable honest failure.**
 
-**Note:** A Q&A average ≤ 1.0 automatically caps the course grade
-to the level of ‘D’ (at most).
+**Note:** A low Q&A average caps the course grade, whatever the
+other components come to:
+
+- a Q&A average **below 1.5** caps the course grade at **C**;
+- a Q&A average **below 1.0** caps the course grade at **D**.
+
+(An average below 1.0 is of course also below 1.5; in that case the
+‘D’ cap is the one that applies.)
 
 
 ### Problem sets
 
-Four sets, each with five or six theoretical problems plus one
-SageMath exploration. **Maximum four pages.** Do not submit code;
-include the relevant snippets and output inside your written work.
-(SageMath problems are also included in Q&A.)
+Four sets, each with five or six theoretical problems.
+**Maximum four pages.**
+
+Computational (SageMath) material is supplementary and entirely
+optional: it is never part of a problem set or a Q&A session, and
+it is not graded.
 
 Each item will be scored *only* based on the **degree of completion**
 (not on correctness):
@@ -228,7 +235,7 @@ Expect an average of about **9 hours per week**, and no fewer than 7.
 
 - Attend class meetings (**3 hours per week**)
 - Reading the assigned textbook sections (**2–3 hours per week**)
-- Problem sets and the Sage exploration (**2–3 hours per week**)
+- Problem sets (**2–3 hours per week**)
 - Office hours and study group (**1 hours per week**)
 
 
@@ -257,7 +264,7 @@ satisfactorily provided.
 | Wed 26 Aug | Lecture — Cosets, normal subgroups and homomorphisms |
 | Mon 31 Aug | Lecture — The isomorphism theorems |
 | Wed 2 Sep | Lecture — Direct products |
-| Wed 9 Sep | **Q&A** (**Due**: Set 1) |
+| Wed 9 Sep | **Q&A** (**Due**: [Set 1](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps1.pdf)) |
 | Mon 14 Sep | Lecture — Rings: basic definitions and properties |
 | Wed 16 Sep | Lecture — Ideals, homomorphisms and quotient rings; the isomorphism theorems for rings |
 | Mon 21 Sep | Lecture — Maximal and prime ideals |

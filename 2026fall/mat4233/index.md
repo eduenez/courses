@@ -15,5 +15,6 @@ Fall 2026
 
 - [**Syllabus**](syllabus.html) — the full course syllabus ([PDF](syllabus.pdf), [large print](syllabus-large.html))
 - [**Weekly Schedule**](schedule.html) — meeting-by-meeting, with readings ([PDF](schedule.pdf))
-- [**Downloads**](downloads.html) — course files (some open, some class-only)
+- [**Assignments**](assignments.html) — Problem sets, released one per Q&A session. Each is scored on completeness, not correctness; AI and any other source is permitted, and you are asked to name what you used. Maximum four pages.
+- [**Class-only files**](gated.html) — for enrolled students; passphrase in Canvas
 

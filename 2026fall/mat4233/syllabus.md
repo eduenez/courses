@@ -77,7 +77,6 @@ By the end of this course you should be able to:
 - Explain the common and specific aspects of the division and Euclidean algorithms in the rings ℤ of integers, ℤ[i] of Gaussian integers, and polynomial rings 𝔽[x].
 - Show that every Euclidean domain is a Unique Factorization Domain.
 - Communicate concepts in writing and debate technical arguments orally.
-- Use a computer algebra system for numerical and visual explorations in algebraic structures (e.g., experimental verification in particular cases of general theorems, visualization of geometric transformation groups, etc.)
 
 
 ## About the Instructor
@@ -138,16 +137,24 @@ Each Q&A session is scored 0–3:
 > **A correct answer you cannot explain is worth less than an
 > explainable honest failure.**
 
-**Note:** A Q&A average ≤ 1.0 automatically caps the course grade
-to the level of ‘D’ (at most).
+**Note:** A low Q&A average caps the course grade, whatever the
+other components come to:
+
+- a Q&A average **below 1.5** caps the course grade at **C**;
+- a Q&A average **below 1.0** caps the course grade at **D**.
+
+(An average below 1.0 is of course also below 1.5; in that case the
+‘D’ cap is the one that applies.)
 
 
 ### Problem sets
 
-Four sets, each with five or six theoretical problems plus one
-SageMath exploration. **Maximum four pages.** Do not submit code;
-include the relevant snippets and output inside your written work.
-(SageMath problems are also included in Q&A.)
+Four sets, each with five or six theoretical problems.
+**Maximum four pages.**
+
+Computational (SageMath) material is supplementary and entirely
+optional: it is never part of a problem set or a Q&A session, and
+it is not graded.
 
 Each item will be scored *only* based on the **degree of completion**
 (not on correctness):
@@ -224,7 +231,7 @@ Expect an average of about **9 hours per week**, and no fewer than 7.
 
 - Attend class meetings (**3 hours per week**)
 - Reading the assigned textbook sections (**2–3 hours per week**)
-- Problem sets and the Sage exploration (**2–3 hours per week**)
+- Problem sets (**2–3 hours per week**)
 - Office hours and study group (**1 hours per week**)
 
 
@@ -253,7 +260,7 @@ satisfactorily provided.
 | Thu 27 Aug | Lecture — Binary operations; Cayley tables; isomorphic binary structures |
 | Tue 1 Sep | Lecture — Plane isometries and finite symmetry groups: cyclic and dihedral |
 | Thu 3 Sep | Lecture — Groups: axioms and first properties |
-| Tue 8 Sep | **Q&A** (**Due**: Set 1) |
+| Tue 8 Sep | **Q&A** (**Due**: [Set 1](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps1.pdf)) |
 | Thu 10 Sep | Lecture — Subgroups; examples |
 | Tue 15 Sep | Lecture — Cyclic groups; the order of an element; generators |
 | Thu 17 Sep | Lecture — Generating sets |

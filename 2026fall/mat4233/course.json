@@ -74,7 +74,10 @@
     "level": "undergraduate",
     "catalog_url": "https://catalog.utsa.edu/search/?P=MAT%204233",
     "catalog_description": "Basic properties and examples of semigroups, monoids, and groups, detailed study of permutation, dihedral, and congruence groups, cyclic groups, normal subgroups, quotient groups, homomorphism, isomorphism theorems, direct products of groups, rings and fields and their basic properties, ideals, polynomial rings.",
-    "prerequisites": "MAT 3233 Modern Algebra or equivalent"
+    "prerequisites": "MAT 3233 Modern Algebra or equivalent",
+    "links": {
+      "canvas": "https://utsa.instructure.com/courses/87353"
+    }
   },
   "meetings": {
     "modality": "Traditional in-person",
@@ -94,8 +97,7 @@
     "Explain the abstract algebraic properties of various rings and number systems including ℤ, ℚ, ℝ, ℂ, modular rings ℤ/nℤ, finite fields 𝔽ₚ and polynomial rings 𝔽[x].",
     "Explain the common and specific aspects of the division and Euclidean algorithms in the rings ℤ of integers, ℤ[i] of Gaussian integers, and polynomial rings 𝔽[x].",
     "Show that every Euclidean domain is a Unique Factorization Domain.",
-    "Communicate concepts in writing and debate technical arguments orally.",
-    "Use a computer algebra system for numerical and visual explorations in algebraic structures (e.g., experimental verification in particular cases of general theorems, visualization of geometric transformation groups, etc.)"
+    "Communicate concepts in writing and debate technical arguments orally."
   ],
   "assessment": {
     "components": [
@@ -176,12 +178,12 @@
       {
         "id": "defense",
         "title": "Q&A sessions",
-        "body": "Four class meetings throughout the semester (roughly every\nother Thursday except when adjacent to an exam) will be *Q&A\nsessions* in which each student will be asked to explain and\ndefend their solution to a homework problem submitted as part\nof a written assignment. You will only be asked questions\nrelated to an assigned problem and about the solution you\nsubmitted.\n\nEach Q&A session is scored 0–3:\n\n- **3** Correct explanation to a correct solution, demonstrating\n  full understanding of the concepts and all aspects of the\n  solution submitted.\n- **2** A completely correct solution submitted is explained\n  to an incomplete degree;\n  **Or**: an unfinished solution, with a thorough and articulate\n  account of what you tried, explaining where and why you got stuck\n  while demonstrating knowledge of the background and reading\n  necessary to solve the problem.\n- **1** Correct solution inadequately explained revealing little or\n  no understanding; *or*: partial solution accompanied by an\n  incomplete but partly correct oral explanation.\n- **0** Nothing submitted; *or*: work submitted (even if fully correct)\n  is backed by no cogent explanation nor knowledge of concepts involved.\n\n> **A correct answer you cannot explain is worth less than an\n> explainable honest failure.**\n\n**Note:** A Q&A average ≤ 1.0 automatically caps the course grade\nto the level of ‘D’ (at most).\n"
+        "body": "Four class meetings throughout the semester (roughly every\nother Thursday except when adjacent to an exam) will be *Q&A\nsessions* in which each student will be asked to explain and\ndefend their solution to a homework problem submitted as part\nof a written assignment. You will only be asked questions\nrelated to an assigned problem and about the solution you\nsubmitted.\n\nEach Q&A session is scored 0–3:\n\n- **3** Correct explanation to a correct solution, demonstrating\n  full understanding of the concepts and all aspects of the\n  solution submitted.\n- **2** A completely correct solution submitted is explained\n  to an incomplete degree;\n  **Or**: an unfinished solution, with a thorough and articulate\n  account of what you tried, explaining where and why you got stuck\n  while demonstrating knowledge of the background and reading\n  necessary to solve the problem.\n- **1** Correct solution inadequately explained revealing little or\n  no understanding; *or*: partial solution accompanied by an\n  incomplete but partly correct oral explanation.\n- **0** Nothing submitted; *or*: work submitted (even if fully correct)\n  is backed by no cogent explanation nor knowledge of concepts involved.\n\n> **A correct answer you cannot explain is worth less than an\n> explainable honest failure.**\n\n**Note:** A low Q&A average caps the course grade, whatever the\nother components come to:\n\n- a Q&A average **below 1.5** caps the course grade at **C**;\n- a Q&A average **below 1.0** caps the course grade at **D**.\n\n(An average below 1.0 is of course also below 1.5; in that case the\n‘D’ cap is the one that applies.)\n"
       },
       {
         "id": "problem_sets",
         "title": "Problem sets",
-        "body": "Four sets, each with five or six theoretical problems plus one\nSageMath exploration. **Maximum four pages.** Do not submit code;\ninclude the relevant snippets and output inside your written work.\n(SageMath problems are also included in Q&A.)\n\nEach item will be scored *only* based on the **degree of completion**\n(not on correctness):\n**2** for a nominally complete solution,\n**1** for a clearly partial one,\n**0** for nothing submitted or for obvious filler with no substance.\n\n*Note:* Any submission containing non-human-readable content, stray\ncharacters, or artifacts revealing non-proofread AI output scores 0\nfor that item.\n"
+        "body": "Four sets, each with five or six theoretical problems.\n**Maximum four pages.**\n\nComputational (SageMath) material is supplementary and entirely\noptional: it is never part of a problem set or a Q&A session, and\nit is not graded.\n\nEach item will be scored *only* based on the **degree of completion**\n(not on correctness):\n**2** for a nominally complete solution,\n**1** for a clearly partial one,\n**0** for nothing submitted or for obvious filler with no substance.\n\n*Note:* Any submission containing non-human-readable content, stray\ncharacters, or artifacts revealing non-proofread AI output scores 0\nfor that item.\n"
       },
       {
         "id": "ai",
@@ -213,7 +215,7 @@
         "hours": "2–3"
       },
       {
-        "activity": "Problem sets and the Sage exploration",
+        "activity": "Problem sets",
         "hours": "2–3"
       },
       {
@@ -275,7 +277,14 @@
     {
       "date": "2026-09-08",
       "kind": "defense",
-      "due": "Problem Set 1"
+      "due": "Problem Set 1",
+      "due_url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps1.pdf",
+      "links": [
+        {
+          "label": "Problem Set 1 (PDF)",
+          "url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps1.pdf"
+        }
+      ]
     },
     {
       "date": "2026-09-10",
