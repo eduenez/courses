@@ -29,16 +29,18 @@ code, pre, kbd, samp, .highlight {
 
 // Multi-color wordmark tying the two sites together:
 //   "@" in the courses pine accent, "№" in supernumero.us's rosa.
-.site-title .wm-at     { color: #2f6b46; }
-.site-title .wm-numero { color: #b23a48; }
+// The two values come from whichever color scheme was imported above, so the
+// wordmark lifts to its readable night tint in dusk without a second rule.
+.site-title .wm-at     { color: $wm-at-color; }
+.site-title .wm-numero { color: $wm-numero-color; }
 
 // Ochre secondary accent (shared with home) for small warm cues.
 .main-content {
   blockquote {
-    border-left: 3px solid #b8862f;
+    border-left: 3px solid $accent-ochre;
   }
   table th {
-    border-bottom: 2px solid #b8862f;
+    border-bottom: 2px solid $accent-ochre;
   }
 }
 
@@ -52,3 +54,32 @@ code, pre, kbd, samp, .highlight {
 // folded into Topic): keep Date from wrapping so Topic and Reading get the
 // horizontal room.
 .schedule td:nth-child(1) { white-space: nowrap; }              // Date
+
+// Light/dark toggle in the top bar (_includes/header_custom.html). Sized and
+// spaced to sit as a peer of the aux-nav links rather than as a button that
+// happens to be there.
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  padding: 0.3rem 0.4rem;
+  background: none;
+  border: 0;
+  border-radius: 4px;
+  color: $body-text-color;
+  cursor: pointer;
+  opacity: 0.75;
+
+  &:hover { opacity: 1; background-color: $feedback-color; }
+  &:focus-visible { outline: 2px solid $link-color; outline-offset: 1px; }
+
+  .theme-toggle__icon { display: none; }
+}
+
+// Show the icon for the mode a click would take you TO, which is the convention
+// the home site uses: a moon while light, a sun while dark.
+html[data-theme="dark"] .theme-toggle .theme-toggle__sun,
+html:not([data-theme="dark"]) .theme-toggle .theme-toggle__moon {
+  display: block;
+}

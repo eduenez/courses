@@ -1,0 +1,28 @@
+// courses sub-site DARK scheme — the night counterpart of color_schemes/courses.scss,
+// not a generic dark theme. Same identity: pine primary, warm neutrals; the pine is
+// lifted from #2f6b46 to a lighter tint because the original is a foreground colour
+// chosen against cream and falls well below contrast minimums on a dark ground.
+// The neutrals stay warm (a red-shifted near-black rather than a true grey) so the
+// two schemes read as one site seen at two times of day.
+// Compiled via assets/css/just-the-docs-dusk.scss; selected at runtime by the
+// header toggle, never by `color_scheme:` in _config.yml.
+
+$body-background-color:       #1e1a16; // warm near-black, the cream inverted
+$sidebar-color:               #17140f; // deeper than body, mirroring the light scheme
+$search-background-color:     #24201a;
+$body-text-color:             #e8e0d2; // warm off-white
+$body-heading-color:          #f5efe3;
+$link-color:                  #6fbf8e; // pine, lifted for contrast on dark
+$btn-primary-color:           #6fbf8e;
+$nav-child-link-color:        #bdb4a4;
+$search-result-preview-color: #9a9080;
+$border-color:                #3a332a;
+$table-background-color:      #232019;
+$code-background-color:       #262119;
+$feedback-color:              #2a251d;
+
+// Secondary accents (see custom/setup.scss for why the defaults live there),
+// lifted the same way the pine is.
+$wm-at-color:     #6fbf8e; // wordmark "@" — the lifted pine
+$wm-numero-color: #e2707c; // wordmark "№" — rosa, likewise lifted
+$accent-ochre:    #d9a441; // ochre, likewise lifted

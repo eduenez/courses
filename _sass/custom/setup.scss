@@ -9,3 +9,14 @@
 $content-width: 60rem;
 $nav-width:     14rem;
 $nav-width-md:  13rem;
+
+// Secondary accents, consumed by custom/custom.scss (wordmark and warm cues).
+// They live here, declared !default, because setup.scss is imported before ANY
+// colour scheme while custom.scss is imported after it --- and custom.scss is
+// compiled once per scheme, including just-the-docs' own shipped `dark` and
+// `light`, which know nothing of ours. Without a default in scope those builds
+// fail on an undefined variable. color_schemes/courses.scss and
+// color_schemes/dusk.scss then override these unconditionally, and win.
+$wm-at-color:     #2f6b46 !default; // wordmark "@" — pine
+$wm-numero-color: #b23a48 !default; // wordmark "№" — rosa
+$accent-ochre:    #b8862f !default; // warm secondary cue

@@ -32,3 +32,31 @@
   src: url("{{ '/assets/fonts/newsreader-latin-wght-italic.woff2' | relative_url }}") format("woff2");
 }
 </style>
+
+{%- comment -%}
+Apply the stored (or OS) colour scheme BEFORE first paint. head_custom.html is
+included at the very end of just-the-docs' <head>, after the stylesheet <link>,
+so rewriting that link here swaps the theme with no flash of the wrong one ---
+which is why this is inline and blocking rather than deferred to the toggle
+script in header_custom.html.
+
+localStorage key and values ("theme" = "dark"|"light") match supernumero.us, and
+the two sites share an origin, so a choice made on either one is honoured by the
+other. Unset means follow the OS.
+{%- endcomment -%}
+<script>
+(function () {
+  try {
+    var stored = localStorage.getItem("theme");
+    var dark = stored === "dark" || (stored !== "light" && window.matchMedia &&
+               window.matchMedia("(prefers-color-scheme: dark)").matches);
+    document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+    if (!dark) return;
+    var link = document.querySelector('link[rel="stylesheet"]');
+    if (link) {
+      link.setAttribute("href", link.getAttribute("href")
+        .replace(/just-the-docs-[^./]+\.css$/, "just-the-docs-dusk.css"));
+    }
+  } catch (e) { /* no storage (private mode): fall through to the light default */ }
+})();
+</script>

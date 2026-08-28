@@ -1,0 +1,58 @@
+{%- comment -%}
+Light/dark toggle, sitting in #main-header between the search box and the aux
+nav. Mirrors supernumero.us: same localStorage key ("theme") and same values
+("dark"/"light"), so a visitor's choice carries across both sites --- they share
+an origin, and therefore share localStorage. Unset means follow the OS.
+
+Icons are inline SVG rather than an icon font: the home site has Font Awesome
+loaded already, this one does not, and one <svg> costs less than a webfont.
+{%- endcomment -%}
+<button type="button" id="theme-toggle" class="theme-toggle"
+        aria-label="Toggle dark mode" title="Toggle dark mode" aria-pressed="false">
+  <svg class="theme-toggle__icon theme-toggle__sun" viewBox="0 0 24 24" width="18" height="18"
+       fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+    <circle cx="12" cy="12" r="4.2"/>
+    <path d="M12 2.4v2.3M12 19.3v2.3M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.4 12h2.3M19.3 12h2.3M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"/>
+  </svg>
+  <svg class="theme-toggle__icon theme-toggle__moon" viewBox="0 0 24 24" width="18" height="18"
+       fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M20.5 14.6A8.6 8.6 0 0 1 9.4 3.5a8.6 8.6 0 1 0 11.1 11.1z"/>
+  </svg>
+</button>
+<script>
+(function () {
+  var btn = document.getElementById("theme-toggle");
+  if (!btn) return;
+
+  function dark() { return document.documentElement.getAttribute("data-theme") === "dark"; }
+
+  function apply(on) {
+    // jtd.setTheme rewrites the stylesheet href; data-theme is what the
+    // no-flash script in head_custom.html and this button both read back.
+    if (window.jtd && jtd.setTheme) jtd.setTheme(on ? "dusk" : "default");
+    document.documentElement.setAttribute("data-theme", on ? "dark" : "light");
+    btn.setAttribute("aria-pressed", String(on));
+  }
+
+  // head_custom.html has already applied the stored/system choice to the
+  // stylesheet; this only brings the button's own state into line with it.
+  apply(dark());
+
+  btn.addEventListener("click", function () {
+    var on = !dark();
+    try { localStorage.setItem("theme", on ? "dark" : "light"); } catch (e) {}
+    apply(on);
+  });
+
+  // Follow the OS, but only for a visitor who has never chosen explicitly.
+  if (window.matchMedia) {
+    var mq = window.matchMedia("(prefers-color-scheme: dark)");
+    var follow = function (e) {
+      try { if (localStorage.getItem("theme")) return; } catch (err) {}
+      apply(e.matches);
+    };
+    if (mq.addEventListener) mq.addEventListener("change", follow);
+    else if (mq.addListener) mq.addListener(follow);
+  }
+})();
+</script>

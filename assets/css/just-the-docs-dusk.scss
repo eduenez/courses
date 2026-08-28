@@ -1,0 +1,14 @@
+---
+---
+{%- comment -%}
+Compiles _sass/color_schemes/dusk.scss into its own stylesheet at
+assets/css/just-the-docs-dusk.css, which is what the header toggle swaps to.
+just-the-docs needs one such entry point per switchable scheme; the light one is
+already covered by the theme's own just-the-docs-default.scss, which honours
+`color_scheme: courses` from _config.yml.
+
+The name matters: jtd.getTheme() reads the scheme back as the substring after the
+LAST hyphen in the filename, so a hyphenated scheme name (`courses-dark`) would
+report itself as `dark` and break round-tripping. Keep it one word.
+{%- endcomment -%}
+{% include css/just-the-docs.scss.liquid color_scheme="dusk" %}
