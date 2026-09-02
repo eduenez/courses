@@ -235,6 +235,19 @@ Expect an average of about **9 hours per week**, and no fewer than 7.
 - Office hours and study group (**1 hours per week**)
 
 
+## A Writing-Intensive Course
+
+This is a **writing-intensive course**.
+Standard professional standards for technical writing (mathematical
+writing) apply.
+The style is *mathematical prose* written for a human reader,
+An otherwise "correct" argument presented as a disorganized or
+unintelligible pile of symbols is not a solution will be returned
+without grading and earn *no* credit.
+For detailed requirements and required reading refer to the
+[**Writing Guidelines**](https://eduenez.github.io/courses/writing-guidelines.html) page.
+
+
 ## Additional Course Information
 
 Each student should be intimately familiar with the contents of any work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class-only files
-parent: MAT 4233
+parent: MAT 5173
 grand_parent: Fall 2026
 nav_order: 50
 ---
@@ -18,6 +18,6 @@ look under Announcements. It is the same passphrase for every file here, all
 semester; any PDF reader will prompt you for it. Please do not pass it on to
 anyone not enrolled in the course.
 
-- [Complex geometry (handout)](downloads/gated/complex-geometry.pdf) — companion to the Plane Isometries lecture, 1 Sep — encrypted; passphrase in Canvas
-- [Mathematical writing: tips, do's and don'ts](downloads/gated/math-writing-dos-and-donts.pdf) — a primer on mathematical writing emphasizing what to do and not, with examples [Writing Guidelines](https://eduenez.github.io/courses/writing-guidelines.html) — encrypted; passphrase in Canvas
+- [Complex geometry (handout)](downloads/gated/complex-geometry.pdf) — companion to the permutation/symmetry-group lectures — encrypted; passphrase in Canvas
+- [Mathematical writing: tips, do's and don'ts](downloads/gated/math-writing-dos-and-donts.pdf) — the short checklist behind the [Writing Guidelines](https://eduenez.github.io/courses/writing-guidelines.html) — encrypted; passphrase in Canvas
 

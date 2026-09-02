@@ -226,6 +226,11 @@
   },
   "sections": [
     {
+      "id": "writing_intensive",
+      "title": "A Writing-Intensive Course",
+      "body": "This is a **writing-intensive course**.\nStandard professional standards for technical writing (mathematical\nwriting) apply.\nThe style is *mathematical prose* written for a human reader,\nAn otherwise \"correct\" argument presented as a disorganized or\nunintelligible pile of symbols is not a solution will be returned\nwithout grading and earn *no* credit.\nFor detailed requirements and required reading refer to the\n[**Writing Guidelines**](https://eduenez.github.io/courses/writing-guidelines.html) page.\n"
+    },
+    {
       "id": "verbal_explanation",
       "title": "Additional Course Information",
       "body": "Each student should be intimately familiar with the contents of any work\nsubmitted for grading. The instructor has the right to request adequate\n**verbal explanation** of methodology and content for any submitted work.\nCredit will not be awarded when such an explanation is requested but not\nsatisfactorily provided.\n"
@@ -263,8 +268,8 @@
       ],
       "links": [
         {
-          "label": "E-handout: Complex geometry (Canvas)",
-          "url": "https://utsa.instructure.com/courses/87353/modules/items/4302441"
+          "label": "E-handout: Complex geometry (passphrase in Canvas)",
+          "url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/gated/complex-geometry.pdf"
         }
       ]
     },

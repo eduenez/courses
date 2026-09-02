@@ -18,4 +18,5 @@ Fall 2026
 - [**Assignments**](assignments.html) — Problem sets, released one per Q&A session. Each is scored on completeness, not correctness; AI and any other source is permitted, and you are asked to name what you used. Maximum four pages.
 - [**Texts**](texts.html) — The primary text, hosted here because it is an unpublished manuscript with no library holding. Everything else on the reading list is a library link and lives on the Weekly Schedule instead.
 - [**Course files**](public.html) — 2 files to download
+- [**Class-only files**](gated.html) — for enrolled students; passphrase in Canvas
 
