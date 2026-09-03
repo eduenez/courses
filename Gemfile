@@ -13,3 +13,10 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 gem "webrick" # Ruby >= 3.0 dropped webrick from stdlib; `jekyll serve` needs it.
+
+# Silences "To use retry middleware with Faraday v2.0+, install `faraday-retry`"
+# on every build. github-pages pulls in octokit -> faraday 2.x, which moved its
+# retry middleware into a separate gem; nothing here needs the retries, but the
+# warning is printed unconditionally. Local preview only — GitHub Pages builds
+# the real site from its own bundle and never reads this file.
+gem "faraday-retry"
