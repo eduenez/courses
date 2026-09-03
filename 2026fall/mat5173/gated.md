@@ -19,5 +19,5 @@ semester; any PDF reader will prompt you for it. Please do not pass it on to
 anyone not enrolled in the course.
 
 - [Complex geometry (handout)](downloads/gated/complex-geometry.pdf) — companion to the permutation/symmetry-group lectures — encrypted; passphrase in Canvas
-- [Mathematical writing: tips, do's and don'ts](downloads/gated/math-writing-dos-and-donts.pdf) — the short checklist behind the [Writing Guidelines](https://eduenez.github.io/courses/writing-guidelines.html) — encrypted; passphrase in Canvas
+- [Mathematical writing: tips, do's and don'ts](downloads/gated/math-writing-dos-and-donts.pdf) — the short checklist behind the [Writing Mathematics](https://eduenez.github.io/courses/support-materials/writing-mathematics.html) — encrypted; passphrase in Canvas
 

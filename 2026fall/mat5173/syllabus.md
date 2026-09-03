@@ -249,7 +249,7 @@ An otherwise "correct" argument presented as a disorganized or
 unintelligible pile of symbols is not a solution will be returned
 without grading and earn *no* credit.
 For detailed requirements and required reading refer to the
-[**Writing Guidelines**](https://eduenez.github.io/courses/writing-guidelines.html) page.
+[**Writing Mathematics**](https://eduenez.github.io/courses/support-materials/writing-mathematics.html) page.
 
 
 ## Additional Course Information

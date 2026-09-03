@@ -228,7 +228,7 @@
     {
       "id": "writing_intensive",
       "title": "A Writing-Intensive Course",
-      "body": "This is a **writing-intensive course**.\nStandard professional standards for technical writing (mathematical\nwriting) apply.\nThe style is *mathematical prose* written for a human reader,\nAn otherwise \"correct\" argument presented as a disorganized or\nunintelligible pile of symbols is not a solution will be returned\nwithout grading and earn *no* credit.\nFor detailed requirements and required reading refer to the\n[**Writing Guidelines**](https://eduenez.github.io/courses/writing-guidelines.html) page.\n"
+      "body": "This is a **writing-intensive course**.\nStandard professional standards for technical writing (mathematical\nwriting) apply.\nThe style is *mathematical prose* written for a human reader,\nAn otherwise \"correct\" argument presented as a disorganized or\nunintelligible pile of symbols is not a solution will be returned\nwithout grading and earn *no* credit.\nFor detailed requirements and required reading refer to the\n[**Writing Mathematics**](https://eduenez.github.io/courses/support-materials/writing-mathematics.html) page.\n"
     },
     {
       "id": "verbal_explanation",

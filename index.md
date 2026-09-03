@@ -14,3 +14,9 @@ Course sites, most recent term first.
 - [MAT 4233 — Modern Abstract Algebra](2026fall/mat4233/)
 - [MAT 5173 — Algebra I](2026fall/mat5173/)
 
+## Support Materials
+
+Guidance that applies across courses rather than to any one of them.
+
+- [Writing Mathematics](support-materials/writing-mathematics.html) — The standard for written work in every proof-writing course I teach, and the resources for getting there — including a beginner's path into LaTeX.
+
