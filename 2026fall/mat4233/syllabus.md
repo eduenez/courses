@@ -150,7 +150,7 @@ other components come to:
 ### Problem sets
 
 Four sets, each with five or six theoretical problems.
-**Maximum four pages.**
+**Maximum six pages.**
 
 Computational (SageMath) material is supplementary and entirely
 optional: it is never part of a problem set or a Q&A session, and

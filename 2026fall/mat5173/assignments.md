@@ -13,7 +13,7 @@ nav_order: 25
 Fall 2026
 {: .fs-5 .fw-300 }
 
-Problem sets, released one per Q&A session. Each is scored on completeness, not correctness; AI and any other source is permitted, and you are asked to name what you used. Maximum four pages.
+Problem sets, released one per Q&A session. Each is scored on completeness, not correctness; AI and any other source is permitted, and you are asked to name what you used. Maximum six pages.
 
 - [Problem Set 1](downloads/public/assignments/ps1.pdf) — due Wednesday 9 September — Ash Ch. 1 entire — groups through direct products
 
