@@ -22,7 +22,7 @@ Guidance that applies across courses rather than to any one of them.
 
 ## Erlangen Program
 
-Interactive lessons on groups of geometric transformations, hosted at erlangen-program (a separate, standalone project -- see the page for why).
+Interactive lessons on groups of geometric transformations.
 
 - [Interactive Geometry Lessons](erlangen-program/lessons.html) — Play with the group of transformations, don't just read about it — draggable, self-contained, no login, no install.
 

@@ -12,16 +12,11 @@ parent: Erlangen Program
 {: .no_toc }
 
 [**The Erlangen Program, Concretely**](https://supernumero.us/erlangen-program/)
-is a small side project of mine: short, self-contained, interactive lessons
-built around the idea behind Klein's *Erlangen Program* — a geometry is
-defined by its group of transformations, and different groups give genuinely
-different geometries on the same underlying space. Nothing to install, no
-account, no course context; open a lesson and start dragging.
-
-It's a separate, standalone project (its own repository, its own pace of
-updates), which is exactly why it lives at its own address rather than being
-copied into this course's pages — one canonical copy, kept current in one
-place, linked from every course rather than duplicated into each.
+is a short series of interactive lessons built around the idea behind Klein's
+*Erlangen Program* — a geometry is defined by its group of transformations,
+and different groups give genuinely different geometries on the same
+underlying space. Nothing to install, no account; open a lesson and start
+dragging.
 
 **Current lessons:**
 

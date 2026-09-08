@@ -13,7 +13,7 @@ nav_order: 30
 Fall 2026
 {: .fs-5 .fw-300 }
 
-The primary text, hosted here because it is an unpublished manuscript with no library holding. Everything else on the reading list is a library link and lives on the Weekly Schedule instead.
+The course's primary text — a complete manuscript, not commercially published. The rest of the reading list is on the Weekly Schedule.
 
 - [Ash, *Abstract Algebra: The Basic Graduate Year*](downloads/public/texts/Ash_Abstract-Algebra.pdf) — the course's primary text — complete solutions to every problem are at the back
 

@@ -9,7 +9,7 @@ has_children: true
 # Erlangen Program
 {: .no_toc }
 
-Interactive lessons on groups of geometric transformations, hosted at erlangen-program (a separate, standalone project -- see the page for why).
+Interactive lessons on groups of geometric transformations.
 
 - [**Interactive Geometry Lessons**](lessons.html) — Play with the group of transformations, don't just read about it — draggable, self-contained, no login, no install.
 
