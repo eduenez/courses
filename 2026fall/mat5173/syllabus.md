@@ -277,27 +277,27 @@ satisfactorily provided.
 | Wed 26 Aug | Lecture — Cosets, normal subgroups and homomorphisms |
 | Mon 31 Aug | Lecture — The isomorphism theorems |
 | Wed 2 Sep | Lecture — Direct products |
-| Wed 9 Sep | **Q&A** (**Due**: [Set 1](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps1.pdf)) |
-| Mon 14 Sep | Lecture — Rings: basic definitions and properties |
-| Wed 16 Sep | Lecture — Ideals, homomorphisms and quotient rings; the isomorphism theorems for rings |
-| Mon 21 Sep | Lecture — Maximal and prime ideals |
-| Wed 23 Sep | Lecture — Polynomial rings; unique factorization |
-| Mon 28 Sep | Lecture — Principal ideal domains and Euclidean domains; rings of fractions; irreducible polynomials |
+| Wed 9 Sep | Lecture — Quotient groups and the isomorphism theorems; direct products |
+| Mon 14 Sep | **Q&A** (**Due**: [Set 1](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps1.pdf)) |
+| Wed 16 Sep | Lecture — Rings: basic definitions and properties |
+| Mon 21 Sep | Lecture — Ideals, homomorphisms and quotient rings; the isomorphism theorems for rings |
+| Wed 23 Sep | Lecture — Maximal and prime ideals |
+| Mon 28 Sep | Lecture — Polynomial rings; unique factorization |
 | Wed 30 Sep | **Q&A** (**Due**: Set 2) |
 | Mon 5 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |
-| Wed 7 Oct | Lecture — Field extensions; degree; simple extensions |
-| Wed 14 Oct | Lecture — Splitting fields; algebraic closures |
-| Mon 19 Oct | Lecture — Separability; normal extensions; finite fields |
-| Wed 21 Oct | Lecture — Affine space and affine varieties |
-| Mon 26 Oct | Lecture — V(I) and I(V): algebra ↔ geometry |
-| Wed 28 Oct | Lecture — The coordinate ring; the algebra-geometry dictionary; Hilbert’s Nullstellensatz |
+| Wed 7 Oct | Lecture — Principal ideal domains and Euclidean domains; rings of fractions; irreducible polynomials |
+| Wed 14 Oct | Lecture — Field extensions; degree; simple extensions |
+| Mon 19 Oct | Lecture — Splitting fields; algebraic closures |
+| Wed 21 Oct | Lecture — Separability; normal extensions; finite fields |
+| Mon 26 Oct | Lecture — Affine space and affine varieties |
+| Wed 28 Oct | Lecture — V(I) and I(V): algebra ↔ geometry |
 | Mon 2 Nov | **Q&A** (**Due**: Set 3) |
-| Wed 4 Nov | Lecture — The Hilbert basis theorem; Noetherian rings |
+| Wed 4 Nov | Lecture — The coordinate ring and the algebra-geometry dictionary; the Nullstellensatz and the Hilbert basis theorem (both stated, not proved) |
 | Mon 9 Nov | Lecture — Plane curves: rational curves; nodes and cusps |
 | Wed 11 Nov | Lecture — Fixed fields and Galois groups |
 | Mon 16 Nov | Lecture — The fundamental theorem of Galois theory |
-| Wed 18 Nov | Lecture — Survey: the unsolvability of the quintic |
-| Mon 23 Nov | **Q&A** (**Due**: Set 4) |
+| Wed 18 Nov | **Q&A** (**Due**: Set 4) |
+| Mon 23 Nov | Lecture — Survey: the unsolvability of the quintic |
 | Mon 30 Nov | *Review* — Review — the exam pool |
 | Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |
 

@@ -16,6 +16,7 @@ Fall 2026
 - [**Syllabus**](syllabus.html) — the full course syllabus ([PDF](syllabus.pdf), [large print](syllabus-large.html))
 - [**Weekly Schedule**](schedule.html) — meeting-by-meeting, with readings ([PDF](schedule.pdf))
 - [**Assignments**](assignments.html) — Problem sets, released one per Q&A session. Each is scored on completeness, not correctness; AI and any other source is permitted, and you are asked to name what you used. Maximum six pages.
+- [**Activities**](activities.html) — Optional, ungraded notebooks to work through — on your own or in a group — during the Q&A sessions, while I am meeting students one at a time. Nothing here is submitted and nothing is graded. Each one opens in Google Colab in your browser; no software to install, and no Google account needed to read it. One is posted for each Q&A session.
 - [**Course files**](public.html) — 2 files to download
 - [**Class-only files**](gated.html) — for enrolled students; passphrase in Canvas
 

@@ -288,6 +288,10 @@
         {
           "label": "Problem Set 1 (PDF)",
           "url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps1.pdf"
+        },
+        {
+          "label": "Activity: Symmetry Groups and Cayley Graphs (Colab, ungraded)",
+          "url": "https://colab.research.google.com/github/eduenez/courses/blob/main/2026fall/mat4233/downloads/public/activities/cayley-graphs-symmetry-groups.ipynb"
         }
       ]
     },
