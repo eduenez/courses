@@ -20,3 +20,9 @@ Guidance that applies across courses rather than to any one of them.
 
 - [Writing Mathematics](support-materials/writing-mathematics.html) — The standard for written work in every proof-writing course I teach, and the resources for getting there — including a beginner's path into LaTeX.
 
+## Erlangen Program
+
+Interactive lessons on groups of geometric transformations, hosted at erlangen-program (a separate, standalone project -- see the page for why).
+
+- [Interactive Geometry Lessons](erlangen-program/lessons.html) — Play with the group of transformations, don't just read about it — draggable, self-contained, no login, no install.
+
