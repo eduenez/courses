@@ -279,7 +279,7 @@ satisfactorily provided.
 | Thu 17 Sep | Lecture — Generating sets |
 | Tue 22 Sep | Lecture — Permutation groups; cycle notation; Cayley's theorem |
 | Thu 24 Sep | Lecture — Alternating groups; the sign of a permutation; A4 and the tetrahedron |
-| Tue 29 Sep | **Q&A** (**Due**: Set 2) |
+| Tue 29 Sep | **Q&A** (**Due**: [Set 2](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps2.pdf)) |
 | Thu 1 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |
 | Tue 6 Oct | Lecture — Cosets; Lagrange's theorem; index |
 | Thu 8 Oct | Lecture — Homomorphisms: kernel, image, and first properties |

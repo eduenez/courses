@@ -47,7 +47,7 @@ Fall 2026
 | Thu 17 Sep | Lecture — Generating sets | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §1.6 |
 | Tue 22 Sep | Lecture — Permutation groups; cycle notation; Cayley's theorem | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §2.1 |
 | Thu 24 Sep | Lecture — Alternating groups; the sign of a permutation; A4 and the tetrahedron | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §2.2 |
-| Tue 29 Sep | **Q&A** (**Due**: Set 2) |  |
+| Tue 29 Sep | **Q&A** (**Due**: [Set 2](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps2.pdf)) | [Problem Set 2 (PDF)](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps2.pdf) |
 | Thu 1 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |  |
 | Tue 6 Oct | Lecture — Cosets; Lagrange's theorem; index | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §3.1 |
 | Thu 8 Oct | Lecture — Homomorphisms: kernel, image, and first properties | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §3.3 |

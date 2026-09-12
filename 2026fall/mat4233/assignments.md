@@ -16,4 +16,5 @@ Fall 2026
 Problem sets, released one per Q&A session. Each is scored on completeness, not correctness; AI and any other source is permitted, and you are asked to name what you used. Maximum six pages.
 
 - [Problem Set 1](downloads/public/assignments/ps1.pdf) — due Tuesday 8 September — the integers, ℤₙ, binary structures, plane isometries, the group axioms
+- [ps2](downloads/public/assignments/ps2.pdf)
 

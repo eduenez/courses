@@ -328,7 +328,14 @@
     {
       "date": "2026-09-29",
       "kind": "defense",
-      "due": "Problem Set 2"
+      "due": "Problem Set 2",
+      "due_url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps2.pdf",
+      "links": [
+        {
+          "label": "Problem Set 2 (PDF)",
+          "url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps2.pdf"
+        }
+      ]
     },
     {
       "date": "2026-10-01",
