@@ -305,6 +305,10 @@
     },
     {
       "date": "2026-09-14",
+      "kind": "lecture"
+    },
+    {
+      "date": "2026-09-16",
       "kind": "defense",
       "due": "Problem Set 1",
       "due_url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps1.pdf",
@@ -312,16 +316,11 @@
         {
           "label": "Problem Set 1 (PDF)",
           "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps1.pdf"
+        },
+        {
+          "label": "Activity: Quotients and Homomorphic Images (Colab, ungraded)",
+          "url": "https://colab.research.google.com/github/eduenez/courses/blob/main/2026fall/mat5173/downloads/public/activities/quotients-and-homomorphic-images.ipynb"
         }
-      ]
-    },
-    {
-      "date": "2026-09-16",
-      "kind": "lecture",
-      "topic": "Rings: basic definitions and properties",
-      "reading": "ash §2.1",
-      "extra": [
-        "lizh §4.1"
       ]
     },
     {

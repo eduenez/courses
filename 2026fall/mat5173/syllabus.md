@@ -278,8 +278,8 @@ satisfactorily provided.
 | Mon 31 Aug | Lecture — The isomorphism theorems |
 | Wed 2 Sep | Lecture — Direct products |
 | Wed 9 Sep | Lecture — Quotient groups and the isomorphism theorems; direct products |
-| Mon 14 Sep | **Q&A** (**Due**: [Set 1](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps1.pdf)) |
-| Wed 16 Sep | Lecture — Rings: basic definitions and properties |
+| Mon 14 Sep | Lecture |
+| Wed 16 Sep | **Q&A** (**Due**: [Set 1](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps1.pdf)) |
 | Mon 21 Sep | Lecture — Ideals, homomorphisms and quotient rings; the isomorphism theorems for rings |
 | Wed 23 Sep | Lecture — Maximal and prime ideals |
 | Mon 28 Sep | Lecture — Polynomial rings; unique factorization |
