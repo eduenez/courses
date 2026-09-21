@@ -183,7 +183,7 @@
       {
         "id": "problem_sets",
         "title": "Problem sets",
-        "body": "Four sets, each with five or six theoretical problems.\n**Maximum six pages.**\n\nComputational (SageMath) material is supplementary and entirely\noptional: it is never part of a problem set or a Q&A session, and\nit is not graded.\n\nEach item will be scored *only* based on the **degree of completion**\n(not on correctness):\n**2** for a nominally complete solution,\n**1** for a clearly partial one,\n**0** for nothing submitted or for obvious filler with no substance.\n\n*Note:* Any submission containing non-human-readable content, stray\ncharacters, or artifacts revealing non-proofread AI output scores 0\nfor that item.\n"
+        "body": "Four sets of theoretical problems.\n**Maximum six pages.**\n\nComputational (SageMath) material is supplementary and entirely\noptional: it is never part of a problem set or a Q&A session, and\nit is not graded.\n\nEach item will be scored *only* based on the **degree of completion**\n(not on correctness):\n**2** for a nominally complete solution,\n**1** for a clearly partial one,\n**0** for nothing submitted or for obvious filler with no substance.\n\n*Note:* Any submission containing non-human-readable content, stray\ncharacters, or artifacts revealing non-proofread AI output scores 0\nfor that item.\n"
       },
       {
         "id": "ai",
