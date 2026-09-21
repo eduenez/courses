@@ -316,7 +316,6 @@
       "date": "2026-09-16",
       "kind": "defense",
       "due": "Problem Set 1",
-      "due_url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps1.pdf",
       "links": [
         {
           "label": "Problem Set 1 (PDF)",
@@ -326,7 +325,8 @@
           "label": "Activity: Quotients and Homomorphic Images (Colab, ungraded)",
           "url": "https://colab.research.google.com/github/eduenez/courses/blob/main/2026fall/mat5173/downloads/public/activities/quotients-and-homomorphic-images.ipynb"
         }
-      ]
+      ],
+      "due_url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps1.pdf"
     },
     {
       "date": "2026-09-21",
@@ -358,7 +358,14 @@
     {
       "date": "2026-09-30",
       "kind": "defense",
-      "due": "Problem Set 2"
+      "due": "Problem Set 2",
+      "due_url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps2.pdf",
+      "links": [
+        {
+          "label": "Problem Set 2 (PDF)",
+          "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps2.pdf"
+        }
+      ]
     },
     {
       "date": "2026-10-05",

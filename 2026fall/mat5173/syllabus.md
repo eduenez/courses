@@ -283,7 +283,7 @@ satisfactorily provided.
 | Mon 21 Sep | Lecture — Rings: basic definitions and properties; ideals, homomorphisms and quotient rings |
 | Wed 23 Sep | Lecture — The isomorphism theorems for rings; maximal and prime ideals |
 | Mon 28 Sep | Lecture — Polynomial rings; unique factorization |
-| Wed 30 Sep | **Q&A** (**Due**: Set 2) |
+| Wed 30 Sep | **Q&A** (**Due**: [Set 2](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps2.pdf)) |
 | Mon 5 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |
 | Wed 7 Oct | Lecture — Principal ideal domains and Euclidean domains; rings of fractions; irreducible polynomials |
 | Wed 14 Oct | Lecture — Field extensions; degree; simple extensions |

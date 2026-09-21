@@ -283,7 +283,6 @@
       "date": "2026-09-08",
       "kind": "defense",
       "due": "Problem Set 1",
-      "due_url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps1.pdf",
       "links": [
         {
           "label": "Problem Set 1 (PDF)",
@@ -293,7 +292,8 @@
           "label": "Activity: Symmetry Groups and Cayley Graphs (Colab, ungraded)",
           "url": "https://colab.research.google.com/github/eduenez/courses/blob/main/2026fall/mat4233/downloads/public/activities/cayley-graphs-symmetry-groups.ipynb"
         }
-      ]
+      ],
+      "due_url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps1.pdf"
     },
     {
       "date": "2026-09-10",
