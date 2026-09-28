@@ -106,7 +106,7 @@ Email is the preferred method of communication.
 |---|---:|---|
 | Q&A sessions | 40% | 4 sessions, 10% each; none dropped |
 | Problem sets | 15% | 4 sets, 3.75% each; graded for completeness |
-| Midterm Exam 1 | 20% | In class, Mon 5 Oct |
+| Midterm Exam 1 | 20% | In class, Wed 7 Oct |
 | Midterm Exam 2 | 25% | Wed 2 Dec in class |
 
 
@@ -283,14 +283,14 @@ satisfactorily provided.
 | Mon 21 Sep | Lecture — Rings: basic definitions and properties; ideals, homomorphisms and quotient rings |
 | Wed 23 Sep | Lecture — The isomorphism theorems for rings; maximal and prime ideals |
 | Mon 28 Sep | Lecture — Polynomial rings; unique factorization |
-| Wed 30 Sep | **Q&A** (**Due**: [Set 2](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps2.pdf)) |
-| Mon 5 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |
-| Wed 7 Oct | Lecture — Principal ideal domains and Euclidean domains; rings of fractions; irreducible polynomials |
-| Wed 14 Oct | Lecture — Field extensions; degree; simple extensions |
-| Mon 19 Oct | Lecture — Splitting fields; algebraic closures |
-| Wed 21 Oct | Lecture — Separability; normal extensions; finite fields |
-| Mon 26 Oct | Lecture — Affine space and affine varieties |
-| Wed 28 Oct | Lecture — V(I) and I(V): algebra ↔ geometry |
+| Wed 30 Sep | Lecture — Polynomial rings and unique factorization (continued) |
+| Mon 5 Oct | **Q&A** (**Due**: [Set 2](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps2.pdf)) |
+| Wed 7 Oct | **Exam** — Midterm Exam 1 — Sets 1 and 2 |
+| Wed 14 Oct | Lecture — Principal ideal domains and Euclidean domains; rings of fractions; irreducible polynomials |
+| Mon 19 Oct | Lecture — Field extensions; degree; simple extensions |
+| Wed 21 Oct | Lecture — Splitting fields; algebraic closures |
+| Mon 26 Oct | Lecture — Separability; normal extensions; finite fields |
+| Wed 28 Oct | Lecture — Affine varieties; V(I) and I(V): algebra ↔ geometry |
 | Mon 2 Nov | **Q&A** (**Due**: Set 3) |
 | Wed 4 Nov | Lecture — The coordinate ring and the algebra-geometry dictionary; the Nullstellensatz and the Hilbert basis theorem (both stated, not proved) |
 | Mon 9 Nov | Lecture — Plane curves: rational curves; nodes and cusps |

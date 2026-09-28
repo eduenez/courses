@@ -16,5 +16,5 @@ Fall 2026
 Problem sets, released one per Q&A session. Each is scored on completeness, not correctness; AI and any other source is permitted, and you are asked to name what you used. Maximum six pages.
 
 - [Problem Set 1](downloads/public/assignments/ps1.pdf) — due Wednesday 16 September — Ash Ch. 1: groups through direct products
-- [Problem Set 2](downloads/public/assignments/ps2.pdf) — due Wednesday 30 September — Ash 2-1–2.6: rings, ideals, homomorphisms, quotients, polynomials
+- [Problem Set 2](downloads/public/assignments/ps2.pdf) — due Monday 5 October — Ash 2.1–2.6: rings, ideals, homomorphisms, quotients, polynomials
 

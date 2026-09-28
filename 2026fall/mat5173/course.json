@@ -113,7 +113,7 @@
       {
         "name": "Midterm Exam 1",
         "weight": 20,
-        "detail": "In class, Mon 5 Oct"
+        "detail": "In class, Wed 7 Oct"
       },
       {
         "name": "Midterm Exam 2",
@@ -357,23 +357,36 @@
     },
     {
       "date": "2026-09-30",
-      "kind": "defense",
-      "due": "Problem Set 2",
-      "due_url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps2.pdf",
-      "links": [
-        {
-          "label": "Problem Set 2 (PDF)",
-          "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps2.pdf"
-        }
+      "kind": "lecture",
+      "topic": "Polynomial rings and unique factorization (continued)",
+      "reading": "ash §2.5-2.6",
+      "extra": [
+        "lizh §5.1"
       ]
     },
     {
       "date": "2026-10-05",
+      "kind": "defense",
+      "due": "Problem Set 2",
+      "links": [
+        {
+          "label": "Problem Set 2 (PDF)",
+          "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps2.pdf"
+        },
+        {
+          "label": "Activity: Polynomial Factorization (Colab, ungraded)",
+          "url": "https://colab.research.google.com/github/eduenez/courses/blob/main/2026fall/mat5173/downloads/public/activities/polynomial-factorization.ipynb"
+        }
+      ],
+      "due_url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps2.pdf"
+    },
+    {
+      "date": "2026-10-07",
       "kind": "exam",
       "topic": "Midterm Exam 1 — Sets 1 and 2"
     },
     {
-      "date": "2026-10-07",
+      "date": "2026-10-14",
       "kind": "lecture",
       "topic": "Principal ideal domains and Euclidean domains; rings of fractions; irreducible polynomials",
       "reading": "ash §2.7-2.9",
@@ -382,7 +395,7 @@
       ]
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-19",
       "kind": "lecture",
       "topic": "Field extensions; degree; simple extensions",
       "reading": "ash §3.1",
@@ -391,7 +404,7 @@
       ]
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-21",
       "kind": "lecture",
       "topic": "Splitting fields; algebraic closures",
       "reading": "ash §3.2-3.3",
@@ -400,7 +413,7 @@
       ]
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-26",
       "kind": "lecture",
       "topic": "Separability; normal extensions; finite fields",
       "reading": "ash §3.4-3.5",
@@ -410,10 +423,10 @@
       ]
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-28",
       "kind": "lecture",
-      "topic": "Affine space and affine varieties",
-      "reading": "clo §1.1-1.2",
+      "topic": "Affine varieties; V(I) and I(V): algebra ↔ geometry",
+      "reading": "clo §1.1-1.4",
       "extra": [
         "ash §8.1",
         {
@@ -421,15 +434,6 @@
           "loc": "Ch. 1",
           "note": "handout"
         }
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "kind": "lecture",
-      "topic": "V(I) and I(V): algebra ↔ geometry",
-      "reading": "clo §1.4",
-      "extra": [
-        "ash §8.1"
       ]
     },
     {
