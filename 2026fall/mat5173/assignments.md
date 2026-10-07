@@ -17,5 +17,5 @@ Problem sets, released one per Q&A session. Each is scored on completeness, not 
 
 - [Problem Set 1](downloads/public/assignments/ps1.pdf) — due Wednesday 16 September — Ash Ch. 1: groups through direct products
 - [Problem Set 2](downloads/public/assignments/ps2.pdf) — due Monday 5 October — Ash 2.1–2.6: rings, ideals, homomorphisms, quotients, polynomials
-- [ps3](downloads/public/assignments/ps3.pdf)
+- [Problem Set 3](downloads/public/assignments/ps3.pdf) — due Monday 2 November — Ash §2.7–§2.9, §3.1–§3.5, §6.4, Cox et al. §1.1–1§.4: Euclidean domains, fields, extensions and algebraic closure, finite fields, affine varieties
 
