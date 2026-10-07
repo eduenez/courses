@@ -291,7 +291,7 @@ satisfactorily provided.
 | Wed 21 Oct | Lecture — Splitting fields; algebraic closures |
 | Mon 26 Oct | Lecture — Separability; normal extensions; finite fields |
 | Wed 28 Oct | Lecture — Affine varieties; V(I) and I(V): algebra ↔ geometry |
-| Mon 2 Nov | **Q&A** (**Due**: Set 3) |
+| Mon 2 Nov | **Q&A** (**Due**: [Set 3](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps3.pdf)) |
 | Wed 4 Nov | Lecture — The coordinate ring and the algebra-geometry dictionary; the Nullstellensatz and the Hilbert basis theorem (both stated, not proved) |
 | Mon 9 Nov | Lecture — Plane curves: rational curves; nodes and cusps |
 | Wed 11 Nov | Lecture — Fixed fields and Galois groups |

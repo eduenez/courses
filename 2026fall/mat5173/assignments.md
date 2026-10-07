@@ -17,4 +17,5 @@ Problem sets, released one per Q&A session. Each is scored on completeness, not 
 
 - [Problem Set 1](downloads/public/assignments/ps1.pdf) — due Wednesday 16 September — Ash Ch. 1: groups through direct products
 - [Problem Set 2](downloads/public/assignments/ps2.pdf) — due Monday 5 October — Ash 2.1–2.6: rings, ideals, homomorphisms, quotients, polynomials
+- [ps3](downloads/public/assignments/ps3.pdf)
 
