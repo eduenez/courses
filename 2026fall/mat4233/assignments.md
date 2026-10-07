@@ -17,4 +17,5 @@ Problem sets, released one per Q&A session. Each is scored on completeness, not 
 
 - [Problem Set 1](downloads/public/assignments/ps1.pdf) — due Tuesday 8 September — the integers, ℤₙ, binary structures, plane isometries, the group axioms
 - [Problem Set 2](downloads/public/assignments/ps2.pdf) — due Tuesday 29 September — subgroups, cyclic groups, order-index, dihedral, Cayley’s Thm.
+- [ps3](downloads/public/assignments/ps3.pdf)
 

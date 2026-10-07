@@ -54,7 +54,7 @@ Fall 2026
 | Thu 15 Oct | Lecture — Normal subgroups; quotient groups | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §3.4 |
 | Tue 20 Oct | Lecture — The fundamental homomorphism theorem; groups of small order | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §3.4 |
 | Thu 22 Oct | Lecture — Rings and subrings; units and zero divisors | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §4.1 |
-| Tue 27 Oct | **Q&A** (**Due**: Set 3) |  |
+| Tue 27 Oct | **Q&A** (**Due**: [Set 3](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps3.pdf)) | [Problem Set 3 (PDF)](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps3.pdf) |
 | Thu 29 Oct | Lecture — Integral domains and fields; Euler's and Fermat's theorems | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §4.2; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §4.6 |
 | Tue 3 Nov | Lecture — Ring homomorphisms, ideals and quotient rings; fundamental homomorphism theorem | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §4.5 |
 | Thu 5 Nov | Lecture — Ideal theory: principal, prime and maximal ideals | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §4.7 |
