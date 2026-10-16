@@ -20,4 +20,5 @@ anyone not enrolled in the course.
 
 - [Complex geometry (handout)](downloads/gated/complex-geometry.pdf) — companion to the Plane Isometries lecture, 1 Sep — encrypted; passphrase in Canvas
 - [Mathematical writing: tips, do's and don'ts](downloads/gated/math-writing-dos-and-donts.pdf) — a primer on mathematical writing emphasizing what to do and not, with examples [Writing Mathematics](https://eduenez.github.io/courses/support-materials/writing-mathematics.html) — encrypted; passphrase in Canvas
+- [MAT 4233 Exam 1 answer key](downloads/gated/2026fall-mat4233-midterm1-solutions.pdf) — Answer key to Exam 1
 

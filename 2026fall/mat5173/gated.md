@@ -20,4 +20,5 @@ anyone not enrolled in the course.
 
 - [Complex geometry (handout)](downloads/gated/complex-geometry.pdf) — companion to the permutation/symmetry-group lectures — encrypted; passphrase in Canvas
 - [Mathematical writing: tips, do's and don'ts](downloads/gated/math-writing-dos-and-donts.pdf) — the short checklist behind the [Writing Mathematics](https://eduenez.github.io/courses/support-materials/writing-mathematics.html) — encrypted; passphrase in Canvas
+- [MAT 5173 Exam 1 answer key](downloads/gated/2026fall-mat5173-midterm1-solutions.pdf) — Answer key to Exam 1
 
