@@ -367,14 +367,14 @@
     {
       "date": "2026-10-20",
       "kind": "lecture",
-      "topic": "The fundamental homomorphism theorem; groups of small order",
+      "topic": "Normal subgroups and quotient groups, continued",
       "reading": "lizh §3.4"
     },
     {
       "date": "2026-10-22",
       "kind": "lecture",
-      "topic": "Rings and subrings; units and zero divisors",
-      "reading": "lizh §4.1"
+      "topic": "The fundamental homomorphism theorem; groups of small order",
+      "reading": "lizh §3.4"
     },
     {
       "date": "2026-10-27",
@@ -391,10 +391,14 @@
     {
       "date": "2026-10-29",
       "kind": "lecture",
-      "topic": "Integral domains and fields; Euler's and Fermat's theorems",
-      "reading": "lizh §4.2",
+      "topic": "Rings and subrings; units and zero divisors; integral domains and fields",
+      "reading": "lizh §4.1-4.2",
       "extra": [
-        "lizh §4.6"
+        {
+          "text": "lizh",
+          "loc": "§4.6",
+          "note": "Euler's and Fermat's theorems, already met via Lagrange in Set 3"
+        }
       ]
     },
     {

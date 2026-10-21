@@ -284,10 +284,10 @@ satisfactorily provided.
 | Tue 6 Oct | Lecture — Cosets; Lagrange's theorem; index |
 | Thu 8 Oct | Lecture — Homomorphisms: kernel, image, and first properties |
 | Thu 15 Oct | Lecture — Normal subgroups; quotient groups |
-| Tue 20 Oct | Lecture — The fundamental homomorphism theorem; groups of small order |
-| Thu 22 Oct | Lecture — Rings and subrings; units and zero divisors |
+| Tue 20 Oct | Lecture — Normal subgroups and quotient groups, continued |
+| Thu 22 Oct | Lecture — The fundamental homomorphism theorem; groups of small order |
 | Tue 27 Oct | **Q&A** (**Due**: [Set 3](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps3.pdf)) |
-| Thu 29 Oct | Lecture — Integral domains and fields; Euler's and Fermat's theorems |
+| Thu 29 Oct | Lecture — Rings and subrings; units and zero divisors; integral domains and fields |
 | Tue 3 Nov | Lecture — Ring homomorphisms, ideals and quotient rings; fundamental homomorphism theorem |
 | Thu 5 Nov | Lecture — Ideal theory: principal, prime and maximal ideals |
 | Tue 10 Nov | Lecture — Irreducibles and primes; unique factorization domains; principal ideal domains |
