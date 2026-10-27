@@ -290,12 +290,12 @@ satisfactorily provided.
 | Mon 19 Oct | Lecture — Field extensions; degree; simple extensions |
 | Wed 21 Oct | Lecture — Splitting fields; algebraic closures |
 | Mon 26 Oct | Lecture — Separability; normal extensions; finite fields |
-| Wed 28 Oct | Lecture — Affine varieties; V(I) and I(V): algebra ↔ geometry |
+| Wed 28 Oct | Lecture — Separability, normal extensions and finite fields, continued |
 | Mon 2 Nov | **Q&A** (**Due**: [Set 3](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps3.pdf)) |
-| Wed 4 Nov | Lecture — The coordinate ring and the algebra-geometry dictionary; the Nullstellensatz and the Hilbert basis theorem (both stated, not proved) |
-| Mon 9 Nov | Lecture — Plane curves: rational curves; nodes and cusps |
-| Wed 11 Nov | Lecture — Fixed fields and Galois groups |
-| Mon 16 Nov | Lecture — The fundamental theorem of Galois theory |
+| Wed 4 Nov | Lecture — Affine varieties; V(I) and I(V); the Nullstellensatz and the Hilbert basis theorem (stated, not proved) |
+| Mon 9 Nov | Lecture — Fixed fields and Galois groups |
+| Wed 11 Nov | Lecture — The fundamental theorem of Galois theory |
+| Mon 16 Nov | Lecture — The fundamental theorem, continued; computing Galois groups |
 | Wed 18 Nov | **Q&A** (**Due**: Set 4) |
 | Mon 23 Nov | Lecture — Survey: the unsolvability of the quintic |
 | Mon 30 Nov | *Review* — Review — the exam pool |

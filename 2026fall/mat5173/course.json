@@ -425,15 +425,10 @@
     {
       "date": "2026-10-28",
       "kind": "lecture",
-      "topic": "Affine varieties; V(I) and I(V): algebra ↔ geometry",
-      "reading": "clo §1.1-1.4",
+      "topic": "Separability, normal extensions and finite fields, continued",
+      "reading": "ash §3.4-3.5",
       "extra": [
-        "ash §8.1",
-        {
-          "text": "smith",
-          "loc": "Ch. 1",
-          "note": "handout"
-        }
+        "ash §6.4"
       ]
     },
     {
@@ -455,31 +450,36 @@
     {
       "date": "2026-11-04",
       "kind": "lecture",
-      "topic": "The coordinate ring and the algebra-geometry dictionary; the Nullstellensatz and the Hilbert basis theorem (both stated, not proved)",
-      "reading": "clo §1.4",
+      "topic": "Affine varieties; V(I) and I(V); the Nullstellensatz and the Hilbert basis theorem (stated, not proved)",
+      "reading": "clo §1.1-1.4",
       "extra": [
-        "ash §8.2-8.3"
+        "ash §8.1-8.3",
+        {
+          "text": "smith",
+          "loc": "Ch. 1",
+          "note": "handout"
+        }
       ]
     },
     {
       "date": "2026-11-09",
       "kind": "lecture",
-      "topic": "Plane curves: rational curves; nodes and cusps",
-      "reading": "shafarevich §1.1"
-    },
-    {
-      "date": "2026-11-11",
-      "kind": "lecture",
       "topic": "Fixed fields and Galois groups",
       "reading": "ash §6.1"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-11",
       "kind": "lecture",
       "topic": "The fundamental theorem of Galois theory",
-      "reading": "ash §6.2",
+      "reading": "ash §6.2"
+    },
+    {
+      "date": "2026-11-16",
+      "kind": "lecture",
+      "topic": "The fundamental theorem, continued; computing Galois groups",
+      "reading": "ash §6.3",
       "extra": [
-        "ash §6.3"
+        "ash §6.4"
       ]
     },
     {
