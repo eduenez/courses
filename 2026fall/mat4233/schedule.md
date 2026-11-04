@@ -61,7 +61,7 @@ Fall 2026
 | Tue 10 Nov | Lecture — Irreducibles and primes; unique factorization domains; principal ideal domains | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §5.1-5.2 |
 | Thu 12 Nov | Lecture — Euclidean domains; the Euclidean algorithm in Z and in k[x] | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §5.3 |
 | Tue 17 Nov | Lecture — Multiplicative norms; the Gaussian integers Z[i]; Fermat's Two Squares theorem | [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §5.5; [Conrad](https://kconrad.math.uconn.edu/math5230f12/handouts/Zinotes.pdf) (statements and examples; proofs optional) |
-| Thu 19 Nov | **Q&A** (**Due**: Set 4) |  |
+| Thu 19 Nov | **Q&A** (**Due**: [Set 4](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps4.pdf)) | [Problem Set 4 (PDF)](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps4.pdf) |
 | Tue 24 Nov | Lecture — Sums of three and four squares; Z[sqrt(-5)] and the failure of unique factorization | Instructor notes |
 | Tue 1 Dec | *Review* — Review — the exam pool |  |
 | Thu 3 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |  |

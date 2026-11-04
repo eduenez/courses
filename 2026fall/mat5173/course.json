@@ -453,11 +453,12 @@
       "topic": "Affine varieties; V(I) and I(V); the Nullstellensatz and the Hilbert basis theorem (stated, not proved)",
       "reading": "clo §1.1-1.4",
       "extra": [
-        "ash §8.1-8.3",
+        "ash §8.1-8.3"
+      ],
+      "links": [
         {
-          "text": "smith",
-          "loc": "Ch. 1",
-          "note": "handout"
+          "label": "Basic introduction to affine algebraic varieties",
+          "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/gated/affine-algebraic-varieties.pdf"
         }
       ]
     },
@@ -485,7 +486,14 @@
     {
       "date": "2026-11-18",
       "kind": "defense",
-      "due": "Problem Set 4"
+      "due": "Problem Set 4",
+      "due_url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf",
+      "links": [
+        {
+          "label": "Problem Set 4 (PDF)",
+          "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf"
+        }
+      ]
     },
     {
       "date": "2026-11-23",
@@ -546,21 +554,6 @@
       "isbn": "978-3-031-91840-7",
       "doi": "10.1007/978-3-031-91841-4",
       "note": "Algebraic geometry text; supplements Ash Ch. 8."
-    },
-    "shafarevich": {
-      "short": "Shafarevich",
-      "authors": "Shafarevich",
-      "title": "Basic Algebraic Geometry 1",
-      "role": "supplement",
-      "access": "Full",
-      "permalink": "https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621",
-      "url": "https://doi.org/10.1007/978-3-642-37956-7",
-      "kms_key": "shafarevich2013basic",
-      "edition": "3rd",
-      "year": 2013,
-      "publisher": "Springer",
-      "isbn": "978-3-642-37955-0",
-      "doi": "10.1007/978-3-642-37956-7"
     },
     "smith": {
       "short": "Smith",

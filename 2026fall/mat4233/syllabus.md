@@ -293,7 +293,7 @@ satisfactorily provided.
 | Tue 10 Nov | Lecture — Irreducibles and primes; unique factorization domains; principal ideal domains |
 | Thu 12 Nov | Lecture — Euclidean domains; the Euclidean algorithm in Z and in k[x] |
 | Tue 17 Nov | Lecture — Multiplicative norms; the Gaussian integers Z[i]; Fermat's Two Squares theorem |
-| Thu 19 Nov | **Q&A** (**Due**: Set 4) |
+| Thu 19 Nov | **Q&A** (**Due**: [Set 4](https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps4.pdf)) |
 | Tue 24 Nov | Lecture — Sums of three and four squares; Z[sqrt(-5)] and the failure of unique factorization |
 | Tue 1 Dec | *Review* — Review — the exam pool |
 | Thu 3 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |

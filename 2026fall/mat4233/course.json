@@ -444,7 +444,14 @@
     {
       "date": "2026-11-19",
       "kind": "defense",
-      "due": "Problem Set 4"
+      "due": "Problem Set 4",
+      "due_url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps4.pdf",
+      "links": [
+        {
+          "label": "Problem Set 4 (PDF)",
+          "url": "https://eduenez.github.io/courses/2026fall/mat4233/downloads/public/assignments/ps4.pdf"
+        }
+      ]
     },
     {
       "date": "2026-11-24",

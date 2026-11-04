@@ -28,7 +28,6 @@ Fall 2026
 
 ### Supplementary reading
 
-- **[Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621)** — Shafarevich, *Basic Algebraic Geometry 1*, 3rd ed., Springer, 2013. ISBN 978-3-642-37955-0. [DOI: 10.1007/978-3-642-37956-7](https://doi.org/10.1007/978-3-642-37956-7)
 - **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*, Springer, 2024. ISBN 978-3-662-69364-3. [DOI: 10.1007/978-3-662-69365-0](https://doi.org/10.1007/978-3-662-69365-0)
 - **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*, Cambridge University Press, 2005. ISBN 978-0-521-81362-4. [DOI: 10.1017/CBO9780511800436](https://doi.org/10.1017/CBO9780511800436)
 
@@ -61,11 +60,11 @@ Fall 2026
 | Mon 26 Oct | Lecture — Separability; normal extensions; finite fields | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §3.4-3.5; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.4; [LiZh](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939022517804621) §6.4 |
 | Wed 28 Oct | Lecture — Separability, normal extensions and finite fields, continued | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §3.4-3.5; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.4 |
 | Mon 2 Nov | **Q&A** (**Due**: [Set 3](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps3.pdf)) | [Problem Set 3 (PDF)](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps3.pdf); [Activity: Finite Fields and Polynomials (Colab, ungraded)](https://colab.research.google.com/github/eduenez/courses/blob/main/2026fall/mat5173/downloads/public/activities/finite-fields-and-polynomials.ipynb) |
-| Wed 4 Nov | Lecture — Affine varieties; V(I) and I(V); the Nullstellensatz and the Hilbert basis theorem (stated, not proved) | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.1-1.4; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §8.1-8.3; [Smith](https://doi.org/10.1007/978-1-4757-4497-2) Ch. 1 (handout) |
+| Wed 4 Nov | Lecture — Affine varieties; V(I) and I(V); the Nullstellensatz and the Hilbert basis theorem (stated, not proved) | [CLO](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939349214504621) §1.1-1.4; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §8.1-8.3; [Basic introduction to affine algebraic varieties](https://eduenez.github.io/courses/2026fall/mat5173/downloads/gated/affine-algebraic-varieties.pdf) |
 | Mon 9 Nov | Lecture — Fixed fields and Galois groups | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.1 |
 | Wed 11 Nov | Lecture — The fundamental theorem of Galois theory | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.2 |
 | Mon 16 Nov | Lecture — The fundamental theorem, continued; computing Galois groups | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.3; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.4 |
-| Wed 18 Nov | **Q&A** (**Due**: Set 4) |  |
+| Wed 18 Nov | **Q&A** (**Due**: [Set 4](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf)) | [Problem Set 4 (PDF)](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf) |
 | Mon 23 Nov | Lecture — Survey: the unsolvability of the quintic | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.8 |
 | Mon 30 Nov | *Review* — Review — the exam pool |  |
 | Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |  |

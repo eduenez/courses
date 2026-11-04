@@ -35,7 +35,6 @@ Fall 2026 · UT San Antonio
 
 ### Supplementary reading
 
-- **[Shafarevich](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9937915872804621)** — Shafarevich, *Basic Algebraic Geometry 1*, 3rd ed., Springer, 2013. ISBN 978-3-642-37955-0. [DOI: 10.1007/978-3-642-37956-7](https://doi.org/10.1007/978-3-642-37956-7)
 - **[Rosebrock](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939048775404621)** — Rosebrock, *Visual Group Theory*, Springer, 2024. ISBN 978-3-662-69364-3. [DOI: 10.1007/978-3-662-69365-0](https://doi.org/10.1007/978-3-662-69365-0)
 - **[Beardon](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/rkl2f9/alma9939046552304621)** — Beardon, *Algebra and Geometry*, Cambridge University Press, 2005. ISBN 978-0-521-81362-4. [DOI: 10.1017/CBO9780511800436](https://doi.org/10.1017/CBO9780511800436)
 
@@ -296,7 +295,7 @@ satisfactorily provided.
 | Mon 9 Nov | Lecture — Fixed fields and Galois groups |
 | Wed 11 Nov | Lecture — The fundamental theorem of Galois theory |
 | Mon 16 Nov | Lecture — The fundamental theorem, continued; computing Galois groups |
-| Wed 18 Nov | **Q&A** (**Due**: Set 4) |
+| Wed 18 Nov | **Q&A** (**Due**: [Set 4](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf)) |
 | Mon 23 Nov | Lecture — Survey: the unsolvability of the quintic |
 | Mon 30 Nov | *Review* — Review — the exam pool |
 | Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |
