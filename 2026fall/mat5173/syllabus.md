@@ -295,9 +295,9 @@ satisfactorily provided.
 | Mon 9 Nov | Lecture — Fixed fields and Galois groups |
 | Wed 11 Nov | Lecture — The fundamental theorem of Galois theory |
 | Mon 16 Nov | Lecture — The fundamental theorem, continued; computing Galois groups |
-| Wed 18 Nov | **Q&A** (**Due**: [Set 4](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf)) |
+| Wed 18 Nov | *Review* — Review — the exam pool |
 | Mon 23 Nov | Lecture — Survey: the unsolvability of the quintic |
-| Mon 30 Nov | *Review* — Review — the exam pool |
+| Mon 30 Nov | **Q&A** (**Due**: [Set 4](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf)) |
 | Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |
 
 

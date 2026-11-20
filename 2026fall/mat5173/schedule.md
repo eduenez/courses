@@ -64,9 +64,9 @@ Fall 2026
 | Mon 9 Nov | Lecture — Fixed fields and Galois groups | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.1 |
 | Wed 11 Nov | Lecture — The fundamental theorem of Galois theory | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.2 |
 | Mon 16 Nov | Lecture — The fundamental theorem, continued; computing Galois groups | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.3; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.4 |
-| Wed 18 Nov | **Q&A** (**Due**: [Set 4](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf)) | [Problem Set 4 (PDF)](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf) |
+| Wed 18 Nov | *Review* — Review — the exam pool |  |
 | Mon 23 Nov | Lecture — Survey: the unsolvability of the quintic | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.8 |
-| Mon 30 Nov | *Review* — Review — the exam pool |  |
+| Mon 30 Nov | **Q&A** (**Due**: [Set 4](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf)) | [Problem Set 4 (PDF)](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf) |
 | Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |  |
 
 {: .schedule}

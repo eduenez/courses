@@ -485,15 +485,8 @@
     },
     {
       "date": "2026-11-18",
-      "kind": "defense",
-      "due": "Problem Set 4",
-      "due_url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf",
-      "links": [
-        {
-          "label": "Problem Set 4 (PDF)",
-          "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf"
-        }
-      ]
+      "kind": "review",
+      "topic": "Review — the exam pool"
     },
     {
       "date": "2026-11-23",
@@ -503,8 +496,15 @@
     },
     {
       "date": "2026-11-30",
-      "kind": "review",
-      "topic": "Review — the exam pool"
+      "kind": "defense",
+      "due": "Problem Set 4",
+      "due_url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf",
+      "links": [
+        {
+          "label": "Problem Set 4 (PDF)",
+          "url": "https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf"
+        }
+      ]
     },
     {
       "date": "2026-12-02",
