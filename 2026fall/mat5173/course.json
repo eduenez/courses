@@ -491,8 +491,13 @@
     {
       "date": "2026-11-23",
       "kind": "lecture",
-      "topic": "Survey: the unsolvability of the quintic",
-      "reading": "ash §6.8"
+      "topic": "Survey: when geometry becomes algebra — the Nullstellensatz, projective geometry, Bézout and Desargues",
+      "links": [
+        {
+          "label": "Interactive demonstrations: algebra and geometry",
+          "url": "https://supernumero.us/erlangen-program/algebra-geometry/"
+        }
+      ]
     },
     {
       "date": "2026-11-30",
