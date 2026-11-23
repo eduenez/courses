@@ -16,19 +16,20 @@ Everything for the two survey talks is collected on one page:
 
 [**supernumero.us/erlangen-program/algebra-geometry**](https://supernumero.us/erlangen-program/algebra-geometry/)
 
-That page links the slides, the handouts and six interactive demonstrations.
+That page links the slides, the handouts and seven interactive demonstrations.
 The same files are listed here for convenience.
 
 ## When Geometry Becomes Algebra
 
-Equations and ideals, the Nullstellensatz, points at infinity and Bézout's
-theorem; the theorems of Pappus, Pascal and Desargues, and how incidence alone
-builds a number system; dimension.
+The theorems of Pappus and Desargues and the projective plane; how incidence
+alone builds a number system; equations, ideals, the Nullstellensatz and
+Bézout's theorem; Pascal's theorem; and dimension, counted three ways.
 
 - [Slides (PDF)](https://supernumero.us/courses/2026fall/mat5173/downloads/public/slides/geometry-and-algebra-slides.pdf)
 - [Handout (PDF)](https://supernumero.us/courses/2026fall/mat5173/downloads/public/slides/geometry-and-algebra-handout.pdf)
   — the same pictures, with the explanations and the history written out
 - Demonstrations:
+  [the projective plane on a hemisphere](https://supernumero.us/erlangen-program/algebra-geometry/projective-plane.html),
   [intersections and infinity](https://supernumero.us/erlangen-program/algebra-geometry/intersections.html),
   [Bézout's count](https://supernumero.us/erlangen-program/algebra-geometry/bezout.html),
   [Desargues in space and in a plane](https://supernumero.us/erlangen-program/algebra-geometry/desargues.html),
