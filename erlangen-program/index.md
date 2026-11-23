@@ -12,4 +12,5 @@ has_children: true
 Interactive lessons on groups of geometric transformations.
 
 - [**Interactive Geometry Lessons**](lessons.html) — Play with the group of transformations, don't just read about it — draggable, self-contained, no login, no install.
+- [**Algebra and Geometry: Talks and Exhibits**](algebra-and-geometry.html) — Slides, reading handouts and interactive demonstrations for two survey talks — on geometry and polynomial equations, and on algebraic and transcendental functions.
 

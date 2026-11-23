@@ -25,4 +25,5 @@ Guidance that applies across courses rather than to any one of them.
 Interactive lessons on groups of geometric transformations.
 
 - [Interactive Geometry Lessons](erlangen-program/lessons.html) — Play with the group of transformations, don't just read about it — draggable, self-contained, no login, no install.
+- [Algebra and Geometry: Talks and Exhibits](erlangen-program/algebra-and-geometry.html) — Slides, reading handouts and interactive demonstrations for two survey talks — on geometry and polynomial equations, and on algebraic and transcendental functions.
 

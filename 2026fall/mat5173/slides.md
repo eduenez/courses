@@ -15,7 +15,7 @@ Fall 2026
 
 Slides and reading companions for the closing survey lectures. The handouts carry the same pictures with the explanations written out. The interactive demonstrations used in class are at <https://supernumero.us/erlangen-program/algebra-geometry/>.
 
-- [When Geometry Becomes Algebra — slides](downloads/public/slides/geometry-and-algebra-slides.pdf) — Affine varieties and ideals, the Nullstellensatz, projective completion and Bézout, Desargues and Veblen–Young, dimension.
+- [When Geometry Becomes Algebra — slides](downloads/public/slides/geometry-and-algebra-slides.pdf) — Affine varieties and ideals, the Nullstellensatz, projective completion and Bézout; the theorems of Pappus, Pascal and Desargues; Veblen–Young; dimension. With historical notes.
 - [When Geometry Becomes Algebra — handout](downloads/public/slides/geometry-and-algebra-handout.pdf) — The reading companion to the slides above.
 - [When Functions Become Algebraic Objects — slides](downloads/public/slides/functions-and-transcendence-slides.pdf) — Function fields over ℚ, ℝ and ℂ, branching and Riemann surfaces, why exp and sin are transcendental functions, and a sketch of the transcendence of e and π.
 - [When Functions Become Algebraic Objects — handout](downloads/public/slides/functions-and-transcendence-handout.pdf) — The reading companion to the slides above.
