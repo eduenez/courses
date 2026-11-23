@@ -65,7 +65,7 @@ Fall 2026
 | Wed 11 Nov | Lecture — The fundamental theorem of Galois theory | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.2 |
 | Mon 16 Nov | Lecture — The fundamental theorem, continued; computing Galois groups | [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.3; [Ash](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/texts/Ash_Abstract-Algebra.pdf) §6.4 |
 | Wed 18 Nov | *Review* — Review — the exam pool |  |
-| Mon 23 Nov | Lecture — Survey: when geometry becomes algebra — the Nullstellensatz, projective geometry, Bézout and Desargues | [Interactive demonstrations: algebra and geometry](https://supernumero.us/erlangen-program/algebra-geometry/) |
+| Mon 23 Nov | Lecture — Survey: when geometry becomes algebra — the Nullstellensatz, projective geometry, Bézout and Desargues | [Slides](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/slides/geometry-and-algebra-slides.pdf); [Handout](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/slides/geometry-and-algebra-handout.pdf); [Interactive demonstrations: algebra and geometry](https://supernumero.us/erlangen-program/algebra-geometry/) |
 | Mon 30 Nov | **Q&A** (**Due**: [Set 4](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf)) | [Problem Set 4 (PDF)](https://eduenez.github.io/courses/2026fall/mat5173/downloads/public/assignments/ps4.pdf) |
 | Wed 2 Dec | **Exam** — Midterm Exam 2 — Sets 3 and 4 |  |
 

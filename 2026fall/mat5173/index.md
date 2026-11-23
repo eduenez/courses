@@ -17,6 +17,7 @@ Fall 2026
 - [**Weekly Schedule**](schedule.html) — meeting-by-meeting, with readings ([PDF](schedule.pdf))
 - [**Assignments**](assignments.html) — Problem sets, released one per Q&A session. Each is scored on completeness, not correctness; AI and any other source is permitted, and you are asked to name what you used. Maximum six pages.
 - [**Activities**](activities.html) — Optional, ungraded notebooks to work through — on your own or in a group — during the Q&A sessions, while I am meeting students one at a time. Nothing here is submitted and nothing is graded. Each one opens in Google Colab in your browser; no software to install, and no Google account needed to read it. One is posted for each Q&A session.
+- [**Slides**](slides.html) — Slides and reading companions for the closing survey lectures. The handouts carry the same pictures with the explanations written out. The interactive demonstrations used in class are at <https://supernumero.us/erlangen-program/algebra-geometry/>.
 - [**Texts**](texts.html) — The course's primary text — a complete manuscript, not commercially published. The rest of the reading list is on the Weekly Schedule.
 - [**Class-only files**](gated.html) — for enrolled students; passphrase in Canvas
 
