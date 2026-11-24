@@ -16,7 +16,7 @@ Everything for the two survey talks is collected on one page:
 
 [**supernumero.us/erlangen-program/algebra-geometry**](https://supernumero.us/erlangen-program/algebra-geometry/)
 
-That page links the slides, the handouts and seven interactive demonstrations.
+That page links the slides, the handouts and eight interactive demonstrations.
 The same files are listed here for convenience.
 
 ## When Geometry Becomes Algebra
@@ -30,6 +30,7 @@ Bézout's theorem; Pascal's theorem; and dimension, counted three ways.
   — the same pictures, with the explanations and the history written out
 - Demonstrations:
   [the projective plane on a hemisphere](https://supernumero.us/erlangen-program/algebra-geometry/projective-plane.html),
+  [which line is at infinity?](https://supernumero.us/erlangen-program/algebra-geometry/conics.html),
   [intersections and infinity](https://supernumero.us/erlangen-program/algebra-geometry/intersections.html),
   [Bézout's count](https://supernumero.us/erlangen-program/algebra-geometry/bezout.html),
   [Desargues in space and in a plane](https://supernumero.us/erlangen-program/algebra-geometry/desargues.html),
